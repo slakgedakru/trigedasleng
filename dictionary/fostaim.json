@@ -1,11 +1,12 @@
 {
   "id": 187,
   "word": "fostaim",
-  "translation": "adjective: first",
+  "translation": "first",
   "etymology": "from: first-time",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

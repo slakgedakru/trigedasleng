@@ -1,11 +1,12 @@
 {
   "id": 1028,
   "word": "aska",
-  "translation": "noun: petitioner, supplicant",
+  "translation": "petitioner, supplicant",
   "etymology": "from \"asker\" (credit to fanfic \"Grounded\" by Andi Marquette)",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

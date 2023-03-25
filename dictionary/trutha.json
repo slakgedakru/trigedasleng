@@ -1,11 +1,12 @@
 {
   "id": 1784,
   "word": "trutha",
-  "translation": "noun: a superstitious person, one who believes nonsense",
+  "translation": "a superstitious person, one who believes nonsense",
   "etymology": "from \"truther\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

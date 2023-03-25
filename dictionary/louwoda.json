@@ -1,11 +1,12 @@
 {
   "id": 1876,
   "word": "louwoda",
-  "translation": "adjective: shallow",
+  "translation": "shallow",
   "etymology": "from: low-water",
   "link": null,
   "citations": "437",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

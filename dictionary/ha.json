@@ -1,11 +1,12 @@
 {
   "id": 260,
   "word": "ha",
-  "translation": "adverb: how",
+  "translation": "how",
   "etymology": "from: how",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

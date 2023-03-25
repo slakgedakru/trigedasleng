@@ -1,11 +1,12 @@
 {
   "id": 1884,
   "word": "sponjbob",
-  "translation": "noun: yellow (bright)",
+  "translation": "yellow (bright)",
   "etymology": "from: SpongeBob",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

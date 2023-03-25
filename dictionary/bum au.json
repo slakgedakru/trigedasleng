@@ -1,11 +1,12 @@
 {
   "id": 2168,
   "word": "bum au",
-  "translation": "verb: to (forcefully) eject, to be thrown",
+  "translation": "to (forcefully) eject, to be thrown",
   "etymology": "from: bum + au",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

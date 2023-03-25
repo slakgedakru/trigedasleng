@@ -1,11 +1,12 @@
 {
   "id": 626,
   "word": "shanen",
-  "translation": "adjective: happy",
+  "translation": "happy",
   "etymology": "from: shining",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

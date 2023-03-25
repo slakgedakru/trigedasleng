@@ -1,11 +1,12 @@
 {
   "id": 14,
   "word": "auda",
-  "translation": "preposition: through, out of",
+  "translation": "through, out of",
   "etymology": "from: out-of",
   "link": "#",
   "citations": "426",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "preposition"
 }

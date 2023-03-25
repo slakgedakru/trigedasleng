@@ -1,11 +1,12 @@
 {
   "id": 1271,
   "word": "gran au",
-  "translation": "verb: practice, train",
+  "translation": "practice, train",
   "etymology": "from \"grind out\" in the video game sense (cf. c. granplei)",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1061,
   "word": "binch",
-  "translation": "noun: goofball, silly person",
+  "translation": "goofball, silly person",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

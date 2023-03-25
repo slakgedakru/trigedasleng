@@ -1,11 +1,12 @@
 {
   "id": 596,
   "word": "sak daun",
-  "translation": "verb: take (as a strategic point)",
+  "translation": "take (as a strategic point)",
   "etymology": "from: sack down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

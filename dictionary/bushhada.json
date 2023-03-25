@@ -1,11 +1,12 @@
 {
   "id": 74,
   "word": "bushhada",
-  "translation": "noun: coward",
+  "translation": "coward",
   "etymology": "from: bush-hider",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

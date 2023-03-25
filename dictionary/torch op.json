@@ -1,11 +1,12 @@
 {
   "id": 781,
   "word": "torch op",
-  "translation": "verb: torture",
+  "translation": "torture",
   "etymology": "from: torture up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 889,
   "word": "Ded",
-  "translation": "adjective: tired",
+  "translation": "tired",
   "etymology": "from: dead",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

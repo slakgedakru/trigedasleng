@@ -1,11 +1,12 @@
 {
   "id": 2005,
   "word": "wan raun",
-  "translation": "verb: die",
+  "translation": "die",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

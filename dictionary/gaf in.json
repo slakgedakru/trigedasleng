@@ -1,11 +1,12 @@
 {
   "id": 211,
   "word": "gaf in",
-  "translation": "verb: need, seek, want",
+  "translation": "need, seek, want",
   "etymology": "from: gotta-have in",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

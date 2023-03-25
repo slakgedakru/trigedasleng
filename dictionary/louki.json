@@ -1,11 +1,12 @@
 {
   "id": 1436,
   "word": "louki",
-  "translation": "adverb: quietly, unobtrusively, stealthily",
+  "translation": "quietly, unobtrusively, stealthily",
   "etymology": "from tumblr slang \"lowkey\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

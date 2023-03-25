@@ -1,11 +1,12 @@
 {
   "id": 1861,
   "word": "flashpa",
-  "translation": "noun: dream",
+  "translation": "dream",
   "etymology": "from: flashback",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

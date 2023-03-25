@@ -1,11 +1,12 @@
 {
   "id": 532,
   "word": "pas",
-  "translation": "adverb: after",
+  "translation": "after",
   "etymology": "from: pass",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

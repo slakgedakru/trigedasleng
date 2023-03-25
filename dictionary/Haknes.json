@@ -1,11 +1,12 @@
 {
   "id": 924,
   "word": "Haknes",
-  "translation": "noun: illness, sickness",
+  "translation": "illness, sickness",
   "etymology": "from: haken + nes",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "back formation",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 10,
   "word": "as klin",
-  "translation": "verb: demand",
+  "translation": "demand",
   "etymology": "from: ask clean",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

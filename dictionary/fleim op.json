@@ -1,11 +1,12 @@
 {
   "id": 171,
   "word": "fleim op",
-  "translation": "verb: cause to hate, cause to anger",
+  "translation": "cause to hate, cause to anger",
   "etymology": "from: flame up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

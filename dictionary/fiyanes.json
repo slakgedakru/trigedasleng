@@ -1,11 +1,12 @@
 {
   "id": 165,
   "word": "fiyanes",
-  "translation": "noun: compassion",
+  "translation": "compassion",
   "etymology": "from: feel-ya-ness",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

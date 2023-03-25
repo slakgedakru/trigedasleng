@@ -1,11 +1,12 @@
 {
   "id": 1848,
   "word": "liwe",
-  "translation": "noun/adjective/adverb: a short distance",
+  "translation": "a short distance",
   "etymology": "from: long way",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun/adjective/adverb"
 }

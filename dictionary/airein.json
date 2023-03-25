@@ -1,11 +1,12 @@
 {
   "id": 1866,
   "word": "airein",
-  "translation": "noun: tears",
+  "translation": "tears",
   "etymology": "from: eye-rain",
   "link": null,
   "citations": "431",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

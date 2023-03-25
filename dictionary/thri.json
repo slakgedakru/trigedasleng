@@ -1,11 +1,12 @@
 {
   "id": 2018,
   "word": "thri",
-  "translation": "number: three",
+  "translation": "three",
   "etymology": "from: three",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "number"
 }

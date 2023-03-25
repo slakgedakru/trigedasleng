@@ -1,11 +1,12 @@
 {
   "id": 90,
   "word": "chomouda",
-  "translation": "adverb: why",
+  "translation": "why",
   "etymology": "from: what's-your-motive",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

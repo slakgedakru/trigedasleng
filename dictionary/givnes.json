@@ -1,11 +1,12 @@
 {
   "id": 227,
   "word": "givnes",
-  "translation": "noun: sacrifice",
+  "translation": "sacrifice",
   "etymology": "from: give-ness",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

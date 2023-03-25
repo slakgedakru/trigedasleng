@@ -1,11 +1,12 @@
 {
   "id": 217,
   "word": "geda",
-  "translation": "noun: post (military), place; (as part of a compound) gathering",
+  "translation": "post (military), place; (as part of a compound) gathering",
   "etymology": "from: together",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

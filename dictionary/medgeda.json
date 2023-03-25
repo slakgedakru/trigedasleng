@@ -1,11 +1,12 @@
 {
   "id": 449,
   "word": "medgeda",
-  "translation": "noun: crypt",
+  "translation": "crypt",
   "etymology": "from: body-gather",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

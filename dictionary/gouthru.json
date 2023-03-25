@@ -1,11 +1,12 @@
 {
   "id": 249,
   "word": "gouthru",
-  "translation": "noun: passage",
+  "translation": "passage",
   "etymology": "from: go-through",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

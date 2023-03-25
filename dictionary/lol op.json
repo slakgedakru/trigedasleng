@@ -1,11 +1,12 @@
 {
   "id": 1426,
   "word": "lol op",
-  "translation": "verb: laugh mockingly, laugh at someone's expense",
+  "translation": "laugh mockingly, laugh at someone's expense",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

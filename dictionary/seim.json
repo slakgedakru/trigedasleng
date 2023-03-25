@@ -1,11 +1,12 @@
 {
   "id": 607,
   "word": "seim",
-  "translation": "adjective: same",
+  "translation": "same",
   "etymology": "from: same",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

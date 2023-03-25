@@ -1,11 +1,12 @@
 {
   "id": 195,
   "word": "fous",
-  "translation": "noun: force, group, squad, army",
+  "translation": "force, group, squad, army",
   "etymology": "from: force",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

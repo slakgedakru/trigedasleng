@@ -1,11 +1,12 @@
 {
   "id": 411,
   "word": "laudnes",
-  "translation": "noun: pain",
+  "translation": "pain",
   "etymology": "from: loudness",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

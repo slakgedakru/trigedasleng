@@ -1,11 +1,12 @@
 {
   "id": 731,
   "word": "strik",
-  "translation": "adjective: small, little",
+  "translation": "small, little",
   "etymology": "from: streak",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

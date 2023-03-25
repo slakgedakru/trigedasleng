@@ -1,11 +1,12 @@
 {
   "id": 1512,
   "word": "oun op",
-  "translation": "verb: take responsibility, to admit to a mistake",
+  "translation": "take responsibility, to admit to a mistake",
   "etymology": "from \"own up\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

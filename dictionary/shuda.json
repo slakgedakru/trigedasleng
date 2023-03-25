@@ -1,11 +1,12 @@
 {
   "id": 637,
   "word": "shuda",
-  "translation": "noun: weapon",
+  "translation": "weapon",
   "etymology": "from: shooter",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

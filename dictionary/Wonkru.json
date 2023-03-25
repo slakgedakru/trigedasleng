@@ -1,11 +1,12 @@
 {
   "id": 2009,
   "word": "Wonkru",
-  "translation": "noun: Wonkru, One Crew",
+  "translation": "Wonkru, One Crew",
   "etymology": "from: unknown",
   "link": null,
   "citations": "440 ",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

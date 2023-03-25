@@ -1,11 +1,12 @@
 {
   "id": 1578,
   "word": "ro",
-  "translation": "adjective: scraped",
+  "translation": "scraped",
   "etymology": "from \"scraped raw\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

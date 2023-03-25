@@ -1,11 +1,12 @@
 {
   "id": 1206,
   "word": "foka",
-  "translation": "noun: a person who is unreliable, clumsy, or accident-prone",
+  "translation": "a person who is unreliable, clumsy, or accident-prone",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

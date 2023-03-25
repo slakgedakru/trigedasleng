@@ -1,11 +1,12 @@
 {
   "id": 486,
   "word": "nemiyon",
-  "translation": "noun: miracle",
+  "translation": "miracle",
   "etymology": "from: ?-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

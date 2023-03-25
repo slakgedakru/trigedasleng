@@ -1,11 +1,12 @@
 {
   "id": 704,
   "word": "spun in",
-  "translation": "verb: act in the capacity of a back spoon, be (someone's) back spoon",
+  "translation": "act in the capacity of a back spoon, be (someone's) back spoon",
   "etymology": "from: spoon in",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

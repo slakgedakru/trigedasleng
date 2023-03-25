@@ -1,11 +1,12 @@
 {
   "id": 520,
   "word": "op-spuna",
-  "translation": "noun: front spoon, \"little spoon\"",
+  "translation": "front spoon, \"little spoon\"",
   "etymology": "from: up-spooner",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

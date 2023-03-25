@@ -1,11 +1,12 @@
 {
   "id": 1756,
   "word": "throu au",
-  "translation": "verb: suggest",
+  "translation": "suggest",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

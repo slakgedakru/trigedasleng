@@ -1,11 +1,12 @@
 {
   "id": 1137,
   "word": "dauntaim",
-  "translation": "noun: rest, relaxation",
+  "translation": "rest, relaxation",
   "etymology": "from \"downtime\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

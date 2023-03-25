@@ -1,11 +1,12 @@
 {
   "id": 1810,
   "word": "yelarok",
-  "translation": "noun: sulphur",
+  "translation": "sulphur",
   "etymology": "from \"yellow rock\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

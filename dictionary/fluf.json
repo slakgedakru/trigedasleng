@@ -1,11 +1,12 @@
 {
   "id": 1198,
   "word": "fluf",
-  "translation": "noun: raw wool, wool still on the sheep",
+  "translation": "raw wool, wool still on the sheep",
   "etymology": "adj. woolen",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1762,
   "word": "tiknes",
-  "translation": "noun: offensiveness, outrageousness",
+  "translation": "offensiveness, outrageousness",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

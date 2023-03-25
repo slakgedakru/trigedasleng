@@ -1,11 +1,12 @@
 {
   "id": 631,
   "word": "shilkru",
-  "translation": "noun: guard (force)",
+  "translation": "guard (force)",
   "etymology": "from: shell-crew",
   "link": "#",
   "citations": "414",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

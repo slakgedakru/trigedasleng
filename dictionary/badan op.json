@@ -1,11 +1,12 @@
 {
   "id": 22,
   "word": "badan op",
-  "translation": "verb: serve",
+  "translation": "serve",
   "etymology": "from: bow-down up",
   "link": "#",
   "citations": "427",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

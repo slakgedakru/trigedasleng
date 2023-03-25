@@ -1,11 +1,12 @@
 {
   "id": 366,
   "word": "kof op",
-  "translation": "verb: (transitive) pay something, trade something",
+  "translation": "(transitive) pay something, trade something",
   "etymology": "from: cough up",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

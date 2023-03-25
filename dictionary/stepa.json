@@ -1,11 +1,12 @@
 {
   "id": 720,
   "word": "stepa",
-  "translation": "noun: shoe",
+  "translation": "shoe",
   "etymology": "from: stepper",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

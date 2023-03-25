@@ -1,11 +1,12 @@
 {
   "id": 205,
   "word": "fut",
-  "translation": "noun: foot",
+  "translation": "foot",
   "etymology": "from: foot",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

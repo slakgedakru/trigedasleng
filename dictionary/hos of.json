@@ -1,11 +1,12 @@
 {
   "id": 304,
   "word": "hos of",
-  "translation": "verb: go (quickly)",
+  "translation": "go (quickly)",
   "etymology": "from: hustle off",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

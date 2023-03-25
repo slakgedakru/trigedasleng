@@ -1,11 +1,12 @@
 {
   "id": 553,
   "word": "pudon op",
-  "translation": "verb: wear",
+  "translation": "wear",
   "etymology": "from: put-on up",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

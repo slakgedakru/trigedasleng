@@ -1,11 +1,12 @@
 {
   "id": 1672,
   "word": "songon",
-  "translation": "noun: song",
+  "translation": "song",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

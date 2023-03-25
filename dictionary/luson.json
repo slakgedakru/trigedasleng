@@ -1,11 +1,12 @@
 {
   "id": 434,
   "word": "luson",
-  "translation": "noun: host",
+  "translation": "host",
   "etymology": "from: ?-one",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

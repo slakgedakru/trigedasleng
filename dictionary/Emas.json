@@ -1,11 +1,12 @@
 {
   "id": 895,
   "word": "Emas",
-  "translation": "pronoun: himself, herself, itself, themself (singular)",
+  "translation": "himself, herself, itself, themself (singular)",
   "etymology": "from: em + as",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "pronoun"
 }

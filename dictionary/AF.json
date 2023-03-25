@@ -1,11 +1,12 @@
 {
   "id": 857,
   "word": "AF",
-  "translation": "adjective: as fuck",
+  "translation": "as fuck",
   "etymology": "from: as fuck",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "placed directly after an adjective as way to emphasize or exaggerate its meaning placed directly after an adjective as way to emphasize or exaggerate its meaning",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

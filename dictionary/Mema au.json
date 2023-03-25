@@ -1,11 +1,12 @@
 {
   "id": 961,
   "word": "Mema au",
-  "translation": "verb: to forget",
+  "translation": "to forget",
   "etymology": "from: mema in",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "satellite suppletion",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

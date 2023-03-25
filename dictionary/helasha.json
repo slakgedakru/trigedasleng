@@ -1,11 +1,12 @@
 {
   "id": 1310,
   "word": "helasha",
-  "translation": "interjection: hell yeah, right on",
+  "translation": "hell yeah, right on",
   "etymology": "from \"hell\" and c. sha",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "interjection"
 }

@@ -1,11 +1,12 @@
 {
   "id": 897,
   "word": "Figon",
-  "translation": "noun: idea, notion",
+  "translation": "idea, notion",
   "etymology": "from: fig + on",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

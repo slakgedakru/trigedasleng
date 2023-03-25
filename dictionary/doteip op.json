@@ -1,11 +1,12 @@
 {
   "id": 1844,
   "word": "doteip op",
-  "translation": "verb: to fix, repair (quick/temporary)",
+  "translation": "to fix, repair (quick/temporary)",
   "etymology": "from: duct tape",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

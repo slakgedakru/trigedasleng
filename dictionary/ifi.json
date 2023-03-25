@@ -1,11 +1,12 @@
 {
   "id": 319,
   "word": "ifi",
-  "translation": "adjective: risky",
+  "translation": "risky",
   "etymology": "from: iffy",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

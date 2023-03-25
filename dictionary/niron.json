@@ -1,11 +1,12 @@
 {
   "id": 492,
   "word": "niron",
-  "translation": "noun: loved one, lover",
+  "translation": "loved one, lover",
   "etymology": "from: near-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

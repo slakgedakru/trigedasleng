@@ -1,11 +1,12 @@
 {
   "id": 481,
   "word": "natrona",
-  "translation": "noun: traitor",
+  "translation": "traitor",
   "etymology": "from: night-runner",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

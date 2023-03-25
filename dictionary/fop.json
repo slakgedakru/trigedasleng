@@ -1,11 +1,12 @@
 {
   "id": 184,
   "word": "fop",
-  "translation": "noun: mistake",
+  "translation": "mistake",
   "etymology": "from: faux-pas",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

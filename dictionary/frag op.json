@@ -1,11 +1,12 @@
 {
   "id": 198,
   "word": "frag op",
-  "translation": "verb: kill",
+  "translation": "kill",
   "etymology": "from: frag up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

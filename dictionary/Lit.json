@@ -1,11 +1,12 @@
 {
   "id": 955,
   "word": "Lit",
-  "translation": "adjective: excited",
+  "translation": "excited",
   "etymology": "from: lit",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

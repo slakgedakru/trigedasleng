@@ -1,11 +1,12 @@
 {
   "id": 1210,
   "word": "fosh",
-  "translation": "adjective: boastful, conceited, self-satisfied, vainglorious",
+  "translation": "boastful, conceited, self-satisfied, vainglorious",
   "etymology": "from \"full of shit\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

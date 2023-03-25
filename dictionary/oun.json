@@ -1,11 +1,12 @@
 {
   "id": 1511,
   "word": "oun",
-  "translation": "adjective: defeated, humiliated, put in one's place",
+  "translation": "defeated, humiliated, put in one's place",
   "etymology": "from \"owned\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

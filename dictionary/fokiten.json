@@ -1,11 +1,12 @@
 {
   "id": 1208,
   "word": "fokiten",
-  "translation": "adjective: armored, fortified",
+  "translation": "armored, fortified",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

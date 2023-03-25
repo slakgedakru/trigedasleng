@@ -1,11 +1,12 @@
 {
   "id": 560,
   "word": "rak op",
-  "translation": "verb: control",
+  "translation": "control",
   "etymology": "from: rack up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

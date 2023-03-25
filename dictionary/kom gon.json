@@ -1,11 +1,12 @@
 {
   "id": 376,
   "word": "kom gon",
-  "translation": "adverb: ago",
+  "translation": "ago",
   "etymology": "from: come gone",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

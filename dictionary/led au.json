@@ -1,11 +1,12 @@
 {
   "id": 1409,
   "word": "led au",
-  "translation": "verb: display, put on display",
+  "translation": "display, put on display",
   "etymology": "from \"laid out\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

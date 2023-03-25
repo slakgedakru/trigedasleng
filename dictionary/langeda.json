@@ -1,11 +1,12 @@
 {
   "id": 1400,
   "word": "langeda",
-  "translation": "noun: border, boundary",
+  "translation": "border, boundary",
   "etymology": "from \"line-place\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

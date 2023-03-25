@@ -1,11 +1,12 @@
 {
   "id": 721,
   "word": "stergeda",
-  "translation": "noun: stairs, staircase, stairwell",
+  "translation": "stairs, staircase, stairwell",
   "etymology": "from: stair-gather",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

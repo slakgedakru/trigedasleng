@@ -1,11 +1,12 @@
 {
   "id": 2136,
   "word": "zip op",
-  "translation": "verb: to close, to shut, to secure an opening",
+  "translation": "to close, to shut, to secure an opening",
   "etymology": "from: zip up",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

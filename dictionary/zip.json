@@ -1,11 +1,12 @@
 {
   "id": 2137,
   "word": "zip",
-  "translation": "adjective: closed",
+  "translation": "closed",
   "etymology": "from: zip",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

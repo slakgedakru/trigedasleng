@@ -1,11 +1,12 @@
 {
   "id": 669,
   "word": "slip thru",
-  "translation": "verb: fail",
+  "translation": "fail",
   "etymology": "from: slip through",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

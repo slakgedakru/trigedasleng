@@ -1,11 +1,12 @@
 {
   "id": 1346,
   "word": "jusfaya",
-  "translation": "noun: feeling of aliveness and adrenaline after battle",
+  "translation": "feeling of aliveness and adrenaline after battle",
   "etymology": "from Heda's Warrior by Alexis Payton",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

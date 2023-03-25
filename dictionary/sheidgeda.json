@@ -1,11 +1,12 @@
 {
   "id": 628,
   "word": "sheidgeda",
-  "translation": "noun: night",
+  "translation": "night",
   "etymology": "from: shade-gathering",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1906,
   "word": "oyun",
-  "translation": "pronoun: yours  (singular person, plural number)",
+  "translation": "yours  (singular person, plural number)",
   "etymology": "from: all you one",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

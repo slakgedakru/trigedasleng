@@ -1,11 +1,12 @@
 {
   "id": 2069,
   "word": "sof teida",
-  "translation": "noun: mashed potatoes",
+  "translation": "mashed potatoes",
   "etymology": "from: sof + teida (soft potato)",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

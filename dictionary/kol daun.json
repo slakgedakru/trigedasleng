@@ -1,11 +1,12 @@
 {
   "id": 1376,
   "word": "kol daun",
-  "translation": "verb: invoke",
+  "translation": "invoke",
   "etymology": "from \"call down\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

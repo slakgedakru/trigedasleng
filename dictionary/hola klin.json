@@ -1,11 +1,12 @@
 {
   "id": 1324,
   "word": "hola klin",
-  "translation": "verb: shout, yell",
+  "translation": "shout, yell",
   "etymology": "from \"holler\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

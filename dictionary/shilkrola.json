@@ -1,11 +1,12 @@
 {
   "id": 1833,
   "word": "shilkrola",
-  "translation": "noun: turtle",
+  "translation": "turtle",
   "etymology": "from: shell-?",
   "link": "",
   "citations": "425",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

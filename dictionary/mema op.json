@@ -1,11 +1,12 @@
 {
   "id": 1915,
   "word": "mema op",
-  "translation": "verb: remember",
+  "translation": "remember",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

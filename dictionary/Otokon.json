@@ -1,11 +1,12 @@
 {
   "id": 970,
   "word": "Otokon",
-  "translation": "noun: councillor, panelist",
+  "translation": "councillor, panelist",
   "etymology": "from: otok + on",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

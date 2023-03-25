@@ -1,11 +1,12 @@
 {
   "id": 718,
   "word": "step klin",
-  "translation": "verb: march",
+  "translation": "march",
   "etymology": "from: step clean",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

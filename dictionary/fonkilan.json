@@ -1,11 +1,12 @@
 {
   "id": 2099,
   "word": "fonkilan",
-  "translation": "noun: organic shape, polygon",
+  "translation": "organic shape, polygon",
   "etymology": "from: funky line",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

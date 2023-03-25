@@ -1,11 +1,12 @@
 {
   "id": 1175,
   "word": "feisbatel",
-  "translation": "noun: kiss",
+  "translation": "kiss",
   "etymology": "from a series of tumblr posts",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

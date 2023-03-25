@@ -1,11 +1,12 @@
 {
   "id": 1392,
   "word": "kwiven",
-  "translation": "adjective: fluttering, quivering, shaking, shivering, vibrating",
+  "translation": "fluttering, quivering, shaking, shivering, vibrating",
   "etymology": "from \"quivering\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1807,
   "word": "worhok",
-  "translation": "noun: battleaxe, greataxe, any large axe",
+  "translation": "battleaxe, greataxe, any large axe",
   "etymology": "from \"warhawk\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

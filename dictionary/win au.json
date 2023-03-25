@@ -1,11 +1,12 @@
 {
   "id": 828,
   "word": "win au",
-  "translation": "verb: win",
+  "translation": "win",
   "etymology": "from: win out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

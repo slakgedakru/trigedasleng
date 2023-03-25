@@ -1,11 +1,12 @@
 {
   "id": 261,
   "word": "haihefa",
-  "translation": "noun: king",
+  "translation": "king",
   "etymology": "from: high-?",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

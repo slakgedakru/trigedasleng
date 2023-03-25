@@ -1,11 +1,12 @@
 {
   "id": 636,
   "word": "shouna",
-  "translation": "noun: advisor",
+  "translation": "advisor",
   "etymology": "from: showing-er",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

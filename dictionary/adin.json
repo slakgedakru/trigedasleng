@@ -1,11 +1,12 @@
 {
   "id": 2112,
   "word": "adin",
-  "translation": "noun: ingredient, raw material",
+  "translation": "ingredient, raw material",
   "etymology": "from: add in",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

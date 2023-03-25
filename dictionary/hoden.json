@@ -1,11 +1,12 @@
 {
   "id": 1322,
   "word": "hoden",
-  "translation": "adjective: motionless, still",
+  "translation": "motionless, still",
   "etymology": "from \"holding\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

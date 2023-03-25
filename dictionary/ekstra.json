@@ -1,11 +1,12 @@
 {
   "id": 1160,
   "word": "ekstra",
-  "translation": "adjective: incredible, storied, epic, heroic",
+  "translation": "incredible, storied, epic, heroic",
   "etymology": "from \"extra\" in the internet slang sense",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

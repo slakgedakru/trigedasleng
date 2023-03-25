@@ -1,11 +1,12 @@
 {
   "id": 543,
   "word": "poda",
-  "translation": "verb: pad (as a footstep), lap (as a wave)",
+  "translation": "pad (as a footstep), lap (as a wave)",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

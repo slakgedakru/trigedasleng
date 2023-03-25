@@ -1,11 +1,12 @@
 {
   "id": 106,
   "word": "dig au",
-  "translation": "verb: find out, discover; learn",
+  "translation": "find out, discover; learn",
   "etymology": "from: dig out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

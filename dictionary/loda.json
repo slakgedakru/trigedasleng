@@ -1,11 +1,12 @@
 {
   "id": 425,
   "word": "loda",
-  "translation": "adjective: [denotes plurality]",
+  "translation": "[denotes plurality]",
   "etymology": "from: lot-of",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

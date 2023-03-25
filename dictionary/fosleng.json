@@ -1,11 +1,12 @@
 {
   "id": 2062,
   "word": "fosleng",
-  "translation": "none: mother tongue",
+  "translation": "mother tongue",
   "etymology": "from: fos + sleng (first slang)",
   "link": "",
   "citations": "TrigSeda",
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "none"
 }

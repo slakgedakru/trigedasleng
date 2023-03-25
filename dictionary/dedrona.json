@@ -1,11 +1,12 @@
 {
   "id": 2135,
   "word": "dedrona",
-  "translation": "noun: zombie, undead",
+  "translation": "zombie, undead",
   "etymology": "from: dead runner",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

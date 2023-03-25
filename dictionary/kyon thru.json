@@ -1,11 +1,12 @@
 {
   "id": 1393,
   "word": "kyon thru",
-  "translation": "verb: endure, brave, take it, withstand",
+  "translation": "endure, brave, take it, withstand",
   "etymology": "from kyongedon",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

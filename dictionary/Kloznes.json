@@ -1,11 +1,12 @@
 {
   "id": 947,
   "word": "Kloznes",
-  "translation": "noun: denial",
+  "translation": "denial",
   "etymology": "from: kloz in + nes",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

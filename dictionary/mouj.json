@@ -1,11 +1,12 @@
 {
   "id": 1461,
   "word": "mouj",
-  "translation": "noun: smile",
+  "translation": "smile",
   "etymology": "from \"emoji\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

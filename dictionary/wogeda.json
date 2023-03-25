@@ -1,11 +1,12 @@
 {
   "id": 837,
   "word": "wogeda",
-  "translation": "noun: chamber",
+  "translation": "chamber",
   "etymology": "from: wall-gather",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

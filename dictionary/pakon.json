@@ -1,11 +1,12 @@
 {
   "id": 1522,
   "word": "pakon",
-  "translation": "noun: backpack, pack",
+  "translation": "backpack, pack",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

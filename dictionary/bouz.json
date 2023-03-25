@@ -1,11 +1,12 @@
 {
   "id": 1092,
   "word": "bouz",
-  "translation": "noun: voice",
+  "translation": "voice",
   "etymology": "from speaker brand name \"boze\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1677,
   "word": "sop",
-  "translation": "interjection: hail, greetings",
+  "translation": "hail, greetings",
   "etymology": "from: Whats up (sup)",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "interjection"
 }

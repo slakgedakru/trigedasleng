@@ -1,11 +1,12 @@
 {
   "id": 295,
   "word": "hodnes",
-  "translation": "noun: love",
+  "translation": "love",
   "etymology": "from: holdness",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

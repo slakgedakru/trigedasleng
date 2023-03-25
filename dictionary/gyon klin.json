@@ -1,11 +1,12 @@
 {
   "id": 257,
   "word": "gyon klin",
-  "translation": "verb: pass on",
+  "translation": "pass on",
   "etymology": "from: get-on clean",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

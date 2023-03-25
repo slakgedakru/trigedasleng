@@ -1,11 +1,12 @@
 {
   "id": 1118,
   "word": "but au",
-  "translation": "verb: kick out, oust, eject",
+  "translation": "kick out, oust, eject",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

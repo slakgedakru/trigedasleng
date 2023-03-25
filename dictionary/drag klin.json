@@ -1,11 +1,12 @@
 {
   "id": 118,
   "word": "drag klin",
-  "translation": "verb: disrespect",
+  "translation": "disrespect",
   "etymology": "from: drag clean",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

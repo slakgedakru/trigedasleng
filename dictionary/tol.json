@@ -1,11 +1,12 @@
 {
   "id": 1764,
   "word": "tol",
-  "translation": "adjective: entire, complete, total",
+  "translation": "entire, complete, total",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 281,
   "word": "hedsweden",
-  "translation": "adjective: guilty",
+  "translation": "guilty",
   "etymology": "from: head-sweating",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

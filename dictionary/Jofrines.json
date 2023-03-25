@@ -1,11 +1,12 @@
 {
   "id": 935,
   "word": "Jofrines",
-  "translation": "noun: cruelty",
+  "translation": "cruelty",
   "etymology": "from: jofri + nes",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

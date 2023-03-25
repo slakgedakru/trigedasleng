@@ -1,11 +1,12 @@
 {
   "id": 182,
   "word": "folau",
-  "translation": "noun: ash",
+  "translation": "ash",
   "etymology": "from: fallout",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

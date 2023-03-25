@@ -1,11 +1,12 @@
 {
   "id": 2,
   "word": "ai",
-  "translation": "pronoun: I, me",
+  "translation": "I, me",
   "etymology": "from: I",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

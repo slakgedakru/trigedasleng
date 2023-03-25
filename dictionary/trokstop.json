@@ -1,11 +1,12 @@
 {
   "id": 2118,
   "word": "trokstop",
-  "translation": "noun: stopover, rest area, outpost",
+  "translation": "stopover, rest area, outpost",
   "etymology": "from: truck stop",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

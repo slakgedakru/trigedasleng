@@ -1,11 +1,12 @@
 {
   "id": 1320,
   "word": "hob raun",
-  "translation": "verb: limp, hobble",
+  "translation": "limp, hobble",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

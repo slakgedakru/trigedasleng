@@ -1,11 +1,12 @@
 {
   "id": 116,
   "word": "dou",
-  "translation": "noun: door",
+  "translation": "door",
   "etymology": "from: door",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

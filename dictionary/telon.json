@@ -1,11 +1,12 @@
 {
   "id": 761,
   "word": "telon",
-  "translation": "noun: a word, a conversation",
+  "translation": "a word, a conversation",
   "etymology": "from: tell-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

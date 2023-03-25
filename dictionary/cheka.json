@@ -1,11 +1,12 @@
 {
   "id": 77,
   "word": "cheka",
-  "translation": "noun: sentry",
+  "translation": "sentry",
   "etymology": "from: checker",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 585,
   "word": "ron raun",
-  "translation": "verb: (intransitive) give; (intransitive) run",
+  "translation": "(intransitive) give; (intransitive) run",
   "etymology": "from: run around",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

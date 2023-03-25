@@ -1,11 +1,12 @@
 {
   "id": 675,
   "word": "snap",
-  "translation": "adjective: fast, quick",
+  "translation": "fast, quick",
   "etymology": "from: snap",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

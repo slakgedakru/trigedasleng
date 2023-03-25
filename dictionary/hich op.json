@@ -1,11 +1,12 @@
 {
   "id": 1316,
   "word": "hich op",
-  "translation": "verb: marry, wed",
+  "translation": "marry, wed",
   "etymology": "ge hich op get married",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

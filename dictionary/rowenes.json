@@ -1,11 +1,12 @@
 {
   "id": 588,
   "word": "rowenes",
-  "translation": "noun: retreat",
+  "translation": "retreat",
   "etymology": "from: run-away-ness",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

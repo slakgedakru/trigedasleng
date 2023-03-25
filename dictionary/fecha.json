@@ -1,11 +1,12 @@
 {
   "id": 147,
   "word": "fecha",
-  "translation": "noun: dog",
+  "translation": "dog",
   "etymology": "from: fetcher",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

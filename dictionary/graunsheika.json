@@ -1,11 +1,12 @@
 {
   "id": 2128,
   "word": "graunsheika",
-  "translation": "noun: earthquake",
+  "translation": "earthquake",
   "etymology": "from: ground shaker",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

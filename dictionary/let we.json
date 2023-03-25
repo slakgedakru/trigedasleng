@@ -1,11 +1,12 @@
 {
   "id": 1897,
   "word": "let we",
-  "translation": "verb: forget",
+  "translation": "forget",
   "etymology": "from: let away",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1364,
   "word": "klama",
-  "translation": "noun: climber",
+  "translation": "climber",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

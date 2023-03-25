@@ -1,11 +1,12 @@
 {
   "id": 1254,
   "word": "gon nau",
-  "translation": "preposition: until, before",
+  "translation": "until, before",
   "etymology": "from \"until\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "preposition"
 }

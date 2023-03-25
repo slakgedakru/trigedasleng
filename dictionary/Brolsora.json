@@ -1,11 +1,12 @@
 {
   "id": 883,
   "word": "Brolsora",
-  "translation": "noun: crow",
+  "translation": "crow",
   "etymology": "from: brolgeda + sora",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

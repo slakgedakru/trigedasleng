@@ -1,11 +1,12 @@
 {
   "id": 1787,
   "word": "twin",
-  "translation": "preposition: between",
+  "translation": "between",
   "etymology": "in the middle of",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "preposition"
 }

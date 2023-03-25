@@ -1,11 +1,12 @@
 {
   "id": 641,
   "word": "sintaim",
-  "translation": "noun: day",
+  "translation": "day",
   "etymology": "from: seeing time",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

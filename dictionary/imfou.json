@@ -1,11 +1,12 @@
 {
   "id": 320,
   "word": "imfou",
-  "translation": "noun: message",
+  "translation": "message",
   "etymology": "from: info",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

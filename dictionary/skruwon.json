@@ -1,11 +1,12 @@
 {
   "id": 1643,
   "word": "skruwon",
-  "translation": "noun: a curse or hex",
+  "translation": "a curse or hex",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

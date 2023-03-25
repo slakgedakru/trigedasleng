@@ -1,11 +1,12 @@
 {
   "id": 1802,
   "word": "wilou",
-  "translation": "noun: witch",
+  "translation": "witch",
   "etymology": "from \"Willow\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

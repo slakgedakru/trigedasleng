@@ -1,11 +1,12 @@
 {
   "id": 54,
   "word": "blid au",
-  "translation": "verb: bleed",
+  "translation": "bleed",
   "etymology": "from: bleed out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

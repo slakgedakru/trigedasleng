@@ -1,11 +1,12 @@
 {
   "id": 1276,
   "word": "gredines",
-  "translation": "noun: fertility",
+  "translation": "fertility",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

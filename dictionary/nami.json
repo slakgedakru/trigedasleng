@@ -1,11 +1,12 @@
 {
   "id": 477,
   "word": "nami",
-  "translation": "phrase: feel me?, know what I mean?, got it?; functions like the Japanese \"ne\" particle",
+  "translation": "feel me?, know what I mean?, got it?; functions like the Japanese \"ne\" particle",
   "etymology": "from: know-what-I-mean",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

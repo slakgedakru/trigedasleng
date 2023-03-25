@@ -1,11 +1,12 @@
 {
   "id": 382,
   "word": "koma op",
-  "translation": "verb: honor, give honor (to)",
+  "translation": "honor, give honor (to)",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

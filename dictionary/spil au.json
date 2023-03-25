@@ -1,11 +1,12 @@
 {
   "id": 1693,
   "word": "spil au",
-  "translation": "verb: pour, spill",
+  "translation": "pour, spill",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

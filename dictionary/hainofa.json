@@ -1,11 +1,12 @@
 {
   "id": 262,
   "word": "hainofa",
-  "translation": "noun: prince",
+  "translation": "prince",
   "etymology": "from: high-number-four",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

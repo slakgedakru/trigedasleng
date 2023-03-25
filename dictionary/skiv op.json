@@ -1,11 +1,12 @@
 {
   "id": 661,
   "word": "skiv op",
-  "translation": "verb: creep on",
+  "translation": "creep on",
   "etymology": "from: skeeve up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

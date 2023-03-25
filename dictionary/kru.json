@@ -1,11 +1,12 @@
 {
   "id": 398,
   "word": "kru",
-  "translation": "noun: a people, group of people",
+  "translation": "a people, group of people",
   "etymology": "from: crew",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 929,
   "word": "Hoson",
-  "translation": "noun: vehicle",
+  "translation": "vehicle",
   "etymology": "from: hosa + en",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

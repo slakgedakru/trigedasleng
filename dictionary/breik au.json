@@ -1,11 +1,12 @@
 {
   "id": 67,
   "word": "breik au",
-  "translation": "verb: free, release",
+  "translation": "free, release",
   "etymology": "from: break out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

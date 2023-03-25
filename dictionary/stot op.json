@@ -1,11 +1,12 @@
 {
   "id": 1716,
   "word": "stot op",
-  "translation": "verb: urge a horse to begin moving",
+  "translation": "urge a horse to begin moving",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

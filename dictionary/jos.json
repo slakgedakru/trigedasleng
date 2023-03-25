@@ -1,11 +1,12 @@
 {
   "id": 335,
   "word": "jos",
-  "translation": "adverb: just, only",
+  "translation": "just, only",
   "etymology": "from: just",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

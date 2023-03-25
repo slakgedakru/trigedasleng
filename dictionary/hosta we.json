@@ -1,11 +1,12 @@
 {
   "id": 1332,
   "word": "hosta we",
-  "translation": "verb: sheath, holster, put (weapon) away",
+  "translation": "sheath, holster, put (weapon) away",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

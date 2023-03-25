@@ -1,11 +1,12 @@
 {
   "id": 809,
   "word": "tsa",
-  "translation": "phrase: let's",
+  "translation": "let's",
   "etymology": "from: let's-a",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

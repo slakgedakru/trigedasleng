@@ -1,11 +1,12 @@
 {
   "id": 41,
   "word": "bants",
-  "translation": "verb: leave",
+  "translation": "leave",
   "etymology": "from: bounce",
   "link": "#",
   "citations": "271",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 336,
   "word": "jova",
-  "translation": "noun: courage",
+  "translation": "courage",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

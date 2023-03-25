@@ -1,11 +1,12 @@
 {
   "id": 298,
   "word": "hola au",
-  "translation": "verb: speak (up)",
+  "translation": "speak (up)",
   "etymology": "from: holler out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

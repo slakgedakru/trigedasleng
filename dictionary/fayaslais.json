@@ -1,11 +1,12 @@
 {
   "id": 1173,
   "word": "fayaslais",
-  "translation": "noun: papercut",
+  "translation": "papercut",
   "etymology": "from: \"fire-slice\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

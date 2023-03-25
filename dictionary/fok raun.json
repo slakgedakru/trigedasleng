@@ -1,11 +1,12 @@
 {
   "id": 2185,
   "word": "fok raun",
-  "translation": "verb: to goof off, to waste time",
+  "translation": "to goof off, to waste time",
   "etymology": "from: fuck around",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

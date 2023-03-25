@@ -1,11 +1,12 @@
 {
   "id": 997,
   "word": "Spoka",
-  "translation": "noun: firestarter, match",
+  "translation": "firestarter, match",
   "etymology": "from: sparker",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

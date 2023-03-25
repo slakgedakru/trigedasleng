@@ -1,11 +1,12 @@
 {
   "id": 119,
   "word": "drag raun",
-  "translation": "verb: fall behind",
+  "translation": "fall behind",
   "etymology": "from: drag around",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

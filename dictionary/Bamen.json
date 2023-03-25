@@ -1,11 +1,12 @@
 {
   "id": 873,
   "word": "Bamen",
-  "translation": "adjective: spicy",
+  "translation": "spicy",
   "etymology": "from: bam + en",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

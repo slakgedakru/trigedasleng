@@ -1,11 +1,12 @@
 {
   "id": 729,
   "word": "strecha",
-  "translation": "noun: walker, one who walks",
+  "translation": "walker, one who walks",
   "etymology": "from: stretcher",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 764,
   "word": "thau",
-  "translation": "preposition: without",
+  "translation": "without",
   "etymology": "from: without",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "preposition"
 }

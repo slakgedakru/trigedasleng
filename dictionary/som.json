@@ -1,11 +1,12 @@
 {
   "id": 679,
   "word": "som",
-  "translation": "noun: something",
+  "translation": "something",
   "etymology": "from: something",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

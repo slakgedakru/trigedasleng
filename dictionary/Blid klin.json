@@ -1,11 +1,12 @@
 {
   "id": 880,
   "word": "Blid klin",
-  "translation": "verb: to bleed out, to die from bleeding",
+  "translation": "to bleed out, to die from bleeding",
   "etymology": "from: blid au",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

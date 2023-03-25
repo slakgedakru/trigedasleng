@@ -1,11 +1,12 @@
 {
   "id": 1499,
   "word": "oda",
-  "translation": "adjective: too much",
+  "translation": "too much",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

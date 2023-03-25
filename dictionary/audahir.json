@@ -1,11 +1,12 @@
 {
   "id": 1031,
   "word": "audahir",
-  "translation": "adjective: departed, gone",
+  "translation": "departed, gone",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

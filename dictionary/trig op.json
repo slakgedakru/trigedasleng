@@ -1,11 +1,12 @@
 {
   "id": 794,
   "word": "trig op",
-  "translation": "verb: shoot",
+  "translation": "shoot",
   "etymology": "from: trigger up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

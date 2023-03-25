@@ -1,11 +1,12 @@
 {
   "id": 151,
   "word": "feva",
-  "translation": "noun: forever",
+  "translation": "forever",
   "etymology": "from: forever",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

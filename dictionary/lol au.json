@@ -1,11 +1,12 @@
 {
   "id": 1425,
   "word": "lol au",
-  "translation": "verb: laugh",
+  "translation": "laugh",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

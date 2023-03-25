@@ -1,11 +1,12 @@
 {
   "id": 2134,
   "word": "egou",
-  "translation": "noun: waffle",
+  "translation": "waffle",
   "etymology": "from: the brand name Eggo",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

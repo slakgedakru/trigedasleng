@@ -1,11 +1,12 @@
 {
   "id": 1668,
   "word": "somtaim",
-  "translation": "adverb: eventually, sooner or later",
+  "translation": "eventually, sooner or later",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

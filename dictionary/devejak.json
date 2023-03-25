@@ -1,11 +1,12 @@
 {
   "id": 1139,
   "word": "devejak",
-  "translation": "noun: river serpent",
+  "translation": "river serpent",
   "etymology": "from \"devil-jack diamond\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

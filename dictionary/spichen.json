@@ -1,11 +1,12 @@
 {
   "id": 698,
   "word": "spichen",
-  "translation": "phrase: goddamn",
+  "translation": "goddamn",
   "etymology": "from: speeching",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

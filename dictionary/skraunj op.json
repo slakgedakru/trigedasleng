@@ -1,11 +1,12 @@
 {
   "id": 1639,
   "word": "skraunj op",
-  "translation": "verb: salvage, scrounge",
+  "translation": "salvage, scrounge",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

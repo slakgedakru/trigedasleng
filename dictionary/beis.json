@@ -1,11 +1,12 @@
 {
   "id": 1048,
   "word": "beis",
-  "translation": "noun: camp, bivouac, outpost",
+  "translation": "camp, bivouac, outpost",
   "etymology": "from \"base\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

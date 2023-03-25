@@ -1,11 +1,12 @@
 {
   "id": 701,
   "word": "splita",
-  "translation": "noun: outsider, outcast",
+  "translation": "outsider, outcast",
   "etymology": "from: splitter",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 296,
   "word": "hodon",
-  "translation": "noun: delay; loved one",
+  "translation": "delay; loved one",
   "etymology": "from: hold-one",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2064,
   "word": "deistrat",
-  "translation": "noun: schedule",
+  "translation": "schedule",
   "etymology": "from: dei + strat (day plan)",
   "link": "",
   "citations": "TrigSeda",
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1984,
   "word": "kom nau",
-  "translation": "adverb: now, right now, already, yet",
+  "translation": "now, right now, already, yet",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

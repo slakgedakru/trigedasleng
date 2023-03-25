@@ -1,11 +1,12 @@
 {
   "id": 2052,
   "word": "tofon",
-  "translation": "noun: a difficult thing",
+  "translation": "a difficult thing",
   "etymology": "from: tough one",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

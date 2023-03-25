@@ -1,11 +1,12 @@
 {
   "id": 1279,
   "word": "grip",
-  "translation": "noun: weapon hilt",
+  "translation": "weapon hilt",
   "etymology": "from \"grip\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

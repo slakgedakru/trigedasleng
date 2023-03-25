@@ -1,11 +1,12 @@
 {
   "id": 389,
   "word": "kos",
-  "translation": "conjunction: because, for",
+  "translation": "because, for",
   "etymology": "from: because",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "conjunction"
 }

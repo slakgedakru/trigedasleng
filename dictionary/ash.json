@@ -1,11 +1,12 @@
 {
   "id": 1025,
   "word": "ash",
-  "translation": "noun: snow",
+  "translation": "snow",
   "etymology": "from c. ash daun",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

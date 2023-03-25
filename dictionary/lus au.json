@@ -1,11 +1,12 @@
 {
   "id": 433,
   "word": "lus au",
-  "translation": "verb: [transitive] untie (someone)",
+  "translation": "[transitive] untie (someone)",
   "etymology": "from: loose out",
   "link": "#",
   "citations": null,
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

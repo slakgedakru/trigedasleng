@@ -1,11 +1,12 @@
 {
   "id": 1117,
   "word": "but",
-  "translation": "noun: kick",
+  "translation": "kick",
   "etymology": "from \"boot\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

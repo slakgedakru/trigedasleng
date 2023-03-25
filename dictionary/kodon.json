@@ -1,11 +1,12 @@
 {
   "id": 365,
   "word": "kodon",
-  "translation": "noun: cut; share",
+  "translation": "cut; share",
   "etymology": "from: cut-one",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

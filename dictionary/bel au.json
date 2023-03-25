@@ -1,11 +1,12 @@
 {
   "id": 1049,
   "word": "bel au",
-  "translation": "verb: sing",
+  "translation": "sing",
   "etymology": "from \"belt out\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

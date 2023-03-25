@@ -1,11 +1,12 @@
 {
   "id": 306,
   "word": "hos raun",
-  "translation": "verb: hurry",
+  "translation": "hurry",
   "etymology": "from: hustle around",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

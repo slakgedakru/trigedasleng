@@ -1,11 +1,12 @@
 {
   "id": 435,
   "word": "mafta op",
-  "translation": "verb: follow",
+  "translation": "follow",
   "etymology": "from: come-after up",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

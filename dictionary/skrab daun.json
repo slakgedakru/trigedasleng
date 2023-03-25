@@ -1,11 +1,12 @@
 {
   "id": 662,
   "word": "skrab daun",
-  "translation": "verb: write",
+  "translation": "write",
   "etymology": "from: scribe down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

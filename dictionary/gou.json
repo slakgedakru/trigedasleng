@@ -1,11 +1,12 @@
 {
   "id": 244,
   "word": "gou",
-  "translation": "noun: time, iteration",
+  "translation": "time, iteration",
   "etymology": "from: go",
   "link": "#",
   "citations": "294",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

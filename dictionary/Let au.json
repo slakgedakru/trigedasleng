@@ -1,11 +1,12 @@
 {
   "id": 954,
   "word": "Let au",
-  "translation": "verb: to empty (a container)",
+  "translation": "to empty (a container)",
   "etymology": "from: let out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 863,
   "word": "Asfounes",
-  "translation": "noun: curiosity, inquisitiveness",
+  "translation": "curiosity, inquisitiveness",
   "etymology": "from: asfou + nes",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

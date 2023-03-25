@@ -1,11 +1,12 @@
 {
   "id": 282,
   "word": "hef",
-  "translation": "noun: man",
+  "translation": "man",
   "etymology": "from: hefter",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 597,
   "word": "sampada",
-  "translation": "noun: footstep",
+  "translation": "footstep",
   "etymology": "from: sand-padder",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

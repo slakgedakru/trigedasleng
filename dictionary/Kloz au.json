@@ -1,11 +1,12 @@
 {
   "id": 944,
   "word": "Kloz au",
-  "translation": "verb: to come out",
+  "translation": "to come out",
   "etymology": "from: closet out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

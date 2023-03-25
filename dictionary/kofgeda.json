@@ -1,11 +1,12 @@
 {
   "id": 368,
   "word": "kofgeda",
-  "translation": "noun: trading post",
+  "translation": "trading post",
   "etymology": "from: cough-gather",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

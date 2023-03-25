@@ -1,11 +1,12 @@
 {
   "id": 900,
   "word": "Fikplei",
-  "translation": "noun: storytelling",
+  "translation": "storytelling",
   "etymology": "from: fik + plei",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

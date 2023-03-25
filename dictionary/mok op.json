@@ -1,11 +1,12 @@
 {
   "id": 2175,
   "word": "mok op",
-  "translation": "verb: to edit, to improve, to revise something",
+  "translation": "to edit, to improve, to revise something",
   "etymology": "from: mark up",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 709,
   "word": "ste daun",
-  "translation": "verb: be dead",
+  "translation": "be dead",
   "etymology": "from: stay down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

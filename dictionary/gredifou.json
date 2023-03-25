@@ -1,11 +1,12 @@
 {
   "id": 1275,
   "word": "gredifou",
-  "translation": "adjective: fertile",
+  "translation": "fertile",
   "etymology": "from c. gredi",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

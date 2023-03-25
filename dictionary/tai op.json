@@ -1,11 +1,12 @@
 {
   "id": 747,
   "word": "tai op",
-  "translation": "verb: bind",
+  "translation": "bind",
   "etymology": "from: tie up",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

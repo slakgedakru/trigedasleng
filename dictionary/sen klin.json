@@ -1,11 +1,12 @@
 {
   "id": 1929,
   "word": "sen klin",
-  "translation": "verb: let go, let loose",
+  "translation": "let go, let loose",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

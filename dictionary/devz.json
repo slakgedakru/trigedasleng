@@ -1,11 +1,12 @@
 {
   "id": 1140,
   "word": "devz",
-  "translation": "pronoun: whatever",
+  "translation": "whatever",
   "etymology": "adj. whatever",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "pronoun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 272,
   "word": "hani",
-  "translation": "phrase: how many",
+  "translation": "how many",
   "etymology": "from: how-many",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

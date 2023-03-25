@@ -1,11 +1,12 @@
 {
   "id": 1110,
   "word": "brollayon",
-  "translation": "noun: steel",
+  "translation": "steel",
   "etymology": "from c. brolgeda and f. ayon",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1972,
   "word": "shoun op",
-  "translation": "verb: guide, lead",
+  "translation": "guide, lead",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

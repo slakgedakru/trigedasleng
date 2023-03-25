@@ -1,11 +1,12 @@
 {
   "id": 2054,
   "word": "tran op",
-  "translation": "verb: to try",
+  "translation": "to try",
   "etymology": "from: unknown",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 526,
   "word": "otaim",
-  "translation": "adverb: always",
+  "translation": "always",
   "etymology": "from: all-time",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

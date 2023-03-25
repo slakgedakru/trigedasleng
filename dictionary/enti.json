@@ -1,11 +1,12 @@
 {
   "id": 2065,
   "word": "enti",
-  "translation": "noun: anything",
+  "translation": "anything",
   "etymology": "from: unknown",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

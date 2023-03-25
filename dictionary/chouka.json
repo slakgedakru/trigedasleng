@@ -1,11 +1,12 @@
 {
   "id": 1131,
   "word": "chouka",
-  "translation": "noun: necklace",
+  "translation": "necklace",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

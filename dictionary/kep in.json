@@ -1,11 +1,12 @@
 {
   "id": 345,
   "word": "kep in",
-  "translation": "verb: keep",
+  "translation": "keep",
   "etymology": "from: keep in",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

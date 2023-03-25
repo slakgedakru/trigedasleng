@@ -1,11 +1,12 @@
 {
   "id": 1159,
   "word": "edifou",
-  "translation": "adjective: traditional",
+  "translation": "traditional",
   "etymology": "from edei",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

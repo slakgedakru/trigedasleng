@@ -1,11 +1,12 @@
 {
   "id": 1424,
   "word": "lol",
-  "translation": "noun: laugh",
+  "translation": "laugh",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

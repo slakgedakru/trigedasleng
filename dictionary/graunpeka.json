@@ -1,11 +1,12 @@
 {
   "id": 254,
   "word": "graunpeka",
-  "translation": "noun: flightless bird",
+  "translation": "flightless bird",
   "etymology": "from: ground-pecker",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

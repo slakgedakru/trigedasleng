@@ -1,11 +1,12 @@
 {
   "id": 239,
   "word": "gonakru",
-  "translation": "noun: army, group of warriors",
+  "translation": "army, group of warriors",
   "etymology": "from: gunner-crew",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

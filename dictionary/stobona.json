@@ -1,11 +1,12 @@
 {
   "id": 1711,
   "word": "stobona",
-  "translation": "noun: donkey, mule",
+  "translation": "donkey, mule",
   "etymology": "from \"stubborn\" + agent noun suffix",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

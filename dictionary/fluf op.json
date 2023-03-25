@@ -1,11 +1,12 @@
 {
   "id": 1199,
   "word": "fluf op",
-  "translation": "verb: warm",
+  "translation": "warm",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

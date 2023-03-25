@@ -1,11 +1,12 @@
 {
   "id": 582,
   "word": "riskines",
-  "translation": "noun: darkness",
+  "translation": "darkness",
   "etymology": "from: risky-ness",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

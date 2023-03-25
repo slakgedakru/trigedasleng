@@ -1,11 +1,12 @@
 {
   "id": 1651,
   "word": "skyuwa",
-  "translation": "noun: spike",
+  "translation": "spike",
   "etymology": "from \"skewer\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

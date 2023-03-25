@@ -1,11 +1,12 @@
 {
   "id": 1273,
   "word": "graunrona",
-  "translation": "noun: plow",
+  "translation": "plow",
   "etymology": "from: \"ground-runner\" as a play on c. bleirona (\"swords into plowshares\")",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

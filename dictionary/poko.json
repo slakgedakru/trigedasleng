@@ -1,11 +1,12 @@
 {
   "id": 1536,
   "word": "poko",
-  "translation": "noun: pratfall, slip, stumble, tumble",
+  "translation": "pratfall, slip, stumble, tumble",
   "etymology": "from \"parkour\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

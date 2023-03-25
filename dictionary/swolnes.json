@@ -1,11 +1,12 @@
 {
   "id": 743,
   "word": "swolnes",
-  "translation": "noun: swelling",
+  "translation": "swelling",
   "etymology": "from: swollen-ness",
   "link": "#",
   "citations": "333",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

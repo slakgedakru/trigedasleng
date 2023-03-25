@@ -1,11 +1,12 @@
 {
   "id": 737,
   "word": "swap op",
-  "translation": "verb: flank, surround",
+  "translation": "flank, surround",
   "etymology": "from: swap up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

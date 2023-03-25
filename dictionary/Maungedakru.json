@@ -1,11 +1,12 @@
 {
   "id": 445,
   "word": "Maungedakru",
-  "translation": "noun: the name for the hypothetical Mountain People",
+  "translation": "the name for the hypothetical Mountain People",
   "etymology": "from: mountain-gather-crew",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

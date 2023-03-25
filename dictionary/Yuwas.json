@@ -1,11 +1,12 @@
 {
   "id": 1021,
   "word": "Yuwas",
-  "translation": "pronoun: yourself",
+  "translation": "yourself",
   "etymology": "from: yu +as",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "pronoun"
 }

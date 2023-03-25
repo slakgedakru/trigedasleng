@@ -1,11 +1,12 @@
 {
   "id": 1059,
   "word": "bidafluf",
-  "translation": "noun: gerbil, hamster, mouse",
+  "translation": "gerbil, hamster, mouse",
   "etymology": "from \"bit of floof\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

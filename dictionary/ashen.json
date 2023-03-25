@@ -1,11 +1,12 @@
 {
   "id": 1027,
   "word": "ashen",
-  "translation": "adjective: snowy",
+  "translation": "snowy",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

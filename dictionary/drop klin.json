@@ -1,11 +1,12 @@
 {
   "id": 1954,
   "word": "drop klin",
-  "translation": "verb: lose, misplace",
+  "translation": "lose, misplace",
   "etymology": "from: drop clean",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

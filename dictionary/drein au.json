@@ -1,11 +1,12 @@
 {
   "id": 120,
   "word": "drein au",
-  "translation": "verb: bleed",
+  "translation": "bleed",
   "etymology": "from: drain out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

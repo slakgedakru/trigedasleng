@@ -1,11 +1,12 @@
 {
   "id": 622,
   "word": "set raun",
-  "translation": "verb: wait, stand in place; make to wait or stand in place; (reflexive) study, apply oneself to",
+  "translation": "wait, stand in place; make to wait or stand in place; (reflexive) study, apply oneself to",
   "etymology": "from: sit around",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1605,
   "word": "shedi",
-  "translation": "noun: machete, falchion, seax, cutlass, large bowie",
+  "translation": "machete, falchion, seax, cutlass, large bowie",
   "etymology": "from: \"machete\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

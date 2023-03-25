@@ -1,11 +1,12 @@
 {
   "id": 1609,
   "word": "shila",
-  "translation": "noun: protector, defender",
+  "translation": "protector, defender",
   "etymology": "from shil op",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

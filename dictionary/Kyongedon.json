@@ -1,11 +1,12 @@
 {
   "id": 404,
   "word": "Kyongedon",
-  "translation": "proper noun: Grounder",
+  "translation": "Grounder",
   "etymology": "from: keep-on-get-one",
   "link": "#",
   "citations": "414",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

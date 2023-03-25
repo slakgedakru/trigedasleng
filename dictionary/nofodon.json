@@ -1,11 +1,12 @@
 {
   "id": 1482,
   "word": "nofodon",
-  "translation": "noun: map",
+  "translation": "map",
   "etymology": "from \"no-fold-on\", lit. \"thing that won't fold up\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

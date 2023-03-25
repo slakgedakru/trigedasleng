@@ -1,11 +1,12 @@
 {
   "id": 2045,
   "word": "sad",
-  "translation": "noun: side",
+  "translation": "side",
   "etymology": "from: side",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1690,
   "word": "spa",
-  "translation": "noun: underground spring",
+  "translation": "underground spring",
   "etymology": "from \"spa\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

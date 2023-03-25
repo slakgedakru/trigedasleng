@@ -1,11 +1,12 @@
 {
   "id": 1518,
   "word": "pak au",
-  "translation": "verb: carry, haul, lug, tote",
+  "translation": "carry, haul, lug, tote",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

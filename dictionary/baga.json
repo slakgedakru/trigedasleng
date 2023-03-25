@@ -1,11 +1,12 @@
 {
   "id": 26,
   "word": "baga",
-  "translation": "noun: enemy",
+  "translation": "enemy",
   "etymology": "from: bad-guy",
   "link": "#",
   "citations": "66",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

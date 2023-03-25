@@ -1,11 +1,12 @@
 {
   "id": 322,
   "word": "in-spuna",
-  "translation": "noun: back spoon, \"big spoon\"",
+  "translation": "back spoon, \"big spoon\"",
   "etymology": "from: in-spooner",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

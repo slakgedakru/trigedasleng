@@ -1,11 +1,12 @@
 {
   "id": 984,
   "word": "skaiplei",
-  "translation": "noun: weather",
+  "translation": "weather",
   "etymology": "from: skai + plei",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

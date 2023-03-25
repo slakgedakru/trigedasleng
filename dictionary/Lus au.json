@@ -1,11 +1,12 @@
 {
   "id": 2040,
   "word": "Lus au",
-  "translation": "verb: to undo, to open, to untie or to unlock",
+  "translation": "to undo, to open, to untie or to unlock",
   "etymology": "from: from: [[lus]] and [[au]]",
   "link": null,
   "citations": "http://wiki.languageinvention.com/index.php?title=Lus_au",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2088,
   "word": "skaibuma",
-  "translation": "noun: thunder",
+  "translation": "thunder",
   "etymology": "from: sky-boom-er",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

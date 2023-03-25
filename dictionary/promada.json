@@ -1,11 +1,12 @@
 {
   "id": 1966,
   "word": "promada",
-  "translation": "adjective: infected, having an infection",
+  "translation": "infected, having an infection",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

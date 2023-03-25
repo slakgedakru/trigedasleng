@@ -1,11 +1,12 @@
 {
   "id": 688,
   "word": "sontam",
-  "translation": "noun: summer (season)",
+  "translation": "summer (season)",
   "etymology": "from: sun-time",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

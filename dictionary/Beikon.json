@@ -1,11 +1,12 @@
 {
   "id": 874,
   "word": "Beikon",
-  "translation": "noun: pig",
+  "translation": "pig",
   "etymology": "from: bacon",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

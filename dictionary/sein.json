@@ -1,11 +1,12 @@
 {
   "id": 1594,
   "word": "sein",
-  "translation": "noun: saying, proverb, maxim, adage, meme",
+  "translation": "saying, proverb, maxim, adage, meme",
   "etymology": "from sei",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 125,
   "word": "dula op",
-  "translation": "verb: do",
+  "translation": "do",
   "etymology": "from: do-like up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1835,
   "word": "shouklaka",
-  "translation": "noun: crab",
+  "translation": "crab",
   "etymology": "from: shore-clacker",
   "link": "",
   "citations": "425",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

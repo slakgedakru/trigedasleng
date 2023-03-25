@@ -1,11 +1,12 @@
 {
   "id": 746,
   "word": "Tagspiden",
-  "translation": "proper noun: speaking of the names, a ritual recitation of the lineage of the Commander which marks the beginning of a new Commander's rule",
+  "translation": "speaking of the names, a ritual recitation of the lineage of the Commander which marks the beginning of a new Commander's rule",
   "etymology": "from: tag-speaking OR tag-spitting",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

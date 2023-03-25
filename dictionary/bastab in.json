@@ -1,11 +1,12 @@
 {
   "id": 1043,
   "word": "bastab in",
-  "translation": "verb: betray, double-cross",
+  "translation": "betray, double-cross",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

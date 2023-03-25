@@ -1,11 +1,12 @@
 {
   "id": 2156,
   "word": "swegomok",
-  "translation": "noun: scarification, self-done scars to indicate healing",
+  "translation": "scarification, self-done scars to indicate healing",
   "etymology": "from: swear-mark [note: most associated with Azgeda]",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

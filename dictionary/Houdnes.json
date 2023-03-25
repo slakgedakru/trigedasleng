@@ -1,11 +1,12 @@
 {
   "id": 930,
   "word": "Houdnes",
-  "translation": "noun: environment",
+  "translation": "environment",
   "etymology": "from: houd + nes",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

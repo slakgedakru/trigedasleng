@@ -1,11 +1,12 @@
 {
   "id": 1588,
   "word": "sain",
-  "translation": "verb: gesture, use hand signals",
+  "translation": "gesture, use hand signals",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

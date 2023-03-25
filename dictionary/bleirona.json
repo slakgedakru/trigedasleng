@@ -1,11 +1,12 @@
 {
   "id": 53,
   "word": "bleirona",
-  "translation": "noun: sword",
+  "translation": "sword",
   "etymology": "from: blade-runner",
   "link": "#",
   "citations": "410",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

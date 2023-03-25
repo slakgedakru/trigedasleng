@@ -1,11 +1,12 @@
 {
   "id": 732,
   "word": "strik daun",
-  "translation": "verb: reduce",
+  "translation": "reduce",
   "etymology": "from: streak down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

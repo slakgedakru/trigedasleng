@@ -1,11 +1,12 @@
 {
   "id": 168,
   "word": "fleim au",
-  "translation": "verb: burn; be worth (to)",
+  "translation": "burn; be worth (to)",
   "etymology": "from: flame out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

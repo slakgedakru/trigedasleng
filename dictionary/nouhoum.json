@@ -1,11 +1,12 @@
 {
   "id": 2122,
   "word": "nouhoum",
-  "translation": "adjective: widowed",
+  "translation": "widowed",
   "etymology": "from: no home",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

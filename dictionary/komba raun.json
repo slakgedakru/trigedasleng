@@ -1,11 +1,12 @@
 {
   "id": 383,
   "word": "komba raun",
-  "translation": "verb: come, approach",
+  "translation": "come, approach",
   "etymology": "from: come-back around",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

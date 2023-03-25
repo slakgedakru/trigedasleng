@@ -1,11 +1,12 @@
 {
   "id": 1950,
   "word": "buken",
-  "translation": "adjective: running",
+  "translation": "running",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

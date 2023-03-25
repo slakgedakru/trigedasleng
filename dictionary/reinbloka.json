@@ -1,11 +1,12 @@
 {
   "id": 1566,
   "word": "reinbloka",
-  "translation": "noun: tarp, canopy, rain fly, roof",
+  "translation": "tarp, canopy, rain fly, roof",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

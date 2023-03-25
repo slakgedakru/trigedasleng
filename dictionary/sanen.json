@@ -1,11 +1,12 @@
 {
   "id": 1860,
   "word": "sanen",
-  "translation": "noun: deafness",
+  "translation": "deafness",
   "etymology": "from: signing",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": ""
+  "filter": "",
+  "class": "noun"
 }

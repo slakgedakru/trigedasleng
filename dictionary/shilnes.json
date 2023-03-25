@@ -1,11 +1,12 @@
 {
   "id": 1612,
   "word": "shilnes",
-  "translation": "noun: protection, safekeeping",
+  "translation": "protection, safekeeping",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

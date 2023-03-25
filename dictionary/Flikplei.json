@@ -1,11 +1,12 @@
 {
   "id": 903,
   "word": "Flikplei",
-  "translation": "noun: romance",
+  "translation": "romance",
   "etymology": "from: flikas",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "back formation",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

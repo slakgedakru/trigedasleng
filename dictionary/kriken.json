@@ -1,11 +1,12 @@
 {
   "id": 395,
   "word": "kriken",
-  "translation": "adjective: old",
+  "translation": "old",
   "etymology": "from: creaking",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

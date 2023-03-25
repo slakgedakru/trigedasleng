@@ -1,11 +1,12 @@
 {
   "id": 1919,
   "word": "nomfri",
-  "translation": "noun: daughter",
+  "translation": "daughter",
   "etymology": "from: number three",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

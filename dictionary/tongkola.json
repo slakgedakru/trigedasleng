@@ -1,11 +1,12 @@
 {
   "id": 780,
   "word": "tongkola",
-  "translation": "noun: accent, dialect",
+  "translation": "accent, dialect",
   "etymology": "from: tongue-color",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

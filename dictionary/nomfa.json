@@ -1,11 +1,12 @@
 {
   "id": 498,
   "word": "nomfa",
-  "translation": "noun: son",
+  "translation": "son",
   "etymology": "from: number-four",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1975,
   "word": "slida",
-  "translation": "noun: snake",
+  "translation": "snake",
   "etymology": "from: slither",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

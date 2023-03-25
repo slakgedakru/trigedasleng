@@ -1,11 +1,12 @@
 {
   "id": 1223,
   "word": "fyum op",
-  "translation": "verb: smoke (meat)",
+  "translation": "smoke (meat)",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 448,
   "word": "mebi",
-  "translation": "adverb: maybe",
+  "translation": "maybe",
   "etymology": "from: maybe",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1631,
   "word": "skin",
-  "translation": "noun: skinned pelt or hide",
+  "translation": "skinned pelt or hide",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2152,
   "word": "plei au",
-  "translation": "verb: to unfold, to develop, to happen",
+  "translation": "to unfold, to develop, to happen",
   "etymology": "from: play out [note: synonym to kom au, but with connotation of taking longer or not being finished yet]",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

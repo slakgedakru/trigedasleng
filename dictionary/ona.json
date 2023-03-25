@@ -1,11 +1,12 @@
 {
   "id": 518,
   "word": "ona",
-  "translation": "preposition: (locative preposition) on, under, into",
+  "translation": "(locative preposition) on, under, into",
   "etymology": "from: on",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "preposition"
 }

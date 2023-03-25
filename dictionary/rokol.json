@@ -1,11 +1,12 @@
 {
   "id": 1579,
   "word": "rokol",
-  "translation": "noun: cave",
+  "translation": "cave",
   "etymology": "from \"rock hole\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

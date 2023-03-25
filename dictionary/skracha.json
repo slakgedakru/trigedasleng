@@ -1,11 +1,12 @@
 {
   "id": 2129,
   "word": "skracha",
-  "translation": "noun: talon, claw, nail",
+  "translation": "talon, claw, nail",
   "etymology": "from: scratcher",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

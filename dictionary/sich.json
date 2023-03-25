@@ -1,11 +1,12 @@
 {
   "id": 638,
   "word": "sich",
-  "translation": "noun: trouble",
+  "translation": "trouble",
   "etymology": "from: situation",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

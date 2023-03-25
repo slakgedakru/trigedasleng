@@ -1,11 +1,12 @@
 {
   "id": 580,
   "word": "ripa",
-  "translation": "noun: murderer, killer; (capitalized) Reaper",
+  "translation": "murderer, killer; (capitalized) Reaper",
   "etymology": "from: reaper",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

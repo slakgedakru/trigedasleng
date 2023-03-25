@@ -1,11 +1,12 @@
 {
   "id": 1717,
   "word": "stouni",
-  "translation": "adjective: patient, even-tempered, tranquil, uncomplaining",
+  "translation": "patient, even-tempered, tranquil, uncomplaining",
   "etymology": "from \"patient as a stone\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

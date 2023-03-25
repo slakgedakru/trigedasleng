@@ -1,11 +1,12 @@
 {
   "id": 370,
   "word": "kok au",
-  "translation": "verb: resist",
+  "translation": "resist",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

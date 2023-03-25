@@ -1,11 +1,12 @@
 {
   "id": 1724,
   "word": "strikweda",
-  "translation": "noun: breeze",
+  "translation": "breeze",
   "etymology": "from strik and weda",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

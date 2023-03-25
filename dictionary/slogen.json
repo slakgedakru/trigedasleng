@@ -1,11 +1,12 @@
 {
   "id": 671,
   "word": "slogen",
-  "translation": "adjective: lazy",
+  "translation": "lazy",
   "etymology": "from: slogging",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

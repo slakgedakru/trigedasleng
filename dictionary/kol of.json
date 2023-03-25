@@ -1,11 +1,12 @@
 {
   "id": 1377,
   "word": "kol of",
-  "translation": "verb: cancel",
+  "translation": "cancel",
   "etymology": "v. restrain",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

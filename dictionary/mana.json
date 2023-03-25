@@ -1,11 +1,12 @@
 {
   "id": 437,
   "word": "mana",
-  "translation": "verb: aim, intend",
+  "translation": "aim, intend",
   "etymology": "from: mean-to",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

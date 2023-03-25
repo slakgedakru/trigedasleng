@@ -1,11 +1,12 @@
 {
   "id": 1746,
   "word": "taliyon",
-  "translation": "noun: count, total, sum",
+  "translation": "count, total, sum",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 460,
   "word": "min op",
-  "translation": "noun: enter",
+  "translation": "enter",
   "etymology": "from: come-in up",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

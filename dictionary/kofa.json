@@ -1,11 +1,12 @@
 {
   "id": 1372,
   "word": "kofa",
-  "translation": "noun: trader",
+  "translation": "trader",
   "etymology": "from kof op, kofgeda, etc.",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2116,
   "word": "flauwa",
-  "translation": "noun: flour",
+  "translation": "flour",
   "etymology": "from: flour",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

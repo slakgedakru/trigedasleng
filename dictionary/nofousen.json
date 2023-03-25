@@ -1,11 +1,12 @@
 {
   "id": 1483,
   "word": "nofousen",
-  "translation": "adjective: imaginary, fictional, untrue",
+  "translation": "imaginary, fictional, untrue",
   "etymology": "from c. fousen and c. noseim",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

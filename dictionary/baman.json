@@ -1,11 +1,12 @@
 {
   "id": 32,
   "word": "baman",
-  "translation": "noun: vengeance, revenge",
+  "translation": "vengeance, revenge",
   "etymology": "from: Batman",
   "link": "#",
   "citations": "339",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

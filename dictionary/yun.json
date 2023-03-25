@@ -1,11 +1,12 @@
 {
   "id": 1905,
   "word": "yun",
-  "translation": "pronoun: yours  (singular person, singular number)",
+  "translation": "yours  (singular person, singular number)",
   "etymology": "from: you one",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

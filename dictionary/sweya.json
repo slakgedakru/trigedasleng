@@ -1,11 +1,12 @@
 {
   "id": 1731,
   "word": "sweya",
-  "translation": "noun: hip",
+  "translation": "hip",
   "etymology": "from \"swayer\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1010,
   "word": "Tikova",
-  "translation": "noun: shirt",
+  "translation": "shirt",
   "etymology": "from: t-shirt",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

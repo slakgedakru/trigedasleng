@@ -1,11 +1,12 @@
 {
   "id": 1552,
   "word": "ragas",
-  "translation": "adjective: menstrual",
+  "translation": "menstrual",
   "etymology": "from \"on the rag\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

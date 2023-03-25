@@ -1,11 +1,12 @@
 {
   "id": 839,
   "word": "wor",
-  "translation": "noun: war",
+  "translation": "war",
   "etymology": "from: war",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

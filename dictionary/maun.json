@@ -1,11 +1,12 @@
 {
   "id": 441,
   "word": "maun",
-  "translation": "noun: mountain",
+  "translation": "mountain",
   "etymology": "from: mountain",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

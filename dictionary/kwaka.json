@@ -1,11 +1,12 @@
 {
   "id": 1921,
   "word": "kwaka",
-  "translation": "noun: duck",
+  "translation": "duck",
   "etymology": "from: quacker ",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

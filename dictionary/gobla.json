@@ -1,11 +1,12 @@
 {
   "id": 1249,
   "word": "gobla",
-  "translation": "noun: turkey",
+  "translation": "turkey",
   "etymology": "from \"gobbler\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

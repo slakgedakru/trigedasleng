@@ -1,11 +1,12 @@
 {
   "id": 1439,
   "word": "lukotnes",
-  "translation": "noun: friendliness",
+  "translation": "friendliness",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 587,
   "word": "rowe op",
-  "translation": "verb: retreat",
+  "translation": "retreat",
   "etymology": "from: run-away up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

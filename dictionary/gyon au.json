@@ -1,11 +1,12 @@
 {
   "id": 256,
   "word": "gyon au",
-  "translation": "verb: go",
+  "translation": "go",
   "etymology": "from: get-on out",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 687,
   "word": "sontaim",
-  "translation": "noun: story",
+  "translation": "story",
   "etymology": "from: song-time",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

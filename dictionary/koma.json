@@ -1,11 +1,12 @@
 {
   "id": 381,
   "word": "koma",
-  "translation": "noun: honor",
+  "translation": "honor",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

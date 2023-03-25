@@ -1,11 +1,12 @@
 {
   "id": 1055,
   "word": "ben raun",
-  "translation": "verb: bend, twist",
+  "translation": "bend, twist",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

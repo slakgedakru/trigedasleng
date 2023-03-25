@@ -1,11 +1,12 @@
 {
   "id": 790,
   "word": "trashsaka",
-  "translation": "noun: wasteland",
+  "translation": "wasteland",
   "etymology": "from: trash-sack-er",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

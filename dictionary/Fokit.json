@@ -1,11 +1,12 @@
 {
   "id": 909,
   "word": "Fokit",
-  "translation": "noun: armor",
+  "translation": "armor",
   "etymology": "from: go full kit",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

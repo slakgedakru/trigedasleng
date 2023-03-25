@@ -1,11 +1,12 @@
 {
   "id": 1163,
   "word": "ewon",
-  "translation": "noun: everyone",
+  "translation": "everyone",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

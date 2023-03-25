@@ -1,11 +1,12 @@
 {
   "id": 484,
   "word": "nau",
-  "translation": "adverb: now",
+  "translation": "now",
   "etymology": "from: now",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

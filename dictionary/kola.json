@@ -1,11 +1,12 @@
 {
   "id": 1379,
   "word": "kola",
-  "translation": "noun: color",
+  "translation": "color",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

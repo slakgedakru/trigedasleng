@@ -1,11 +1,12 @@
 {
   "id": 564,
   "word": "rattop",
-  "translation": "adjective: controlled",
+  "translation": "controlled",
   "etymology": "from: racked-up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1451,
   "word": "meiznes",
-  "translation": "noun: beauty",
+  "translation": "beauty",
   "etymology": "from meizen",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

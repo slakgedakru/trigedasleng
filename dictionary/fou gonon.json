@@ -1,11 +1,12 @@
 {
   "id": 1995,
   "word": "fou gonon",
-  "translation": "idiom: just in time, lit. before trouble",
+  "translation": "just in time, lit. before trouble",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "idiom"
 }

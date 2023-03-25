@@ -1,11 +1,12 @@
 {
   "id": 914,
   "word": "Gou daun",
-  "translation": "verb: to happen, to occur",
+  "translation": "to happen, to occur",
   "etymology": "from: go down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 452,
   "word": "meika",
-  "translation": "noun: hand",
+  "translation": "hand",
   "etymology": "from: maker",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

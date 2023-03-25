@@ -1,11 +1,12 @@
 {
   "id": 226,
   "word": "giv op",
-  "translation": "verb: give (up), esp. oneself",
+  "translation": "give (up), esp. oneself",
   "etymology": "from: give up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

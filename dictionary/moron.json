@@ -1,11 +1,12 @@
 {
   "id": 470,
   "word": "moron",
-  "translation": "noun: tomorrow",
+  "translation": "tomorrow",
   "etymology": "from: tomorrow-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

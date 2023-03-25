@@ -1,11 +1,12 @@
 {
   "id": 495,
   "word": "nodotaim",
-  "translation": "adverb: again, another time",
+  "translation": "again, another time",
   "etymology": "from: another-time",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

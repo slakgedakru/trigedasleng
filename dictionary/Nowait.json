@@ -1,11 +1,12 @@
 {
   "id": 967,
   "word": "Nowait",
-  "translation": "adjective: wrong",
+  "translation": "wrong",
   "etymology": "from: no + ait",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

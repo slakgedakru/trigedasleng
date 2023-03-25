@@ -1,11 +1,12 @@
 {
   "id": 1363,
   "word": "klam daun",
-  "translation": "verb: climb down",
+  "translation": "climb down",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 806,
   "word": "tristraka",
-  "translation": "noun: lightning",
+  "translation": "lightning",
   "etymology": "from: tree-striker",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

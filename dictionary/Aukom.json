@@ -1,11 +1,12 @@
 {
   "id": 864,
   "word": "Aukom",
-  "translation": "noun: outcome, effect, results",
+  "translation": "outcome, effect, results",
   "etymology": "from: outcome",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

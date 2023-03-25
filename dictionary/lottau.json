@@ -1,11 +1,12 @@
 {
   "id": 429,
   "word": "lottau",
-  "translation": "adjective: lucky",
+  "translation": "lucky",
   "etymology": "from: lucked-out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

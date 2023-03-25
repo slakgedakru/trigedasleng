@@ -1,11 +1,12 @@
 {
   "id": 730,
   "word": "strechplei",
-  "translation": "noun: walk, walking",
+  "translation": "walk, walking",
   "etymology": "from: stretch-play",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

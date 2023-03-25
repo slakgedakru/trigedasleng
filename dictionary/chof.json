@@ -1,11 +1,12 @@
 {
   "id": 88,
   "word": "chof",
-  "translation": "phrase: thank you, thanks",
+  "translation": "thank you, thanks",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

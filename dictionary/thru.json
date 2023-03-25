@@ -1,11 +1,12 @@
 {
   "id": 1758,
   "word": "thru",
-  "translation": "adverb: steadily, continuously, progressively",
+  "translation": "steadily, continuously, progressively",
   "etymology": "from c. thru",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

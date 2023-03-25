@@ -1,11 +1,12 @@
 {
   "id": 2053,
   "word": "radon",
-  "translation": "adjective: right (proper, correct)",
+  "translation": "right (proper, correct)",
   "etymology": "from: right one",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 122,
   "word": "drop of",
-  "translation": "verb: lose, misplace; (pass.) lost",
+  "translation": "lose, misplace; (pass.) lost",
   "etymology": "from: drop off",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1736,
   "word": "swish au",
-  "translation": "verb: swish (a tail), wag",
+  "translation": "swish (a tail), wag",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

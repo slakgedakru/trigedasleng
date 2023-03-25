@@ -1,11 +1,12 @@
 {
   "id": 82,
   "word": "chil au",
-  "translation": "verb: calm",
+  "translation": "calm",
   "etymology": "from: chill out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

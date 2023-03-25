@@ -1,11 +1,12 @@
 {
   "id": 1086,
   "word": "bomz-de",
-  "translation": "phrase: the Apocalypse",
+  "translation": "the Apocalypse",
   "etymology": "from:\"the bombs\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "phrase"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1931,
   "word": "twicha",
-  "translation": "noun: rat",
+  "translation": "rat",
   "etymology": "from: twitcher",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

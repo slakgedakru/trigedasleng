@@ -1,11 +1,12 @@
 {
   "id": 2187,
   "word": "gedowei",
-  "translation": "noun: accomplice, partner in crime",
+  "translation": "accomplice, partner in crime",
   "etymology": "from: get away driver",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

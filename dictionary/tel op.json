@@ -1,11 +1,12 @@
 {
   "id": 760,
   "word": "tel op",
-  "translation": "verb: tell",
+  "translation": "tell",
   "etymology": "from: tell up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

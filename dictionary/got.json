@@ -1,11 +1,12 @@
 {
   "id": 1261,
   "word": "got",
-  "translation": "noun: belly, stomach",
+  "translation": "belly, stomach",
   "etymology": "(Floukru) n. hold, cargo bay (of a ship or boat)",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

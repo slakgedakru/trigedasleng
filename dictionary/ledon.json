@@ -1,11 +1,12 @@
 {
   "id": 415,
   "word": "ledon",
-  "translation": "noun: wound, injury",
+  "translation": "wound, injury",
   "etymology": "from: laid-one",
   "link": "#",
   "citations": "333",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

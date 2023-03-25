@@ -1,11 +1,12 @@
 {
   "id": 1020,
   "word": "Yunyin",
-  "translation": "noun: wedding",
+  "translation": "wedding",
   "etymology": "from: union",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

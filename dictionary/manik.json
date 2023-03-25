@@ -1,11 +1,12 @@
 {
   "id": 440,
   "word": "manik",
-  "translation": "adjective: horny",
+  "translation": "horny",
   "etymology": "from: manic",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

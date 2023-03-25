@@ -1,11 +1,12 @@
 {
   "id": 1181,
   "word": "firfou",
-  "translation": "adjective: scared, frightened",
+  "translation": "scared, frightened",
   "etymology": "from \"fearful\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

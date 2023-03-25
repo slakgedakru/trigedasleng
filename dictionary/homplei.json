@@ -1,11 +1,12 @@
 {
   "id": 299,
   "word": "homplei",
-  "translation": "noun: hunt",
+  "translation": "hunt",
   "etymology": "from: hunt-play",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

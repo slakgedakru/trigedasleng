@@ -1,11 +1,12 @@
 {
   "id": 992,
   "word": "Sonau",
-  "translation": "noun: afternoon",
+  "translation": "afternoon",
   "etymology": "from: sun out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2041,
   "word": "nopro",
-  "translation": "adjective: easy",
+  "translation": "easy",
   "etymology": "from: no problem",
   "link": "",
   "citations": "428",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

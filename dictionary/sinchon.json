@@ -1,11 +1,12 @@
 {
   "id": 2092,
   "word": "sinchon",
-  "translation": "noun: belt, strap, tiedown",
+  "translation": "belt, strap, tiedown",
   "etymology": "from: sinch-one",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

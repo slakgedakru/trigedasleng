@@ -1,11 +1,12 @@
 {
   "id": 1517,
   "word": "pad",
-  "translation": "noun: menstrual pad, menstrual cloth",
+  "translation": "menstrual pad, menstrual cloth",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

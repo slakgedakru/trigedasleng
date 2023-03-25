@@ -1,11 +1,12 @@
 {
   "id": 1304,
   "word": "han au",
-  "translation": "verb: hand out, give out",
+  "translation": "hand out, give out",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

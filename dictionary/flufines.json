@@ -1,11 +1,12 @@
 {
   "id": 1203,
   "word": "flufines",
-  "translation": "noun: warmth, coziness",
+  "translation": "warmth, coziness",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

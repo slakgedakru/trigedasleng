@@ -1,11 +1,12 @@
 {
   "id": 138,
   "word": "eno",
-  "translation": "noun: end",
+  "translation": "end",
   "etymology": "from: end-all",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

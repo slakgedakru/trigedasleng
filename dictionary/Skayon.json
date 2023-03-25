@@ -1,11 +1,12 @@
 {
   "id": 659,
   "word": "Skayon",
-  "translation": "proper noun: Sky Person, Arker",
+  "translation": "Sky Person, Arker",
   "etymology": "from: sky-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

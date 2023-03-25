@@ -1,11 +1,12 @@
 {
   "id": 834,
   "word": "wochas",
-  "translation": "verb: beware, look out",
+  "translation": "beware, look out",
   "etymology": "from: watch-ass",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

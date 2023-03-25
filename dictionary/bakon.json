@@ -1,11 +1,12 @@
 {
   "id": 30,
   "word": "bakon",
-  "translation": "noun: (anatomical) back; pillar, tenet; ally",
+  "translation": "(anatomical) back; pillar, tenet; ally",
   "etymology": "from: back-one",
   "link": "#",
   "citations": "426",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

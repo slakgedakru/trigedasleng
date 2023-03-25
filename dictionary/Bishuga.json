@@ -1,11 +1,12 @@
 {
   "id": 878,
   "word": "Bishuga",
-  "translation": "noun: honey",
+  "translation": "honey",
   "etymology": "from:  bee sugar",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

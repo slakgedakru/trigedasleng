@@ -1,11 +1,12 @@
 {
   "id": 854,
   "word": "yumi",
-  "translation": "pronoun: you and I, you and me",
+  "translation": "you and I, you and me",
   "etymology": "from: you-me",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

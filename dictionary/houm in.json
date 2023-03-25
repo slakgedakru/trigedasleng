@@ -1,11 +1,12 @@
 {
   "id": 2120,
   "word": "houm in",
-  "translation": "verb: to marry",
+  "translation": "to marry",
   "etymology": "from: houma",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

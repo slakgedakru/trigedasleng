@@ -1,11 +1,12 @@
 {
   "id": 1079,
   "word": "bob",
-  "translation": "noun: barb, hook",
+  "translation": "barb, hook",
   "etymology": "from \"barb\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

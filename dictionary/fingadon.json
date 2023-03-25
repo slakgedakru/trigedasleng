@@ -1,11 +1,12 @@
 {
   "id": 156,
   "word": "fingadon",
-  "translation": "noun: one who has been accused",
+  "translation": "one who has been accused",
   "etymology": "from: fingered-one",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

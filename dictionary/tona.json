@@ -1,11 +1,12 @@
 {
   "id": 778,
   "word": "tona",
-  "translation": "noun: wheel",
+  "translation": "wheel",
   "etymology": "from: turner",
   "link": "#",
   "citations": "294",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

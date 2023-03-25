@@ -1,11 +1,12 @@
 {
   "id": 1725,
   "word": "su",
-  "translation": "adjective: black",
+  "translation": "black",
   "etymology": "from \"soot\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

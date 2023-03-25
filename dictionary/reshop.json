@@ -1,11 +1,12 @@
 {
   "id": 572,
   "word": "reshop",
-  "translation": "phrase: good night",
+  "translation": "good night",
   "etymology": "from: rest-up",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

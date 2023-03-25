@@ -1,11 +1,12 @@
 {
   "id": 1871,
   "word": "noden",
-  "translation": "adjective: tired",
+  "translation": "tired",
   "etymology": "from: nod off",
   "link": "",
   "citations": "435",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

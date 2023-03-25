@@ -1,11 +1,12 @@
 {
   "id": 154,
   "word": "figa",
-  "translation": "adjective: healthy",
+  "translation": "healthy",
   "etymology": "from: figure",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

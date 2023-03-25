@@ -1,11 +1,12 @@
 {
   "id": 1694,
   "word": "splat op",
-  "translation": "verb: daub, dot, spot",
+  "translation": "daub, dot, spot",
   "etymology": "from \"splatter\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

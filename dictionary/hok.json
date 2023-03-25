@@ -1,11 +1,12 @@
 {
   "id": 1323,
   "word": "hok",
-  "translation": "noun: axe, hatchet",
+  "translation": "axe, hatchet",
   "etymology": "from \"(toma)hawk\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

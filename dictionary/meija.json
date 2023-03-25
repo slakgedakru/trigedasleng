@@ -1,11 +1,12 @@
 {
   "id": 451,
   "word": "meija",
-  "translation": "adverb: hard; important",
+  "translation": "hard; important",
   "etymology": "from: major",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

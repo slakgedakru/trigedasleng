@@ -1,11 +1,12 @@
 {
   "id": 943,
   "word": "Klodon",
-  "translation": "noun: bear",
+  "translation": "bear",
   "etymology": "from: clawed one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

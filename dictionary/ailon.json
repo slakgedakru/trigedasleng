@@ -1,11 +1,12 @@
 {
   "id": 5,
   "word": "ailon",
-  "translation": "noun: island",
+  "translation": "island",
   "etymology": "from: island",
   "link": "#",
   "citations": "168",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

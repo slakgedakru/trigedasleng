@@ -1,11 +1,12 @@
 {
   "id": 1593,
   "word": "savij",
-  "translation": "noun: barbarian, savage (ironic)",
+  "translation": "barbarian, savage (ironic)",
   "etymology": "from \"savage\" as used by the Mountain Men",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 767,
   "word": "thosti",
-  "translation": "adjective: thirsty, needing, hungry",
+  "translation": "thirsty, needing, hungry",
   "etymology": "from: thirsty",
   "link": "#",
   "citations": "414",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

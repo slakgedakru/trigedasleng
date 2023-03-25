@@ -1,11 +1,12 @@
 {
   "id": 1622,
   "word": "sin klin",
-  "translation": "verb: discern, divine, recognize-and- understand, grok",
+  "translation": "discern, divine, recognize-and- understand, grok",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

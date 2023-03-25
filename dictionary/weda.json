@@ -1,11 +1,12 @@
 {
   "id": 1798,
   "word": "weda",
-  "translation": "noun: wind",
+  "translation": "wind",
   "etymology": "from \"weather\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

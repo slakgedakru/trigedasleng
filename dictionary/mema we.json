@@ -1,11 +1,12 @@
 {
   "id": 456,
   "word": "mema we",
-  "translation": "verb: miss",
+  "translation": "miss",
   "etymology": "from: remember away",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 8,
   "word": "ait",
-  "translation": "phrase: alright, right, okay",
+  "translation": "alright, right, okay",
   "etymology": "from: alright",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

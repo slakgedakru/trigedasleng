@@ -1,11 +1,12 @@
 {
   "id": 1004,
   "word": "Tekflaiya",
-  "translation": "noun: airplane",
+  "translation": "airplane",
   "etymology": "from: tek + flyer",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

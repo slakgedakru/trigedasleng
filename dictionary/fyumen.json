@@ -1,11 +1,12 @@
 {
   "id": 1224,
   "word": "fyumen",
-  "translation": "adjective: smoky",
+  "translation": "smoky",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

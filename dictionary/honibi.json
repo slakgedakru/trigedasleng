@@ -1,11 +1,12 @@
 {
   "id": 1830,
   "word": "honibi",
-  "translation": "noun: bee",
+  "translation": "bee",
   "etymology": "from: honey bee",
   "link": "",
   "citations": "425",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

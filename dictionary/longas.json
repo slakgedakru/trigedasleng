@@ -1,11 +1,12 @@
 {
   "id": 1433,
   "word": "longas",
-  "translation": "adjective: far",
+  "translation": "far",
   "etymology": "adv. far",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

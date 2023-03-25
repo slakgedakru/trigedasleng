@@ -1,11 +1,12 @@
 {
   "id": 2039,
   "word": "bloka",
-  "translation": "noun: guard",
+  "translation": "guard",
   "etymology": "from: blocker",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1374,
   "word": "kol op",
-  "translation": "verb: mobilize, summon warriors to duty",
+  "translation": "mobilize, summon warriors to duty",
   "etymology": "from \"call up\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

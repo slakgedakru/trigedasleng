@@ -1,11 +1,12 @@
 {
   "id": 1475,
   "word": "neiga",
-  "translation": "adjective: empty",
+  "translation": "empty",
   "etymology": "from \"negative\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

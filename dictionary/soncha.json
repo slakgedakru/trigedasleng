@@ -1,11 +1,12 @@
 {
   "id": 683,
   "word": "soncha",
-  "translation": "noun: light",
+  "translation": "light",
   "etymology": "from: sunshine",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

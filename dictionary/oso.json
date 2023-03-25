@@ -1,11 +1,12 @@
 {
   "id": 524,
   "word": "oso",
-  "translation": "pronoun: (first person plural inclusive) we, us; includes the listener",
+  "translation": "(first person plural inclusive) we, us; includes the listener",
   "etymology": "from: us-all",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

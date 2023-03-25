@@ -1,11 +1,12 @@
 {
   "id": 1467,
   "word": "nach",
-  "translation": "interjection: certainly, naturally, of course",
+  "translation": "certainly, naturally, of course",
   "etymology": "from \"natch\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "interjection"
 }

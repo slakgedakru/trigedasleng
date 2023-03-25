@@ -1,11 +1,12 @@
 {
   "id": 766,
   "word": "thonken",
-  "translation": "adjective: hollow",
+  "translation": "hollow",
   "etymology": "from: thunking",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 793,
   "word": "tri",
-  "translation": "noun: tree",
+  "translation": "tree",
   "etymology": "from: tree",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

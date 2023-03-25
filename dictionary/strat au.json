@@ -1,11 +1,12 @@
 {
   "id": 1718,
   "word": "strat au",
-  "translation": "verb: plan",
+  "translation": "plan",
   "etymology": "from strat",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

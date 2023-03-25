@@ -1,11 +1,12 @@
 {
   "id": 738,
   "word": "swega klin",
-  "translation": "verb: swear, promise",
+  "translation": "swear, promise",
   "etymology": "from: swear-to-god clean",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

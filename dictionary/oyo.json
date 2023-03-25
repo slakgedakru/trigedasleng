@@ -1,11 +1,12 @@
 {
   "id": 1904,
   "word": "oyo",
-  "translation": "adjective: your (plural person, plural number)",
+  "translation": "your (plural person, plural number)",
   "etymology": "from: all you all",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

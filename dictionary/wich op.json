@@ -1,11 +1,12 @@
 {
   "id": 2006,
   "word": "wich op",
-  "translation": "verb: trust",
+  "translation": "trust",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

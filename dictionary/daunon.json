@@ -1,11 +1,12 @@
 {
   "id": 1136,
   "word": "daunon",
-  "translation": "noun: descendant, inheritor, scion",
+  "translation": "descendant, inheritor, scion",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

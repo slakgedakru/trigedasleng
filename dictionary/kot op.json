@@ -1,11 +1,12 @@
 {
   "id": 392,
   "word": "kot op",
-  "translation": "verb: cut",
+  "translation": "cut",
   "etymology": "from: cut up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

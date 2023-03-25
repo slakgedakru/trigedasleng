@@ -1,11 +1,12 @@
 {
   "id": 890,
   "word": "Def",
-  "translation": "adverb: definitely",
+  "translation": "definitely",
   "etymology": "from: definitely",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adverb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 61,
   "word": "bos op",
-  "translation": "verb: break",
+  "translation": "break",
   "etymology": "from: bust up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

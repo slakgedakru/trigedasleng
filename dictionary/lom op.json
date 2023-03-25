@@ -1,11 +1,12 @@
 {
   "id": 428,
   "word": "lom op",
-  "translation": "verb: warn",
+  "translation": "warn",
   "etymology": "from: alarm up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1747,
   "word": "tamon",
-  "translation": "noun: season",
+  "translation": "season",
   "etymology": "from: c. wintam, sprintam, sontam, fotam",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

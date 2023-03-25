@@ -1,11 +1,12 @@
 {
   "id": 651,
   "word": "skaiflaya",
-  "translation": "noun: medium-sized birds such as pigeons and jays",
+  "translation": "medium-sized birds such as pigeons and jays",
   "etymology": "from: sky-flyer",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

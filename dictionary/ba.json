@@ -1,11 +1,12 @@
 {
   "id": 20,
   "word": "ba",
-  "translation": "conjunction: but",
+  "translation": "but",
   "etymology": "from: but",
   "link": "#",
   "citations": "66",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "conjunction"
 }

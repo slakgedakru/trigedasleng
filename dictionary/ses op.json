@@ -1,11 +1,12 @@
 {
   "id": 618,
   "word": "ses op",
-  "translation": "verb: sleep with, have sex with",
+  "translation": "sleep with, have sex with",
   "etymology": "from: sex up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

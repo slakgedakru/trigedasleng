@@ -1,11 +1,12 @@
 {
   "id": 2183,
   "word": "shida",
-  "translation": "noun: toilet, outhouse, poop bucket/hole, urinal, bathroom",
+  "translation": "toilet, outhouse, poop bucket/hole, urinal, bathroom",
   "etymology": "from: shitter",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

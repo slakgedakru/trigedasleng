@@ -1,11 +1,12 @@
 {
   "id": 763,
   "word": "testa",
-  "translation": "noun: messenger",
+  "translation": "messenger",
   "etymology": "from: tester",
   "link": "#",
   "citations": "414",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

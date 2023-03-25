@@ -1,11 +1,12 @@
 {
   "id": 1182,
   "word": "firnes",
-  "translation": "noun: fear",
+  "translation": "fear",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

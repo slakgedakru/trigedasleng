@@ -1,11 +1,12 @@
 {
   "id": 400,
   "word": "ku",
-  "translation": "adjective: cool, okay, fine",
+  "translation": "cool, okay, fine",
   "etymology": "from: cool",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

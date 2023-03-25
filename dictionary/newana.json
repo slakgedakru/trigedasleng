@@ -1,11 +1,12 @@
 {
   "id": 489,
   "word": "newana",
-  "translation": "noun: immortal one",
+  "translation": "immortal one",
   "etymology": "from: never wind-er",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

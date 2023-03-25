@@ -1,11 +1,12 @@
 {
   "id": 2181,
   "word": "diyo",
-  "translation": "noun: noun",
+  "translation": "noun",
   "etymology": "from: diyo",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

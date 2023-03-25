@@ -1,11 +1,12 @@
 {
   "id": 1359,
   "word": "kiknes",
-  "translation": "noun: (abstract) life",
+  "translation": "(abstract) life",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

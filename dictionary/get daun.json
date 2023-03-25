@@ -1,11 +1,12 @@
 {
   "id": 220,
   "word": "get daun",
-  "translation": "verb: worry, concern oneself",
+  "translation": "worry, concern oneself",
   "etymology": "from: get down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

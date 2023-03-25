@@ -1,11 +1,12 @@
 {
   "id": 551,
   "word": "pro",
-  "translation": "phrase: you're welcome",
+  "translation": "you're welcome",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

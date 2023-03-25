@@ -1,11 +1,12 @@
 {
   "id": 250,
   "word": "gouthru klin",
-  "translation": "verb: commit suicide; literally, pass finally or pass suffering",
+  "translation": "commit suicide; literally, pass finally or pass suffering",
   "etymology": "from: go-through clean",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

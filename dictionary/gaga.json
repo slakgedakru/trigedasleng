@@ -1,11 +1,12 @@
 {
   "id": 214,
   "word": "gaga",
-  "translation": "noun: gag",
+  "translation": "gag",
   "etymology": "from: gagger",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

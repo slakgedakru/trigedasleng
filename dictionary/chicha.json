@@ -1,11 +1,12 @@
 {
   "id": 79,
   "word": "chicha",
-  "translation": "noun: speaker [of a language]",
+  "translation": "speaker [of a language]",
   "etymology": "from: chit-chatter",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

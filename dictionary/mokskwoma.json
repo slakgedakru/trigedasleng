@@ -1,11 +1,12 @@
 {
   "id": 466,
   "word": "mokskwoma",
-  "translation": "noun: worm",
+  "translation": "worm",
   "etymology": "from: muck-squirmer",
   "link": "#",
   "citations": "333",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

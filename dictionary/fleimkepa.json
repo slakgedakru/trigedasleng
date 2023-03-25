@@ -1,11 +1,12 @@
 {
   "id": 173,
   "word": "fleimkepa",
-  "translation": "noun: scribe, attendant",
+  "translation": "scribe, attendant",
   "etymology": "from: flame-keeper",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

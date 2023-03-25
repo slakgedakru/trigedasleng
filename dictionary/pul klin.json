@@ -1,11 +1,12 @@
 {
   "id": 554,
   "word": "pul klin",
-  "translation": "verb: pull hard, yank",
+  "translation": "pull hard, yank",
   "etymology": "from: pull clean",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

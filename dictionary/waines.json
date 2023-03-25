@@ -1,11 +1,12 @@
 {
   "id": 1794,
   "word": "waines",
-  "translation": "noun: intention, purpose, reason",
+  "translation": "intention, purpose, reason",
   "etymology": "from \"why-ness\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

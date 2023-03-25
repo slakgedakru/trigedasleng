@@ -1,11 +1,12 @@
 {
   "id": 231,
   "word": "goch op",
-  "translation": "verb: escort, guard",
+  "translation": "escort, guard",
   "etymology": "from: gotcha up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

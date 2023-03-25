@@ -1,11 +1,12 @@
 {
   "id": 199,
   "word": "fraga",
-  "translation": "noun: murderer",
+  "translation": "murderer",
   "etymology": "from: frag-er",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

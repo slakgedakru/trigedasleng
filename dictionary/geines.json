@@ -1,11 +1,12 @@
 {
   "id": 1235,
   "word": "geines",
-  "translation": "noun: happiness, gladness",
+  "translation": "happiness, gladness",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

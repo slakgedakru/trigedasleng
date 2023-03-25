@@ -1,11 +1,12 @@
 {
   "id": 705,
   "word": "spun op",
-  "translation": "verb: act in the capacity of a front spoon, be (someone's) front spoon",
+  "translation": "act in the capacity of a front spoon, be (someone's) front spoon",
   "etymology": "from: spoon up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

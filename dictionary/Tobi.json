@@ -1,11 +1,12 @@
 {
   "id": 1012,
   "word": "Tobi",
-  "translation": "noun: ferret",
+  "translation": "ferret",
   "etymology": "from: toby",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

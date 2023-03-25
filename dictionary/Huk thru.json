@@ -1,11 +1,12 @@
 {
   "id": 932,
   "word": "Huk thru",
-  "translation": "verb: to piece, to thread, to sew",
+  "translation": "to piece, to thread, to sew",
   "etymology": "from: huk op",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "satellite suppletion",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

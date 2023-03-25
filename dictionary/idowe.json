@@ -1,11 +1,12 @@
 {
   "id": 318,
   "word": "idowe",
-  "translation": "adverb: anyway, regardless",
+  "translation": "anyway, regardless",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

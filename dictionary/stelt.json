@@ -1,11 +1,12 @@
 {
   "id": 715,
   "word": "stelt",
-  "translation": "adjective: hidden",
+  "translation": "hidden",
   "etymology": "from: stealth",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

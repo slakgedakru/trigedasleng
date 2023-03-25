@@ -1,11 +1,12 @@
 {
   "id": 307,
   "word": "hosa",
-  "translation": "noun: rider",
+  "translation": "rider",
   "etymology": "from: horse-er",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

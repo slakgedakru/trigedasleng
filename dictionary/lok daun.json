@@ -1,11 +1,12 @@
 {
   "id": 426,
   "word": "lok daun",
-  "translation": "verb: cage, lock up",
+  "translation": "cage, lock up",
   "etymology": "from: lock down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

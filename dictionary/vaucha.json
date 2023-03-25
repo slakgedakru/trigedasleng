@@ -1,11 +1,12 @@
 {
   "id": 813,
   "word": "vaucha",
-  "translation": "noun: witness",
+  "translation": "witness",
   "etymology": "from: vouch-er",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

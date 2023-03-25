@@ -1,11 +1,12 @@
 {
   "id": 309,
   "word": "hosh daun",
-  "translation": "verb: put or lull, esp. to sleep",
+  "translation": "put or lull, esp. to sleep",
   "etymology": "from: hush down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

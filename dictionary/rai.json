@@ -1,11 +1,12 @@
 {
   "id": 1556,
   "word": "rai",
-  "translation": "adverb: exactly, precisely",
+  "translation": "exactly, precisely",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 397,
   "word": "kripon",
-  "translation": "noun: crime",
+  "translation": "crime",
   "etymology": "from: creep-one",
   "link": "#",
   "citations": "294",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

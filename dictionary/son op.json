@@ -1,11 +1,12 @@
 {
   "id": 682,
   "word": "son op",
-  "translation": "verb: (transitive) dry (something)",
+  "translation": "(transitive) dry (something)",
   "etymology": "from: sun up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

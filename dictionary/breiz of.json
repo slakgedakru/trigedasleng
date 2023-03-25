@@ -1,11 +1,12 @@
 {
   "id": 2147,
   "word": "breiz of",
-  "translation": "verb: to shave, to cut hair",
+  "translation": "to shave, to cut hair",
   "etymology": "from: braids off",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

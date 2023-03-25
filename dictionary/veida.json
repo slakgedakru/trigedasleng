@@ -1,11 +1,12 @@
 {
   "id": 814,
   "word": "veida",
-  "translation": "noun: invader, enemy; elevator",
+  "translation": "invader, enemy; elevator",
   "etymology": "from: invader; elevator",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

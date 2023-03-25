@@ -1,11 +1,12 @@
 {
   "id": 153,
   "word": "fig raun",
-  "translation": "verb: think (about), ponder",
+  "translation": "think (about), ponder",
   "etymology": "from: figure around",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

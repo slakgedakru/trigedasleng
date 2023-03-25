@@ -1,11 +1,12 @@
 {
   "id": 2138,
   "word": "fonki",
-  "translation": "adjective: weird, odd, peculiar, strange, perplexing",
+  "translation": "weird, odd, peculiar, strange, perplexing",
   "etymology": "from: funky",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

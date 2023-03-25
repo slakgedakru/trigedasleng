@@ -1,11 +1,12 @@
 {
   "id": 2063,
   "word": "wonsad",
-  "translation": "adjective: one side, one way, one choice",
+  "translation": "one side, one way, one choice",
   "etymology": "from: won + sad",
   "link": "",
   "citations": "TrigSeda",
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

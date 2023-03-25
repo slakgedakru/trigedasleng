@@ -1,11 +1,12 @@
 {
   "id": 754,
   "word": "teik au",
-  "translation": "verb: seize, eliminate",
+  "translation": "seize, eliminate",
   "etymology": "from: take out",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

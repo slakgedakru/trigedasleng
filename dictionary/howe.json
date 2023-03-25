@@ -1,11 +1,12 @@
 {
   "id": 1989,
   "word": "howe",
-  "translation": "noun: hallway",
+  "translation": "hallway",
   "etymology": "from: hallway",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

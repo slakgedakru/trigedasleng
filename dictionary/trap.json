@@ -1,11 +1,12 @@
 {
   "id": 788,
   "word": "trap",
-  "translation": "noun: camp",
+  "translation": "camp",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

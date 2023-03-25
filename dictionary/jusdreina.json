@@ -1,11 +1,12 @@
 {
   "id": 2125,
   "word": "jusdreina",
-  "translation": "noun: mosquito",
+  "translation": "mosquito",
   "etymology": "from: juice drainer",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

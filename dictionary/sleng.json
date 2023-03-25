@@ -1,11 +1,12 @@
 {
   "id": 667,
   "word": "sleng",
-  "translation": "noun: language",
+  "translation": "language",
   "etymology": "from: slang",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1213,
   "word": "fou in",
-  "translation": "verb: conform, join a consensus, fall in line",
+  "translation": "conform, join a consensus, fall in line",
   "etymology": "from \"fall in\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 330,
   "word": "jok of",
-  "translation": "verb: fuck",
+  "translation": "fuck",
   "etymology": "from: jerk off",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

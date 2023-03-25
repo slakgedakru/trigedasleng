@@ -1,11 +1,12 @@
 {
   "id": 2066,
   "word": "mez",
-  "translation": "noun: medicine",
+  "translation": "medicine",
   "etymology": "from: meds",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

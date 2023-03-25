@@ -1,11 +1,12 @@
 {
   "id": 1849,
   "word": "lowe",
-  "translation": "noun/adjective/adverb: a long distance",
+  "translation": "a long distance",
   "etymology": "from: long way",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun/adjective/adverb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1525,
   "word": "paun au",
-  "translation": "verb: flatten",
+  "translation": "flatten",
   "etymology": "from \"pound out\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2161,
   "word": "enyo",
-  "translation": "noun: anything",
+  "translation": "anything",
   "etymology": "from: eni+diyo",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

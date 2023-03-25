@@ -1,11 +1,12 @@
 {
   "id": 1719,
   "word": "strechon",
-  "translation": "noun: leg",
+  "translation": "leg",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

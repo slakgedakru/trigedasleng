@@ -1,11 +1,12 @@
 {
   "id": 1008,
   "word": "Tika",
-  "translation": "noun: an offense, provocation, outrage",
+  "translation": "an offense, provocation, outrage",
   "etymology": "from: tik of + a",
   "link": "#",
   "citations": "333",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

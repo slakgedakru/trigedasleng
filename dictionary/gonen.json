@@ -1,11 +1,12 @@
 {
   "id": 241,
   "word": "gonen",
-  "translation": "noun: fighting",
+  "translation": "fighting",
   "etymology": "from: gunning",
   "link": "#",
   "citations": "333",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

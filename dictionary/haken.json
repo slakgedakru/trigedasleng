@@ -1,11 +1,12 @@
 {
   "id": 267,
   "word": "haken",
-  "translation": "adjective: sick, ill",
+  "translation": "sick, ill",
   "etymology": "from: hacking",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

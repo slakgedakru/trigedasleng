@@ -1,11 +1,12 @@
 {
   "id": 1054,
   "word": "ben",
-  "translation": "noun: bend, corner, turn",
+  "translation": "bend, corner, turn",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

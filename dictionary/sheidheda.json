@@ -1,11 +1,12 @@
 {
   "id": 1858,
   "word": "sheidheda",
-  "translation": "proper noun: the dark commander",
+  "translation": "the dark commander",
   "etymology": "from: shade-header",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

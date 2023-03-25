@@ -1,11 +1,12 @@
 {
   "id": 149,
   "word": "feisnes",
-  "translation": "noun: likeness, portrait",
+  "translation": "likeness, portrait",
   "etymology": "from: faceness",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

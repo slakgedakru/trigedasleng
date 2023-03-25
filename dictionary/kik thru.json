@@ -1,11 +1,12 @@
 {
   "id": 352,
   "word": "kik thru",
-  "translation": "verb: survive",
+  "translation": "survive",
   "etymology": "from: kick through",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

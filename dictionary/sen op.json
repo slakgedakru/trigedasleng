@@ -1,11 +1,12 @@
 {
   "id": 617,
   "word": "sen op",
-  "translation": "verb: send; listen",
+  "translation": "send; listen",
   "etymology": "from: send up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1484,
   "word": "nogredifou",
-  "translation": "adjective: barren, sterile",
+  "translation": "barren, sterile",
   "etymology": "from gredi",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

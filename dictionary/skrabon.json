@@ -1,11 +1,12 @@
 {
   "id": 2106,
   "word": "skrabon",
-  "translation": "noun: paper, stationary, writing surface",
+  "translation": "paper, stationary, writing surface",
   "etymology": "from: scribe",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

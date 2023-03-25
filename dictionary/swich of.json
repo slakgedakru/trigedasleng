@@ -1,11 +1,12 @@
 {
   "id": 1733,
   "word": "swich of",
-  "translation": "verb: take the place of, relieve",
+  "translation": "take the place of, relieve",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

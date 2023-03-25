@@ -1,11 +1,12 @@
 {
   "id": 1545,
   "word": "praya",
-  "translation": "noun: lever, crowbar, prybar",
+  "translation": "lever, crowbar, prybar",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

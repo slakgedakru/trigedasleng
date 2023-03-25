@@ -1,11 +1,12 @@
 {
   "id": 707,
   "word": "stanop",
-  "translation": "adjective: good",
+  "translation": "good",
   "etymology": "from: stand-up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

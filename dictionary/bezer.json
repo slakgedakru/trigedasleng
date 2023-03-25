@@ -1,11 +1,12 @@
 {
   "id": 45,
   "word": "bezer",
-  "translation": "adjective: favorite",
+  "translation": "favorite",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "416",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 722,
   "word": "sting in",
-  "translation": "verb: (intransitive) burn, sting, smart",
+  "translation": "(intransitive) burn, sting, smart",
   "etymology": "from: sting in",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

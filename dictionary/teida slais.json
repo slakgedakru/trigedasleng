@@ -1,11 +1,12 @@
 {
   "id": 2071,
   "word": "teida slais",
-  "translation": "noun: chips, home fries",
+  "translation": "chips, home fries",
   "etymology": "from: potato slice",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

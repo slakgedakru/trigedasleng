@@ -1,11 +1,12 @@
 {
   "id": 1036,
   "word": "azmellen",
-  "translation": "noun: melted ice",
+  "translation": "melted ice",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

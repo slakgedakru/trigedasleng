@@ -1,11 +1,12 @@
 {
   "id": 271,
   "word": "hangada",
-  "translation": "noun: handmaiden",
+  "translation": "handmaiden",
   "etymology": "from: hand-?",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2094,
   "word": "foulan",
-  "translation": "noun: square",
+  "translation": "square",
   "etymology": "from: four line",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

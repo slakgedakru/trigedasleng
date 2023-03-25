@@ -1,11 +1,12 @@
 {
   "id": 98,
   "word": "de",
-  "translation": "auxiliary: an emphatic particle with limited uses; attaches to a noun to indicate a specific instance of that noun",
+  "translation": "an emphatic particle with limited uses; attaches to a noun to indicate a specific instance of that noun",
   "etymology": "from: the",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "auxiliary"
 }

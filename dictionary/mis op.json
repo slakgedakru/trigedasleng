@@ -1,11 +1,12 @@
 {
   "id": 461,
   "word": "mis op",
-  "translation": "verb: mistake",
+  "translation": "mistake",
   "etymology": "from: miss up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

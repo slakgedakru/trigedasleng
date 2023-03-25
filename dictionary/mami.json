@@ -1,11 +1,12 @@
 {
   "id": 436,
   "word": "mami",
-  "translation": "noun: penis",
+  "translation": "penis",
   "etymology": "from: man-meat",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

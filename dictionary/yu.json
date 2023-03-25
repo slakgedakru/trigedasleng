@@ -1,11 +1,12 @@
 {
   "id": 849,
   "word": "yu",
-  "translation": "pronoun: (second person singular) you",
+  "translation": "(second person singular) you",
   "etymology": "from: you",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

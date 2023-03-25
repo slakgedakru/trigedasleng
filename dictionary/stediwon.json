@@ -1,11 +1,12 @@
 {
   "id": 2078,
   "word": "stediwon",
-  "translation": "noun: reliable or trustworthy person, dependable person",
+  "translation": "reliable or trustworthy person, dependable person",
   "etymology": "from: steady one",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

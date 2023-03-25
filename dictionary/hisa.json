@@ -1,11 +1,12 @@
 {
   "id": 1834,
   "word": "hisa",
-  "translation": "noun: snake",
+  "translation": "snake",
   "etymology": "from: unknown",
   "link": "",
   "citations": "425",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

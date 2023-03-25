@@ -1,11 +1,12 @@
 {
   "id": 1895,
   "word": "gran op",
-  "translation": "verb: to work",
+  "translation": "to work",
   "etymology": "from: grind",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

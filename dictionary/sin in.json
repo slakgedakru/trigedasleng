@@ -1,11 +1,12 @@
 {
   "id": 640,
   "word": "sin in",
-  "translation": "verb: witness, watch",
+  "translation": "witness, watch",
   "etymology": "from: seen in",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

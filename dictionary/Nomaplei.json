@@ -1,11 +1,12 @@
 {
   "id": 965,
   "word": "Nomaplei",
-  "translation": "noun: mathematics",
+  "translation": "mathematics",
   "etymology": "from: noma + plei",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

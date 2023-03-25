@@ -1,11 +1,12 @@
 {
   "id": 268,
   "word": "hakom",
-  "translation": "adverb: why",
+  "translation": "why",
   "etymology": "from: how-come",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

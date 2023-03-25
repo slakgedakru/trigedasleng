@@ -1,11 +1,12 @@
 {
   "id": 113,
   "word": "doba op",
-  "translation": "verb: (transitive) double back on",
+  "translation": "(transitive) double back on",
   "etymology": "from: double up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

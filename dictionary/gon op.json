@@ -1,11 +1,12 @@
 {
   "id": 233,
   "word": "gon op",
-  "translation": "verb: (transitive) to fight something or someone",
+  "translation": "(transitive) to fight something or someone",
   "etymology": "from: gun up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 197,
   "word": "fouvoudon",
-  "translation": "noun: precaution, forethought",
+  "translation": "precaution, forethought",
   "etymology": "from: before vote one",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

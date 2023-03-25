@@ -1,11 +1,12 @@
 {
   "id": 1889,
   "word": "bruz",
-  "translation": "adjective: purple (literary)",
+  "translation": "purple (literary)",
   "etymology": "from: bruise",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 333,
   "word": "jomp in",
-  "translation": "verb: fight, join a fight",
+  "translation": "fight, join a fight",
   "etymology": "from: jump in",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 386,
   "word": "komfoni",
-  "translation": "noun: grandmother",
+  "translation": "grandmother",
   "etymology": "from: come-before-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

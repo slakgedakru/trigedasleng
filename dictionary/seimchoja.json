@@ -1,11 +1,12 @@
 {
   "id": 2133,
   "word": "seimchoja",
-  "translation": "noun: cannibal",
+  "translation": "cannibal",
   "etymology": "from: seim + choj + a",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

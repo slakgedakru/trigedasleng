@@ -1,11 +1,12 @@
 {
   "id": 317,
   "word": "Idon",
-  "translation": "proper noun: Eden",
+  "translation": "Eden",
   "etymology": "from: Eden",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

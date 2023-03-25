@@ -1,11 +1,12 @@
 {
   "id": 2002,
   "word": "tro",
-  "translation": "noun: party, troop, squad",
+  "translation": "party, troop, squad",
   "etymology": "from: unknown",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

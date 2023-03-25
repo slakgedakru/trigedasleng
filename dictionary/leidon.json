@@ -1,11 +1,12 @@
 {
   "id": 417,
   "word": "leidon",
-  "translation": "phrase: goodbye, bye",
+  "translation": "goodbye, bye",
   "etymology": "from: later",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

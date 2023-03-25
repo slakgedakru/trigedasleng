@@ -1,11 +1,12 @@
 {
   "id": 1362,
   "word": "klam op",
-  "translation": "verb: climb",
+  "translation": "climb",
   "etymology": "from \"climb up\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

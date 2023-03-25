@@ -1,11 +1,12 @@
 {
   "id": 1288,
   "word": "gyon",
-  "translation": "auxiliary: go",
+  "translation": "go",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "auxiliary"
 }

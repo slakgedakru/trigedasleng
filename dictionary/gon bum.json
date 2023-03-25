@@ -1,11 +1,12 @@
 {
   "id": 1253,
   "word": "gon bum",
-  "translation": "phrase: exploding, exploded",
+  "translation": "exploding, exploded",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "phrase"
 }

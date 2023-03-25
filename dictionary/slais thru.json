@@ -1,11 +1,12 @@
 {
   "id": 1652,
   "word": "slais thru",
-  "translation": "verb: slash, slice",
+  "translation": "slash, slice",
   "etymology": "from \"slice\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

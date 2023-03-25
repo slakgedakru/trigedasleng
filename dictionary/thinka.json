@@ -1,11 +1,12 @@
 {
   "id": 2057,
   "word": "thinka",
-  "translation": "noun: mind",
+  "translation": "mind",
   "etymology": "from: thinker",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

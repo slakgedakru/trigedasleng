@@ -1,11 +1,12 @@
 {
   "id": 545,
   "word": "ponis",
-  "translation": "noun: farm",
+  "translation": "farm",
   "etymology": "from: (hydro)ponics",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1456,
   "word": "memen",
-  "translation": "noun: memory",
+  "translation": "memory",
   "etymology": "from c. mema in and mema we",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

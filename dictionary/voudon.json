@@ -1,11 +1,12 @@
 {
   "id": 1913,
   "word": "voudon",
-  "translation": "noun: thought",
+  "translation": "thought",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

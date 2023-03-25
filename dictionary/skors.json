@@ -1,11 +1,12 @@
 {
   "id": 1635,
   "word": "skors",
-  "translation": "noun: bickering, quarreling, squabbling",
+  "translation": "bickering, quarreling, squabbling",
   "etymology": "from \"discourse\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

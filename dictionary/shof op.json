@@ -1,11 +1,12 @@
 {
   "id": 632,
   "word": "shof op",
-  "translation": "verb: be quiet",
+  "translation": "be quiet",
   "etymology": "from: shut up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

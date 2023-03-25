@@ -1,11 +1,12 @@
 {
   "id": 472,
   "word": "moubeda",
-  "translation": "adverb: more",
+  "translation": "more",
   "etymology": "from: more-better",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

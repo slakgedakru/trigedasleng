@@ -1,11 +1,12 @@
 {
   "id": 702,
   "word": "sponj au",
-  "translation": "verb: drain",
+  "translation": "drain",
   "etymology": "from: sponge out",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

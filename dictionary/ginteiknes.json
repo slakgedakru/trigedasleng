@@ -1,11 +1,12 @@
 {
   "id": 1243,
   "word": "ginteiknes",
-  "translation": "noun: conference, negotiation, summit, talks",
+  "translation": "conference, negotiation, summit, talks",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

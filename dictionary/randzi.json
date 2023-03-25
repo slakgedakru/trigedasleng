@@ -1,11 +1,12 @@
 {
   "id": 561,
   "word": "randzi",
-  "translation": "noun: skilled cook",
+  "translation": "skilled cook",
   "etymology": "from: Ramsey",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

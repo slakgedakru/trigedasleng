@@ -1,11 +1,12 @@
 {
   "id": 1703,
   "word": "stashon",
-  "translation": "noun: cache, stash, hidden supply",
+  "translation": "cache, stash, hidden supply",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 615,
   "word": "sen in",
-  "translation": "verb: hear, listen; smell",
+  "translation": "hear, listen; smell",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

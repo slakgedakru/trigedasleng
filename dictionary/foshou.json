@@ -1,11 +1,12 @@
 {
   "id": 185,
   "word": "foshou",
-  "translation": "adverb: happily, gladly",
+  "translation": "happily, gladly",
   "etymology": "from: for-sure",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

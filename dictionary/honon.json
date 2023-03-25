@@ -1,11 +1,12 @@
 {
   "id": 303,
   "word": "honon",
-  "translation": "noun: prisoner, captive",
+  "translation": "prisoner, captive",
   "etymology": "from: hunt-one",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

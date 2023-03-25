@@ -1,11 +1,12 @@
 {
   "id": 1006,
   "word": "Throu we",
-  "translation": "verb: to dispose of",
+  "translation": "to dispose of",
   "etymology": "from: throw away",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

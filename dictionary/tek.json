@@ -1,11 +1,12 @@
 {
   "id": 759,
   "word": "tek",
-  "translation": "noun: technology",
+  "translation": "technology",
   "etymology": "from: tech",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1775,
   "word": "triyaj op",
-  "translation": "verb: prioritize",
+  "translation": "prioritize",
   "etymology": "from \"triage\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

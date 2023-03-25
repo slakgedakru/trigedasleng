@@ -1,11 +1,12 @@
 {
   "id": 2016,
   "word": "won",
-  "translation": "number: one",
+  "translation": "one",
   "etymology": "from: one",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "number"
 }

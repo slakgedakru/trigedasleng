@@ -1,11 +1,12 @@
 {
   "id": 1665,
   "word": "sofkova",
-  "translation": "noun: dress, gown",
+  "translation": "dress, gown",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

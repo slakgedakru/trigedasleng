@@ -1,11 +1,12 @@
 {
   "id": 695,
   "word": "spechou",
-  "translation": "phrase: congratulations",
+  "translation": "congratulations",
   "etymology": "from: special",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

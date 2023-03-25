@@ -1,11 +1,12 @@
 {
   "id": 1558,
   "word": "raitfou",
-  "translation": "adjective: fair, just, proper",
+  "translation": "fair, just, proper",
   "etymology": "from raitnes",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

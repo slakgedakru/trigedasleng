@@ -1,11 +1,12 @@
 {
   "id": 927,
   "word": "Hod daun",
-  "translation": "verb: to secure",
+  "translation": "to secure",
   "etymology": "from: hold down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

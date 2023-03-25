@@ -1,11 +1,12 @@
 {
   "id": 601,
   "word": "seda",
-  "translation": "noun: teacher, instructor",
+  "translation": "teacher, instructor",
   "etymology": "from: said-er",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

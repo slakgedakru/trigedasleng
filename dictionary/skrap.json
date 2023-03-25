@@ -1,11 +1,12 @@
 {
   "id": 1638,
   "word": "skrap",
-  "translation": "noun: piece, part, fragment, component, scrap",
+  "translation": "piece, part, fragment, component, scrap",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

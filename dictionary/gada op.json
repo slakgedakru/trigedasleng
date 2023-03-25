@@ -1,11 +1,12 @@
 {
   "id": 209,
   "word": "gada op",
-  "translation": "verb: gather",
+  "translation": "gather",
   "etymology": "from: gather up",
   "link": "#",
   "citations": "294",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

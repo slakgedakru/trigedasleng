@@ -1,11 +1,12 @@
 {
   "id": 444,
   "word": "Maungeda",
-  "translation": "noun: the name for a hypothetical Mountain Nation",
+  "translation": "the name for a hypothetical Mountain Nation",
   "etymology": "from: mountain-gather",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

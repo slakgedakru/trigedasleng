@@ -1,11 +1,12 @@
 {
   "id": 467,
   "word": "moksoka",
-  "translation": "noun: lamprey",
+  "translation": "lamprey",
   "etymology": "from: muck-sucker",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

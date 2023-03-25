@@ -1,11 +1,12 @@
 {
   "id": 1697,
   "word": "stagma",
-  "translation": "noun: blacksmith, armorer, swordmaker",
+  "translation": "blacksmith, armorer, swordmaker",
   "etymology": "from the Stagmer Brothers of Baltimore Knife & Sword",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

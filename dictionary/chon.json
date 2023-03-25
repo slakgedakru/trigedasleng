@@ -1,11 +1,12 @@
 {
   "id": 91,
   "word": "chon",
-  "translation": "pronoun: who; [with pronoun] which",
+  "translation": "who; [with pronoun] which",
   "etymology": "from: which-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

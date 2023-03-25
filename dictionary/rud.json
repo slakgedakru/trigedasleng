@@ -1,11 +1,12 @@
 {
   "id": 1583,
   "word": "rud",
-  "translation": "adjective: rude, abrupt, brusque, curt, snippy",
+  "translation": "rude, abrupt, brusque, curt, snippy",
   "etymology": "interj. \"that was rude\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

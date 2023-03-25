@@ -1,11 +1,12 @@
 {
   "id": 751,
   "word": "taim",
-  "translation": "conjunction: if; (taim... taim...) if... then...",
+  "translation": "if; (taim... taim...) if... then...",
   "etymology": "from: time",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "conjunction"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1875,
   "word": "kliron",
-  "translation": "noun: valley, opening",
+  "translation": "valley, opening",
   "etymology": "from: clear-one",
   "link": null,
   "citations": "437",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

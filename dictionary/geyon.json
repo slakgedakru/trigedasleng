@@ -1,11 +1,12 @@
 {
   "id": 1241,
   "word": "geyon",
-  "translation": "noun: happy one, glad one",
+  "translation": "happy one, glad one",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

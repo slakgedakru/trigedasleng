@@ -1,11 +1,12 @@
 {
   "id": 1952,
   "word": "chek raun",
-  "translation": "verb: look around",
+  "translation": "look around",
   "etymology": "from: check around",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

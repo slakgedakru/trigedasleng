@@ -1,11 +1,12 @@
 {
   "id": 644,
   "word": "sis op",
-  "translation": "verb: grab, take",
+  "translation": "grab, take",
   "etymology": "from: ? up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

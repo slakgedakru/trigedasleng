@@ -1,11 +1,12 @@
 {
   "id": 1577,
   "word": "reyon",
-  "translation": "noun: tent",
+  "translation": "tent",
   "etymology": "from \"rayon\" or REI",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

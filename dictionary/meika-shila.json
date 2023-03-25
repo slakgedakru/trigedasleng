@@ -1,11 +1,12 @@
 {
   "id": 1449,
   "word": "meika-shila",
-  "translation": "noun: hand guard, basket hilt, knuckle-bow hilt, esp. on a sword or other weapon",
+  "translation": "hand guard, basket hilt, knuckle-bow hilt, esp. on a sword or other weapon",
   "etymology": "from meika, \"hand\" and shila, \"protector\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

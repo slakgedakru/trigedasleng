@@ -1,11 +1,12 @@
 {
   "id": 13,
   "word": "au",
-  "translation": "adverb: out",
+  "translation": "out",
   "etymology": "from: out",
   "link": "#",
   "citations": "284",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

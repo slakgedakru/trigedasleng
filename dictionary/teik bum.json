@@ -1,11 +1,12 @@
 {
   "id": 2166,
   "word": "teik bum",
-  "translation": "verb: to explode",
+  "translation": "to explode",
   "etymology": "from: teik + bum",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

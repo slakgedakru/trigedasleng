@@ -1,11 +1,12 @@
 {
   "id": 576,
   "word": "riden",
-  "translation": "noun: sleep",
+  "translation": "sleep",
   "etymology": "from: ?-ing",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

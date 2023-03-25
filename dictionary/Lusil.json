@@ -1,11 +1,12 @@
 {
   "id": 958,
   "word": "Lusil",
-  "translation": "noun: bludgeon, club, baton, bat",
+  "translation": "bludgeon, club, baton, bat",
   "etymology": "from: Lucille",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

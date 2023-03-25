@@ -1,11 +1,12 @@
 {
   "id": 2008,
   "word": "won of",
-  "translation": "verb: wander off",
+  "translation": "wander off",
   "etymology": "from: wander off",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

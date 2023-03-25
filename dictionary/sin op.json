@@ -1,11 +1,12 @@
 {
   "id": 1621,
   "word": "sin op",
-  "translation": "verb: spot, notice",
+  "translation": "spot, notice",
   "etymology": "from c. sin in",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

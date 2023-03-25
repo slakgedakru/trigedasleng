@@ -1,11 +1,12 @@
 {
   "id": 1445,
   "word": "maya",
-  "translation": "noun: augur, oracle, soothsayer",
+  "translation": "augur, oracle, soothsayer",
   "etymology": "from \"Meyers-Briggs\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

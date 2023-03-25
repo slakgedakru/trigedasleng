@@ -1,11 +1,12 @@
 {
   "id": 550,
   "word": "pri",
-  "translation": "adjective: somewhat, pretty much",
+  "translation": "somewhat, pretty much",
   "etymology": "from: pretty",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

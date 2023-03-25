@@ -1,11 +1,12 @@
 {
   "id": 372,
   "word": "kol au",
-  "translation": "verb: challenge",
+  "translation": "challenge",
   "etymology": "from: call out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1019,
   "word": "Yowas",
-  "translation": "pronoun: yourselves",
+  "translation": "yourselves",
   "etymology": "from: yo + as",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "pronoun"
 }

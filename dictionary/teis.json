@@ -1,11 +1,12 @@
 {
   "id": 1749,
   "word": "teis",
-  "translation": "noun: taste, flavor",
+  "translation": "taste, flavor",
   "etymology": "from c. teisa",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

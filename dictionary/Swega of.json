@@ -1,11 +1,12 @@
 {
   "id": 1003,
   "word": "Swega of",
-  "translation": "verb: to cease, to stop doing",
+  "translation": "to cease, to stop doing",
   "etymology": "from: swega klin",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "satellite suppletion",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

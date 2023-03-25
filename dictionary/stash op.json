@@ -1,11 +1,12 @@
 {
   "id": 1700,
   "word": "stash op",
-  "translation": "verb: hide, conceal (s.o./s.t.)",
+  "translation": "hide, conceal (s.o./s.t.)",
   "etymology": "from \"stash\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

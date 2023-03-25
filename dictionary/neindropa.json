@@ -1,11 +1,12 @@
 {
   "id": 485,
   "word": "neindropa",
-  "translation": "noun: impostor, imposter",
+  "translation": "impostor, imposter",
   "etymology": "from: name-dropper",
   "link": "#",
   "citations": null,
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

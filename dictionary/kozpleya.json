@@ -1,11 +1,12 @@
 {
   "id": 1391,
   "word": "kozpleya",
-  "translation": "noun: actor",
+  "translation": "actor",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

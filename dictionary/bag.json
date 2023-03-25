@@ -1,11 +1,12 @@
 {
   "id": 25,
   "word": "bag",
-  "translation": "noun: bed",
+  "translation": "bed",
   "etymology": "from: bag",
   "link": "#",
   "citations": "212",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

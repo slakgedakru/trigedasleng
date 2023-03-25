@@ -1,11 +1,12 @@
 {
   "id": 1375,
   "word": "kol in",
-  "translation": "verb: summon",
+  "translation": "summon",
   "etymology": "from \"call in\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

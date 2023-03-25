@@ -1,11 +1,12 @@
 {
   "id": 1165,
   "word": "fami",
-  "translation": "verb: discuss, debate",
+  "translation": "discuss, debate",
   "etymology": "from \"fight me\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

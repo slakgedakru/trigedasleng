@@ -1,11 +1,12 @@
 {
   "id": 266,
   "word": "haka",
-  "translation": "noun: artist",
+  "translation": "artist",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

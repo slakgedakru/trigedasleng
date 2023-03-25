@@ -1,11 +1,12 @@
 {
   "id": 971,
   "word": "Raungou",
-  "translation": "noun: generation, life-cycle",
+  "translation": "generation, life-cycle",
   "etymology": "from: raunon + gou",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

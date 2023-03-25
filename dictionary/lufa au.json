@@ -1,11 +1,12 @@
 {
   "id": 431,
   "word": "lufa au",
-  "translation": "verb: to look for, to search for",
+  "translation": "to look for, to search for",
   "etymology": "from: look-for out",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

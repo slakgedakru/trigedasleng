@@ -1,11 +1,12 @@
 {
   "id": 1629,
   "word": "skaifluf",
-  "translation": "noun: cloud",
+  "translation": "cloud",
   "etymology": "from fluf",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

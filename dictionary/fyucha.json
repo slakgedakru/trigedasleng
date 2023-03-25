@@ -1,11 +1,12 @@
 {
   "id": 206,
   "word": "fyucha",
-  "translation": "noun: baby, infant",
+  "translation": "baby, infant",
   "etymology": "from: future",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

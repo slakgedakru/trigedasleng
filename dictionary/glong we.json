@@ -1,11 +1,12 @@
 {
   "id": 1245,
   "word": "glong we",
-  "translation": "verb: to exclude",
+  "translation": "to exclude",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

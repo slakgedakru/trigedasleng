@@ -1,11 +1,12 @@
 {
   "id": 1423,
   "word": "lip op",
-  "translation": "verb: leap, jump, hop",
+  "translation": "leap, jump, hop",
   "etymology": "from trilipa",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

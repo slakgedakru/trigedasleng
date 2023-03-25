@@ -1,11 +1,12 @@
 {
   "id": 1922,
   "word": "skeson",
-  "translation": "noun: rare one",
+  "translation": "rare one",
   "etymology": "from: scarce one",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

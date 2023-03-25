@@ -1,11 +1,12 @@
 {
   "id": 1946,
   "word": "aulana",
-  "translation": "noun: stranger, outsider, foreigner",
+  "translation": "stranger, outsider, foreigner",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

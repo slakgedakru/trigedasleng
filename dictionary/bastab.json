@@ -1,11 +1,12 @@
 {
   "id": 1042,
   "word": "bastab",
-  "translation": "noun: betrayal, double-cross",
+  "translation": "betrayal, double-cross",
   "etymology": "from \"back-stab\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

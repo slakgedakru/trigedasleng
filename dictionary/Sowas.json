@@ -1,11 +1,12 @@
 {
   "id": 993,
   "word": "Sowas",
-  "translation": "pronoun: ourselves (inclusive)",
+  "translation": "ourselves (inclusive)",
   "etymology": "from: oso + as",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "pronoun"
 }

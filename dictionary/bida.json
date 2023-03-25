@@ -1,11 +1,12 @@
 {
   "id": 46,
   "word": "bida",
-  "translation": "adjective: some, a few",
+  "translation": "some, a few",
   "etymology": "from: bit-of",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

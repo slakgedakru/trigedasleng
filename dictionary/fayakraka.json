@@ -1,11 +1,12 @@
 {
   "id": 1172,
   "word": "fayakraka",
-  "translation": "noun: bomb, explosion",
+  "translation": "bomb, explosion",
   "etymology": "from \"firecracker\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

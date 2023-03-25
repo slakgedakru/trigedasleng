@@ -1,11 +1,12 @@
 {
   "id": 1805,
   "word": "woflin",
-  "translation": "adjective: indecisive, halting, hesitant, torn, unable to choose",
+  "translation": "indecisive, halting, hesitant, torn, unable to choose",
   "etymology": "from \"waffling\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

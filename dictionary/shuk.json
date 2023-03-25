@@ -1,11 +1,12 @@
 {
   "id": 1619,
   "word": "shuk",
-  "translation": "adjective: daunted, intimidated, unsettled",
+  "translation": "daunted, intimidated, unsettled",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

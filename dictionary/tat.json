@@ -1,11 +1,12 @@
 {
   "id": 752,
   "word": "tat",
-  "translation": "noun: tattoo",
+  "translation": "tattoo",
   "etymology": "from: tattoo",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

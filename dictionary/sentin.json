@@ -1,11 +1,12 @@
 {
   "id": 2029,
   "word": "sentin",
-  "translation": "number: seventeen",
+  "translation": "seventeen",
   "etymology": "from: seventeen",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "number"
 }

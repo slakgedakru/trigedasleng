@@ -1,11 +1,12 @@
 {
   "id": 1024,
   "word": "as raun",
-  "translation": "verb: ask around",
+  "translation": "ask around",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

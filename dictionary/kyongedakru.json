@@ -1,11 +1,12 @@
 {
   "id": 1394,
   "word": "kyongedakru",
-  "translation": "noun: Grounders, the Grounder people",
+  "translation": "Grounders, the Grounder people",
   "etymology": "from kyongedon",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

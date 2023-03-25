@@ -1,11 +1,12 @@
 {
   "id": 178,
   "word": "flosh klin",
-  "translation": "verb: destroy, massacre",
+  "translation": "destroy, massacre",
   "etymology": "from: flush clean",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

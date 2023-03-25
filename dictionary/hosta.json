@@ -1,11 +1,12 @@
 {
   "id": 1331,
   "word": "hosta",
-  "translation": "noun: scabbard, sheath, quiver, weapon sling or carrier",
+  "translation": "scabbard, sheath, quiver, weapon sling or carrier",
   "etymology": "from \"holster\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

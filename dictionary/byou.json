@@ -1,11 +1,12 @@
 {
   "id": 1120,
   "word": "byou",
-  "translation": "noun: sweat",
+  "translation": "sweat",
   "etymology": "from \"B.O.\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

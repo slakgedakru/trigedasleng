@@ -1,11 +1,12 @@
 {
   "id": 208,
   "word": "gada in",
-  "translation": "verb: have, own",
+  "translation": "have, own",
   "etymology": "from: gather in",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

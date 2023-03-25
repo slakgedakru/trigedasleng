@@ -1,11 +1,12 @@
 {
   "id": 1007,
   "word": "Tik of",
-  "translation": "verb: to offend, to provoke, to outrage",
+  "translation": "to offend, to provoke, to outrage",
   "etymology": "from: tick off",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

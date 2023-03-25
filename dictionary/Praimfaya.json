@@ -1,11 +1,12 @@
 {
   "id": 1965,
   "word": "Praimfaya",
-  "translation": "noun: Praimfaya",
+  "translation": "Praimfaya",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

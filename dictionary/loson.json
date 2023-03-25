@@ -1,11 +1,12 @@
 {
   "id": 2114,
   "word": "loson",
-  "translation": "noun: a confused person",
+  "translation": "a confused person",
   "etymology": "from: lost one",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

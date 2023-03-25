@@ -1,11 +1,12 @@
 {
   "id": 1193,
   "word": "flash",
-  "translation": "noun: torch",
+  "translation": "torch",
   "etymology": "from \"flashlight\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

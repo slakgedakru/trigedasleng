@@ -1,11 +1,12 @@
 {
   "id": 771,
   "word": "tika",
-  "translation": "noun: moment",
+  "translation": "moment",
   "etymology": "from: ticker",
   "link": "#",
   "citations": "333",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 609,
   "word": "seimon",
-  "translation": "noun: same, same one",
+  "translation": "same, same one",
   "etymology": "from: same-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

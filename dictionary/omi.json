@@ -1,11 +1,12 @@
 {
   "id": 517,
   "word": "omi",
-  "translation": "noun: chicken",
+  "translation": "chicken",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

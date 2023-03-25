@@ -1,11 +1,12 @@
 {
   "id": 56,
   "word": "blinka",
-  "translation": "noun: eye",
+  "translation": "eye",
   "etymology": "from: blinker",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

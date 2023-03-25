@@ -1,11 +1,12 @@
 {
   "id": 1601,
   "word": "shaini",
-  "translation": "noun: trophy, prize, special item",
+  "translation": "trophy, prize, special item",
   "etymology": "from \"shiny\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

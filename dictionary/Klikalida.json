@@ -1,11 +1,12 @@
 {
   "id": 357,
   "word": "Klikalida",
-  "translation": "proper noun: bringer of the Key",
+  "translation": "bringer of the Key",
   "etymology": "from: clicker-leader",
   "link": "#",
   "citations": "414",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 689,
   "word": "sora",
-  "translation": "noun: bird",
+  "translation": "bird",
   "etymology": "from: dinosaur",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

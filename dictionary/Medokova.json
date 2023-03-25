@@ -1,11 +1,12 @@
 {
   "id": 960,
   "word": "Medokova",
-  "translation": "noun: shirt",
+  "translation": "shirt",
   "etymology": "from: medo + bakkova",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

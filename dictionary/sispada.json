@@ -1,11 +1,12 @@
 {
   "id": 1628,
   "word": "sispada",
-  "translation": "noun: crab",
+  "translation": "crab",
   "etymology": "from \"sea-spider\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

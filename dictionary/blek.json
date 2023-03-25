@@ -1,11 +1,12 @@
 {
   "id": 1064,
   "word": "blek",
-  "translation": "adjective: bad-tasting",
+  "translation": "bad-tasting",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

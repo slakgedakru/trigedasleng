@@ -1,11 +1,12 @@
 {
   "id": 717,
   "word": "step au",
-  "translation": "verb: make one's move",
+  "translation": "make one's move",
   "etymology": "from: step out",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

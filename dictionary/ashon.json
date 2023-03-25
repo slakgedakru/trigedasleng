@@ -1,11 +1,12 @@
 {
   "id": 2182,
   "word": "ashon",
-  "translation": "noun: verb, action, movement",
+  "translation": "verb, action, movement",
   "etymology": "from: action",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

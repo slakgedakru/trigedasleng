@@ -1,11 +1,12 @@
 {
   "id": 592,
   "word": "Sadgeda",
-  "translation": "proper noun: Conclave",
+  "translation": "Conclave",
   "etymology": "from: said-gather",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

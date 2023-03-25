@@ -1,11 +1,12 @@
 {
   "id": 2087,
   "word": "sok op",
-  "translation": "verb: gather around, form up",
+  "translation": "gather around, form up",
   "etymology": "from: circle up",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

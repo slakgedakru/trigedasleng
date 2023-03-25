@@ -1,11 +1,12 @@
 {
   "id": 422,
   "word": "lid in",
-  "translation": "verb: bring",
+  "translation": "bring",
   "etymology": "from: lead in",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

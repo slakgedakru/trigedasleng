@@ -1,11 +1,12 @@
 {
   "id": 97,
   "word": "daunde",
-  "translation": "pronoun: that one (far), that one over yonder",
+  "translation": "that one (far), that one over yonder",
   "etymology": "from: that-one-there",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

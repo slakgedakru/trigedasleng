@@ -1,11 +1,12 @@
 {
   "id": 292,
   "word": "hod klin",
-  "translation": "verb: (transitive) stop, keep away",
+  "translation": "(transitive) stop, keep away",
   "etymology": "from: hold clean",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

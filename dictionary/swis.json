@@ -1,11 +1,12 @@
 {
   "id": 741,
   "word": "swis",
-  "translation": "noun: (also swison) knife, blade",
+  "translation": "(also swison) knife, blade",
   "etymology": "from: Swiss",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

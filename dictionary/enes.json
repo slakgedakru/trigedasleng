@@ -1,11 +1,12 @@
 {
   "id": 136,
   "word": "enes",
-  "translation": "noun: everyone else",
+  "translation": "everyone else",
   "etymology": "from: everyone-else",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

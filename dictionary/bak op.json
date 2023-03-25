@@ -1,11 +1,12 @@
 {
   "id": 28,
   "word": "bak op",
-  "translation": "verb: go back, get back, stay back, back up, fall back",
+  "translation": "go back, get back, stay back, back up, fall back",
   "etymology": "from: back up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

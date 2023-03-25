@@ -1,11 +1,12 @@
 {
   "id": 879,
   "word": "Biyon",
-  "translation": "noun: phrase, sentence",
+  "translation": "phrase, sentence",
   "etymology": "from: biyo + on",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

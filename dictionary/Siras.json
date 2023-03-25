@@ -1,11 +1,12 @@
 {
   "id": 983,
   "word": "Siras",
-  "translation": "pronoun: ourselves (exclusive)",
+  "translation": "ourselves (exclusive)",
   "etymology": "from: osir + as",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "pronoun"
 }

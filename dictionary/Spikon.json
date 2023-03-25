@@ -1,11 +1,12 @@
 {
   "id": 996,
   "word": "Spikon",
-  "translation": "noun: complaint, protest, objection, disagreement",
+  "translation": "complaint, protest, objection, disagreement",
   "etymology": "from: spik au + on",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

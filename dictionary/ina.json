@@ -1,11 +1,12 @@
 {
   "id": 2055,
   "word": "ina",
-  "translation": "conjunction: even though, though, despite, despite the fact that",
+  "translation": "even though, though, despite, despite the fact that",
   "etymology": "from: even though",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "conjunction"
 }

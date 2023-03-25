@@ -1,11 +1,12 @@
 {
   "id": 575,
   "word": "rid op",
-  "translation": "verb: (reflexive) sleep, read to oneself; (transitive) read to someone",
+  "translation": "(reflexive) sleep, read to oneself; (transitive) read to someone",
   "etymology": "from: ?; read up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

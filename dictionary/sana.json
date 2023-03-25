@@ -1,11 +1,12 @@
 {
   "id": 1859,
   "word": "sana",
-  "translation": "noun: deaf person",
+  "translation": "deaf person",
   "etymology": "from: signer",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

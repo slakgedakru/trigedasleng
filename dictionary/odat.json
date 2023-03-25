@@ -1,11 +1,12 @@
 {
   "id": 1500,
   "word": "odat",
-  "translation": "adjective: perfect, beyond reproach, faultless, incomparable, peerless, supreme",
+  "translation": "perfect, beyond reproach, faultless, incomparable, peerless, supreme",
   "etymology": "from \"all that\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

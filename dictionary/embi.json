@@ -1,11 +1,12 @@
 {
   "id": 1161,
   "word": "embi",
-  "translation": "noun: augury, fortune, prophecy about a person's fate",
+  "translation": "augury, fortune, prophecy about a person's fate",
   "etymology": "from \"MB (Myers-Briggs) type\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

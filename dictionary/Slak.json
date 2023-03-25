@@ -1,11 +1,12 @@
 {
   "id": 986,
   "word": "Slak",
-  "translation": "adjective: open",
+  "translation": "open",
   "etymology": "from: slack",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

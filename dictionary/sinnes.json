@@ -1,11 +1,12 @@
 {
   "id": 1625,
   "word": "sinnes",
-  "translation": "noun: scenery, vista, sight",
+  "translation": "scenery, vista, sight",
   "etymology": "from c. sin in",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

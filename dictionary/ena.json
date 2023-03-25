@@ -1,11 +1,12 @@
 {
   "id": 135,
   "word": "ena",
-  "translation": "phrase: (interrogative) well?, and so?",
+  "translation": "(interrogative) well?, and so?",
   "etymology": "from: and-so",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

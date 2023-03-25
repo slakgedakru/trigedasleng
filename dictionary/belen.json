@@ -1,11 +1,12 @@
 {
   "id": 1051,
   "word": "belen",
-  "translation": "adjective: singing",
+  "translation": "singing",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

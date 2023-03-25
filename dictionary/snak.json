@@ -1,11 +1,12 @@
 {
   "id": 1661,
   "word": "snak",
-  "translation": "noun: a person who is attractive or desirable",
+  "translation": "a person who is attractive or desirable",
   "etymology": "adj. attractive, desirable",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

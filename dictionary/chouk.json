@@ -1,11 +1,12 @@
 {
   "id": 1130,
   "word": "chouk",
-  "translation": "noun: neck",
+  "translation": "neck",
   "etymology": "from \"chokepoint\" (pun intended)",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

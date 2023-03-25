@@ -1,11 +1,12 @@
 {
   "id": 137,
   "word": "eni",
-  "translation": "adverb: any",
+  "translation": "any",
   "etymology": "from: any",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

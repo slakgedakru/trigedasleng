@@ -1,11 +1,12 @@
 {
   "id": 148,
   "word": "feisbona",
-  "translation": "noun: wolfsbane, poison",
+  "translation": "wolfsbane, poison",
   "etymology": "from: face-boner",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2178,
   "word": "huk in",
-  "translation": "verb: to make interested, to entice, to bait",
+  "translation": "to make interested, to entice, to bait",
   "etymology": "from: hook + in",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

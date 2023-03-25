@@ -1,11 +1,12 @@
 {
   "id": 1125,
   "word": "cher",
-  "translation": "noun: firewood, kindling",
+  "translation": "firewood, kindling",
   "etymology": "from \"chair\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

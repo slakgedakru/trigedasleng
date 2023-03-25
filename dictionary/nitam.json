@@ -1,11 +1,12 @@
 {
   "id": 2172,
   "word": "nitam",
-  "translation": "adverb: lately, recently",
+  "translation": "lately, recently",
   "etymology": "from: near-time",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adverb"
 }

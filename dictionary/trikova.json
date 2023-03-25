@@ -1,11 +1,12 @@
 {
   "id": 799,
   "word": "trikova",
-  "translation": "noun: shadow",
+  "translation": "shadow",
   "etymology": "from: tree-cover",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1870,
   "word": "amau",
-  "translation": "noun: goodbye",
+  "translation": "goodbye",
   "etymology": "from: I'm out",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

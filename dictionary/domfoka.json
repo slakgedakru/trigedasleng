@@ -1,11 +1,12 @@
 {
   "id": 1144,
   "word": "domfoka",
-  "translation": "noun: the Ancients, people from before the Apocalypse",
+  "translation": "the Ancients, people from before the Apocalypse",
   "etymology": "from \"dumb fuckers\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 891,
   "word": "Deyof",
-  "translation": "noun: weekend, a day of the weekend",
+  "translation": "weekend, a day of the weekend",
   "etymology": "from: day off",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

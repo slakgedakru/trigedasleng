@@ -1,11 +1,12 @@
 {
   "id": 1654,
   "word": "slip we",
-  "translation": "verb: sneak away, depart or escape by stealth",
+  "translation": "sneak away, depart or escape by stealth",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1685,
   "word": "souk daun",
-  "translation": "verb: wet, dampen",
+  "translation": "wet, dampen",
   "etymology": "from \"soak\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

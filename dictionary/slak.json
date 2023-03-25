@@ -1,11 +1,12 @@
 {
   "id": 2042,
   "word": "slak",
-  "translation": "adjective: easy",
+  "translation": "easy",
   "etymology": "from: unknown",
   "link": "",
   "citations": "439",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

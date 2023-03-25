@@ -1,11 +1,12 @@
 {
   "id": 1615,
   "word": "shouda",
-  "translation": "noun: shoulder",
+  "translation": "shoulder",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 76,
   "word": "chek au",
-  "translation": "verb: look, look at",
+  "translation": "look, look at",
   "etymology": "from: check out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

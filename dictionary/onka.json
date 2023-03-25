@@ -1,11 +1,12 @@
 {
   "id": 1926,
   "word": "onka",
-  "translation": "noun: uncle; any older male relative; family friend",
+  "translation": "uncle; any older male relative; family friend",
   "etymology": "from: uncle",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 105,
   "word": "deyon",
-  "translation": "noun: today",
+  "translation": "today",
   "etymology": "from: day-one",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

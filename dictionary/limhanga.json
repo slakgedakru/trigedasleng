@@ -1,11 +1,12 @@
 {
   "id": 1778,
   "word": "limhanga",
-  "translation": "noun: sloth",
+  "translation": "sloth",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 247,
   "word": "goufa",
-  "translation": "noun: child",
+  "translation": "child",
   "etymology": "from: go-forth",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

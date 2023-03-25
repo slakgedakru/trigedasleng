@@ -1,11 +1,12 @@
 {
   "id": 710,
   "word": "stedaun",
-  "translation": "adjective: dead",
+  "translation": "dead",
   "etymology": "from: stay-down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

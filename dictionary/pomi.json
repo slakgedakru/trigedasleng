@@ -1,11 +1,12 @@
 {
   "id": 1541,
   "word": "pomi",
-  "translation": "interjection: excuse me, pardon me",
+  "translation": "excuse me, pardon me",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "interjection"
 }

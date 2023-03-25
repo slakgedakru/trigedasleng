@@ -1,11 +1,12 @@
 {
   "id": 2103,
   "word": "inasek",
-  "translation": "noun: cross, plus sign",
+  "translation": "cross, plus sign",
   "etymology": "from: intersect",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

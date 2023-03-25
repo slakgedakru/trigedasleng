@@ -1,11 +1,12 @@
 {
   "id": 1533,
   "word": "podon",
-  "translation": "noun: lake",
+  "translation": "lake",
   "etymology": "from pokakru",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

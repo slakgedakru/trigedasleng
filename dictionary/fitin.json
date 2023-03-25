@@ -1,11 +1,12 @@
 {
   "id": 2027,
   "word": "fitin",
-  "translation": "number: fifteen",
+  "translation": "fifteen",
   "etymology": "from: fifteen",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "number"
 }

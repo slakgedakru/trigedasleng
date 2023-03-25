@@ -1,11 +1,12 @@
 {
   "id": 380,
   "word": "kom we",
-  "translation": "adverb: as, in the way that",
+  "translation": "as, in the way that",
   "etymology": "from: come way",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

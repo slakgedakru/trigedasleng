@@ -1,11 +1,12 @@
 {
   "id": 1448,
   "word": "medoripa",
-  "translation": "noun: cancer",
+  "translation": "cancer",
   "etymology": "from medo and ripa",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1411,
   "word": "leda-haka",
-  "translation": "noun: leathercrafter, harness-maker, saddler",
+  "translation": "leathercrafter, harness-maker, saddler",
   "etymology": "from c. leda and c. haka",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

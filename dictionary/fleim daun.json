@@ -1,11 +1,12 @@
 {
   "id": 169,
   "word": "fleim daun",
-  "translation": "verb: burn completely, burn to the ground",
+  "translation": "burn completely, burn to the ground",
   "etymology": "from: flame down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

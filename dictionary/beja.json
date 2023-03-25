@@ -1,11 +1,12 @@
 {
   "id": 43,
   "word": "beja",
-  "translation": "adverb: please; used as a plea or supplication",
+  "translation": "please; used as a plea or supplication",
   "etymology": "from: beg-you",
   "link": "#",
   "citations": "61",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

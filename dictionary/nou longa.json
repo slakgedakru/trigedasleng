@@ -1,11 +1,12 @@
 {
   "id": 1492,
   "word": "nou longa",
-  "translation": "adverb: anymore, any longer",
+  "translation": "anymore, any longer",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

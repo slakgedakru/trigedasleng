@@ -1,11 +1,12 @@
 {
   "id": 1852,
   "word": "sichripa",
-  "translation": "noun: problem-solver, troubleshooter",
+  "translation": "problem-solver, troubleshooter",
   "etymology": "from: [[sich]] + [[ripa]]",
   "link": "",
   "citations": null,
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

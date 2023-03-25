@@ -1,11 +1,12 @@
 {
   "id": 633,
   "word": "shopta",
-  "translation": "phrase: how are you",
+  "translation": "how are you",
   "etymology": "from: whatcha-up-to",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

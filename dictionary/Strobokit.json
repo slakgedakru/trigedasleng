@@ -1,11 +1,12 @@
 {
   "id": 999,
   "word": "Strobokit",
-  "translation": "noun: basket, woven container",
+  "translation": "basket, woven container",
   "etymology": "from: straw bucket",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

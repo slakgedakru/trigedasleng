@@ -1,11 +1,12 @@
 {
   "id": 2179,
   "word": "throu in",
-  "translation": "verb: to add to, to put with",
+  "translation": "to add to, to put with",
   "etymology": "from: throw in [note: irregular verb. it's paired with raun when the satellite is dropped]",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 457,
   "word": "memon",
-  "translation": "noun: symbol",
+  "translation": "symbol",
   "etymology": "from: remember-one",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

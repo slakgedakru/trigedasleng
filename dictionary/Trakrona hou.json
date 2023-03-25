@@ -1,11 +1,12 @@
 {
   "id": 1013,
   "word": "Trakrona hou",
-  "translation": "noun: train station",
+  "translation": "train station",
   "etymology": "from: trakrona + hou",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

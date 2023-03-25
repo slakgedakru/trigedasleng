@@ -1,11 +1,12 @@
 {
   "id": 1041,
   "word": "bashfou",
-  "translation": "adjective: sore, bruised, aching",
+  "translation": "sore, bruised, aching",
   "etymology": "from c. bash op",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

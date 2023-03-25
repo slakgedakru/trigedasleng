@@ -1,11 +1,12 @@
 {
   "id": 700,
   "word": "spin raun",
-  "translation": "verb: (transitive) dance; (reflexive) think, esp. meditatively",
+  "translation": "(transitive) dance; (reflexive) think, esp. meditatively",
   "etymology": "from: spin around",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

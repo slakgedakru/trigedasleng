@@ -1,11 +1,12 @@
 {
   "id": 2095,
   "word": "lonlan",
-  "translation": "noun: rectangle",
+  "translation": "rectangle",
   "etymology": "from: long lines",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1959,
   "word": "fleiva",
-  "translation": "noun: salt",
+  "translation": "salt",
   "etymology": "from: flavour, flavor",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

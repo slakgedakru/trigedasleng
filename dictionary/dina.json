@@ -1,11 +1,12 @@
 {
   "id": 108,
   "word": "dina",
-  "translation": "noun: food",
+  "translation": "food",
   "etymology": "from: dinner",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

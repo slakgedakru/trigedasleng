@@ -1,11 +1,12 @@
 {
   "id": 1294,
   "word": "hang",
-  "translation": "noun: visit",
+  "translation": "visit",
   "etymology": "from \"hang out\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

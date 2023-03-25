@@ -1,11 +1,12 @@
 {
   "id": 1901,
   "word": "oma",
-  "translation": "adjective: my (plural number)",
+  "translation": "my (plural number)",
   "etymology": "from: all my",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

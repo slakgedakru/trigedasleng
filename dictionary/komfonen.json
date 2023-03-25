@@ -1,11 +1,12 @@
 {
   "id": 1384,
   "word": "komfonen",
-  "translation": "noun: ancestry",
+  "translation": "ancestry",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

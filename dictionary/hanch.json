@@ -1,11 +1,12 @@
 {
   "id": 270,
   "word": "hanch",
-  "translation": "adverb: how much",
+  "translation": "how much",
   "etymology": "from: how-much",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

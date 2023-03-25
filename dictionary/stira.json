@@ -1,11 +1,12 @@
 {
   "id": 1710,
   "word": "stira",
-  "translation": "noun: reins",
+  "translation": "reins",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

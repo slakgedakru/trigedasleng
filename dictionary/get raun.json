@@ -1,11 +1,12 @@
 {
   "id": 223,
   "word": "get raun",
-  "translation": "verb: atone",
+  "translation": "atone",
   "etymology": "from: get around",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

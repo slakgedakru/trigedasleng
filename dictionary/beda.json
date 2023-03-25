@@ -1,11 +1,12 @@
 {
   "id": 1948,
   "word": "beda",
-  "translation": "particle: should, ought to",
+  "translation": "should, ought to",
   "etymology": "from: better",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "particle"
 }

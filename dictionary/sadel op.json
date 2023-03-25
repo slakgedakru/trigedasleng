@@ -1,11 +1,12 @@
 {
   "id": 1586,
   "word": "sadel op",
-  "translation": "verb: saddle",
+  "translation": "saddle",
   "etymology": "from \"saddle up\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

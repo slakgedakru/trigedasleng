@@ -1,11 +1,12 @@
 {
   "id": 1572,
   "word": "reknes",
-  "translation": "noun: depression, misery, sorrow",
+  "translation": "depression, misery, sorrow",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

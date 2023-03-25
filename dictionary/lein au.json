@@ -1,11 +1,12 @@
 {
   "id": 2043,
   "word": "lein au",
-  "translation": "verb: to form or position something",
+  "translation": "to form or position something",
   "etymology": "from: unknown",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 409,
   "word": "las",
-  "translation": "adjective: last",
+  "translation": "last",
   "etymology": "from: last",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

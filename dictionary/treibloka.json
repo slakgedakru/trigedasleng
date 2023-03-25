@@ -1,11 +1,12 @@
 {
   "id": 792,
   "word": "treibloka",
-  "translation": "noun: blockade, trade embargo",
+  "translation": "blockade, trade embargo",
   "etymology": "from: trade-blocker",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

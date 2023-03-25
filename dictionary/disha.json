@@ -1,11 +1,12 @@
 {
   "id": 110,
   "word": "disha",
-  "translation": "adjective: this",
+  "translation": "this",
   "etymology": "from: this",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

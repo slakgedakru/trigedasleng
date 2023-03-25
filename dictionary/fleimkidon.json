@@ -1,11 +1,12 @@
 {
   "id": 174,
   "word": "fleimkidon",
-  "translation": "noun: flame kit, used by the Flamekeeper to release the Commander's spirit when the current Commander dies",
+  "translation": "flame kit, used by the Flamekeeper to release the Commander's spirit when the current Commander dies",
   "etymology": "from: flame-kit-one",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

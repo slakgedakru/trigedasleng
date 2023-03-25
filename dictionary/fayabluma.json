@@ -1,11 +1,12 @@
 {
   "id": 1170,
   "word": "fayabluma",
-  "translation": "noun: fireworks, firecracker",
+  "translation": "fireworks, firecracker",
   "etymology": "from faya + bluma",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1917,
   "word": "munshana",
-  "translation": "noun: moon",
+  "translation": "moon",
   "etymology": "from: moon-shiner",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

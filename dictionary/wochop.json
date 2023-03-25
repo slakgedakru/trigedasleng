@@ -1,11 +1,12 @@
 {
   "id": 835,
   "word": "wochop",
-  "translation": "noun: lesson",
+  "translation": "lesson",
   "etymology": "from: watch-up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

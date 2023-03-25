@@ -1,11 +1,12 @@
 {
   "id": 51,
   "word": "bitam",
-  "translation": "adverb: enough; very much",
+  "translation": "enough; very much",
   "etymology": "from: big-time",
   "link": "#",
   "citations": "334",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

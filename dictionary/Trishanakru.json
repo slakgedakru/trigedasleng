@@ -1,11 +1,12 @@
 {
   "id": 2001,
   "word": "Trishanakru",
-  "translation": "noun: Trishanakru",
+  "translation": "Trishanakru",
   "etymology": "from: tree-shiner-crew",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

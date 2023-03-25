@@ -1,11 +1,12 @@
 {
   "id": 1297,
   "word": "haisiden",
-  "translation": "noun: coronotion, enthroning",
+  "translation": "coronotion, enthroning",
   "etymology": "from c. haisidon",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1305,
   "word": "han daun",
-  "translation": "verb: give an inheritance (ge han daun, \"inherit\")",
+  "translation": "give an inheritance (ge han daun, \"inherit\")",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

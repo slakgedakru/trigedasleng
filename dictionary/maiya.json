@@ -1,11 +1,12 @@
 {
   "id": 2139,
   "word": "maiya",
-  "translation": "adjective: missing, absent, lost",
+  "translation": "missing, absent, lost",
   "etymology": "from: MIA",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

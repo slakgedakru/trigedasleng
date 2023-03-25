@@ -1,11 +1,12 @@
 {
   "id": 1850,
   "word": "mema klin",
-  "translation": "verb: to be fluent in a language",
+  "translation": "to be fluent in a language",
   "etymology": "from: [[mema in]] (satellite suppletion)",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1168,
   "word": "fansiyas",
-  "translation": "adjective: arrogant, condescending, patronizing, snobbish, snooty, superior",
+  "translation": "arrogant, condescending, patronizing, snobbish, snooty, superior",
   "etymology": "from \"fancy-ass\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

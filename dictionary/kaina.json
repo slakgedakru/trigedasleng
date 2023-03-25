@@ -1,11 +1,12 @@
 {
   "id": 339,
   "word": "kaina",
-  "translation": "adjective: what kind of, kind of, kind, type",
+  "translation": "what kind of, kind of, kind, type",
   "etymology": "from: kind of",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

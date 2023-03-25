@@ -1,11 +1,12 @@
 {
   "id": 310,
   "word": "hot",
-  "translation": "adjective: armed",
+  "translation": "armed",
   "etymology": "from: hot",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

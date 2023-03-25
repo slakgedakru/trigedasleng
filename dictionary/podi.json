@@ -1,11 +1,12 @@
 {
   "id": 1531,
   "word": "podi",
-  "translation": "noun: ceremony, ritual",
+  "translation": "ceremony, ritual",
   "etymology": "from \"party\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

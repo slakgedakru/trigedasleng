@@ -1,11 +1,12 @@
 {
   "id": 406,
   "word": "laik",
-  "translation": "verb: be",
+  "translation": "be",
   "etymology": "from: like",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

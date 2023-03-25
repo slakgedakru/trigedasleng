@@ -1,11 +1,12 @@
 {
   "id": 544,
   "word": "ponch",
-  "translation": "noun: punch",
+  "translation": "punch",
   "etymology": "from: punch",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

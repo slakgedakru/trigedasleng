@@ -1,11 +1,12 @@
 {
   "id": 164,
   "word": "fiya",
-  "translation": "phrase: sorry, condolences",
+  "translation": "sorry, condolences",
   "etymology": "from: feel-ya",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

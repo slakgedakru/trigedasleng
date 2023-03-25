@@ -1,11 +1,12 @@
 {
   "id": 297,
   "word": "hofli",
-  "translation": "adverb: may [something happen], hopefully, I hope",
+  "translation": "may [something happen], hopefully, I hope",
   "etymology": "from: hopefully",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 680,
   "word": "somines",
-  "translation": "noun: pride",
+  "translation": "pride",
   "etymology": "from: unknown",
   "link": "#",
   "citations": "333",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

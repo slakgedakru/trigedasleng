@@ -1,11 +1,12 @@
 {
   "id": 494,
   "word": "noda",
-  "translation": "adjective: another",
+  "translation": "another",
   "etymology": "from: another",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

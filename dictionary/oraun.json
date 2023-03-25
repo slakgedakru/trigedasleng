@@ -1,11 +1,12 @@
 {
   "id": 1506,
   "word": "oraun",
-  "translation": "adjective: surrounding, surrounded",
+  "translation": "surrounding, surrounded",
   "etymology": "from \"all around\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

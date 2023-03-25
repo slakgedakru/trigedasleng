@@ -1,11 +1,12 @@
 {
   "id": 1563,
   "word": "raswap",
-  "translation": "noun: right flank",
+  "translation": "right flank",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

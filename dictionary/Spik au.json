@@ -1,11 +1,12 @@
 {
   "id": 994,
   "word": "Spik au",
-  "translation": "verb: to complain, to protest, to disagree",
+  "translation": "to complain, to protest, to disagree",
   "etymology": "from: speak out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

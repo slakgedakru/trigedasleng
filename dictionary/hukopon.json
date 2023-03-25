@@ -1,11 +1,12 @@
 {
   "id": 1340,
   "word": "hukopon",
-  "translation": "noun: ally",
+  "translation": "ally",
   "etymology": "from c. hukop",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

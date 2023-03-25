@@ -1,11 +1,12 @@
 {
   "id": 833,
   "word": "wocha",
-  "translation": "noun: chieftain",
+  "translation": "chieftain",
   "etymology": "from: watcher",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2164,
   "word": "sobjet",
-  "translation": "noun: class",
+  "translation": "class",
   "etymology": "from: subject",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

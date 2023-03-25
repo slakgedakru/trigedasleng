@@ -1,11 +1,12 @@
 {
   "id": 1742,
   "word": "taimtona",
-  "translation": "noun: hourglass",
+  "translation": "hourglass",
   "etymology": "from \"time-turner\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

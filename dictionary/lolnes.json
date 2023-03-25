@@ -1,11 +1,12 @@
 {
   "id": 1430,
   "word": "lolnes",
-  "translation": "noun: laughter, hilarity, hilariousness",
+  "translation": "laughter, hilarity, hilariousness",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

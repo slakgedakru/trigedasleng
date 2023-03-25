@@ -1,11 +1,12 @@
 {
   "id": 765,
   "word": "thompa",
-  "translation": "noun: rabbit",
+  "translation": "rabbit",
   "etymology": "from: thumper",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

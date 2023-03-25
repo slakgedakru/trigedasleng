@@ -1,11 +1,12 @@
 {
   "id": 264,
   "word": "haiplana",
-  "translation": "noun: queen",
+  "translation": "queen",
   "etymology": "from: high-?",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

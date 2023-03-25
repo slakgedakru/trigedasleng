@@ -1,11 +1,12 @@
 {
   "id": 616,
   "word": "sen klir",
-  "translation": "verb: release, set free, let go",
+  "translation": "release, set free, let go",
   "etymology": "from: send clear",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

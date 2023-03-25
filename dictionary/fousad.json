@@ -1,11 +1,12 @@
 {
   "id": 1214,
   "word": "fousad",
-  "translation": "noun: forward, front side",
+  "translation": "forward, front side",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

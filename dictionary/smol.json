@@ -1,11 +1,12 @@
 {
   "id": 1658,
   "word": "smol",
-  "translation": "adjective: small and precious",
+  "translation": "small and precious",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 613,
   "word": "sen",
-  "translation": "noun: smell; seven",
+  "translation": "smell; seven",
   "etymology": "from: scent; seven",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

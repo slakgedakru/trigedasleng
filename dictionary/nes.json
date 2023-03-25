@@ -1,11 +1,12 @@
 {
   "id": 487,
   "word": "nes",
-  "translation": "adjective: next",
+  "translation": "next",
   "etymology": "from: next",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

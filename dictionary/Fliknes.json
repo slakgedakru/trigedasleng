@@ -1,11 +1,12 @@
 {
   "id": 902,
   "word": "Fliknes",
-  "translation": "noun: candlelight",
+  "translation": "candlelight",
   "etymology": "from: flikas",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "back formation",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1347,
   "word": "kainnes",
-  "translation": "noun: mercy",
+  "translation": "mercy",
   "etymology": "from \"kindness\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

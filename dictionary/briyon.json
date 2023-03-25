@@ -1,11 +1,12 @@
 {
   "id": 68,
   "word": "briyon",
-  "translation": "adjective: smart, wise",
+  "translation": "smart, wise",
   "etymology": "from: brilliant",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

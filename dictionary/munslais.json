@@ -1,11 +1,12 @@
 {
   "id": 2098,
   "word": "munslais",
-  "translation": "noun: crescent",
+  "translation": "crescent",
   "etymology": "from: moon slice",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

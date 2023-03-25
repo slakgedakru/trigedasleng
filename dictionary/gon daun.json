@@ -1,11 +1,12 @@
 {
   "id": 232,
   "word": "gon daun",
-  "translation": "verb: (transitive) fight, happen",
+  "translation": "(transitive) fight, happen",
   "etymology": "from: gun down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

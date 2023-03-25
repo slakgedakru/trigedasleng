@@ -1,11 +1,12 @@
 {
   "id": 1548,
   "word": "radz",
-  "translation": "noun: radiation",
+  "translation": "radiation",
   "etymology": "from \"rads\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

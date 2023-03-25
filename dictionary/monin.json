@@ -1,11 +1,12 @@
 {
   "id": 468,
   "word": "monin",
-  "translation": "phrase: welcome",
+  "translation": "welcome",
   "etymology": "from: come-on-in",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

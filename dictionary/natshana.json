@@ -1,11 +1,12 @@
 {
   "id": 483,
   "word": "natshana",
-  "translation": "noun: moon",
+  "translation": "moon",
   "etymology": "from: night-shiner",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

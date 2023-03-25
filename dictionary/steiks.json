@@ -1,11 +1,12 @@
 {
   "id": 713,
   "word": "steiks",
-  "translation": "noun: meat",
+  "translation": "meat",
   "etymology": "from: steaks",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

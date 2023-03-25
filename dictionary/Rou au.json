@@ -1,11 +1,12 @@
 {
   "id": 974,
   "word": "Rou au",
-  "translation": "verb: to leave",
+  "translation": "to leave",
   "etymology": "from: roll out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "It is primarily used with a plural subject.",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

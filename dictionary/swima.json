@@ -1,11 +1,12 @@
 {
   "id": 740,
   "word": "swima",
-  "translation": "noun: fish",
+  "translation": "fish",
   "etymology": "from: swimmer",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

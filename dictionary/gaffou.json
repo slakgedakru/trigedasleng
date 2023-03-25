@@ -1,11 +1,12 @@
 {
   "id": 1227,
   "word": "gaffou",
-  "translation": "adjective: necessary, needed, wanted, desired, required",
+  "translation": "necessary, needed, wanted, desired, required",
   "etymology": "from c. gaf in",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

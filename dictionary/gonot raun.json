@@ -1,11 +1,12 @@
 {
   "id": 242,
   "word": "gonot raun",
-  "translation": "verb: leave, go away (urgently)",
+  "translation": "leave, go away (urgently)",
   "etymology": "from: gone-out around",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

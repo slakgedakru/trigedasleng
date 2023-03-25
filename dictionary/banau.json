@@ -1,11 +1,12 @@
 {
   "id": 37,
   "word": "banau",
-  "translation": "adjective: banished",
+  "translation": "banished",
   "etymology": "from: ban-out",
   "link": "#",
   "citations": "419",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

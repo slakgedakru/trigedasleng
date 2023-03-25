@@ -1,11 +1,12 @@
 {
   "id": 194,
   "word": "fou",
-  "translation": "conjunction: (subordinating) before; four",
+  "translation": "(subordinating) before; four",
   "etymology": "from: before; four",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "conjunction"
 }

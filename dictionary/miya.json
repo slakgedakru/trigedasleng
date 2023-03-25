@@ -1,11 +1,12 @@
 {
   "id": 462,
   "word": "miya",
-  "translation": "verb: [command] come, come here",
+  "translation": "[command] come, come here",
   "etymology": "from: come here",
   "link": "#",
   "citations": "294",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

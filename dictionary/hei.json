@@ -1,11 +1,12 @@
 {
   "id": 284,
   "word": "hei",
-  "translation": "phrase: hello, hi",
+  "translation": "hello, hi",
   "etymology": "from: hey",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1,
   "word": "aftaim",
-  "translation": "noun: future",
+  "translation": "future",
   "etymology": "from: after-time",
   "link": "#",
   "citations": "421",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

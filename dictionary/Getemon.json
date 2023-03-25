@@ -1,11 +1,12 @@
 {
   "id": 911,
   "word": "Getemon",
-  "translation": "noun: surprise",
+  "translation": "surprise",
   "etymology": "from: get them one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

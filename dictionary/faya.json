@@ -1,11 +1,12 @@
 {
   "id": 145,
   "word": "faya",
-  "translation": "noun: fire",
+  "translation": "fire",
   "etymology": "from: fire",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

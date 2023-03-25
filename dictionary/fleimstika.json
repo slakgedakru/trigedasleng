@@ -1,11 +1,12 @@
 {
   "id": 175,
   "word": "fleimstika",
-  "translation": "noun: brand",
+  "translation": "brand",
   "etymology": "from: flame-sticker",
   "link": "#",
   "citations": "290",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

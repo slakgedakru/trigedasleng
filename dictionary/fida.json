@@ -1,11 +1,12 @@
 {
   "id": 1179,
   "word": "fida",
-  "translation": "noun: root",
+  "translation": "root",
   "etymology": "from \"feeder\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1089,
   "word": "boren",
-  "translation": "noun: bore, drill (short for boren rench",
+  "translation": "bore, drill (short for boren rench",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

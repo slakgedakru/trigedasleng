@@ -1,11 +1,12 @@
 {
   "id": 1234,
   "word": "geifou",
-  "translation": "adjective: very happy, joyful, thrilled",
+  "translation": "very happy, joyful, thrilled",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

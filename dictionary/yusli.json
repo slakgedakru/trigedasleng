@@ -1,11 +1,12 @@
 {
   "id": 1819,
   "word": "yusli",
-  "translation": "adverb: futilely, uselessly, vainly",
+  "translation": "futilely, uselessly, vainly",
   "etymology": "from \"uselessly\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

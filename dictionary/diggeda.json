@@ -1,11 +1,12 @@
 {
   "id": 2163,
   "word": "diggeda",
-  "translation": "noun: school, classroom, place of learning",
+  "translation": "school, classroom, place of learning",
   "etymology": "from: dig+geda",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

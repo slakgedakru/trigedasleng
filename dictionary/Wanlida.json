@@ -1,11 +1,12 @@
 {
   "id": 821,
   "word": "Wanlida",
-  "translation": "proper noun: bringer of death",
+  "translation": "bringer of death",
   "etymology": "from: wind-leader",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

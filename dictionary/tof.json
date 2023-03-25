@@ -1,11 +1,12 @@
 {
   "id": 773,
   "word": "tof",
-  "translation": "noun: (one's) land",
+  "translation": "(one's) land",
   "etymology": "from: turf",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

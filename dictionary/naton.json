@@ -1,11 +1,12 @@
 {
   "id": 1470,
   "word": "naton",
-  "translation": "adverb: tonight",
+  "translation": "tonight",
   "etymology": "from nat",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

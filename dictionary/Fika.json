@@ -1,11 +1,12 @@
 {
   "id": 899,
   "word": "Fika",
-  "translation": "noun: storyteller",
+  "translation": "storyteller",
   "etymology": "from: fik + a",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

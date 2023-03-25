@@ -1,11 +1,12 @@
 {
   "id": 2034,
   "word": "tromp raun",
-  "translation": "verb: lie",
+  "translation": "lie",
   "etymology": "from: Trump",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

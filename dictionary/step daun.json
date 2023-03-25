@@ -1,11 +1,12 @@
 {
   "id": 1705,
   "word": "step daun",
-  "translation": "verb: retire, abdicate a position",
+  "translation": "retire, abdicate a position",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

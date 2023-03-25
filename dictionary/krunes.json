@@ -1,11 +1,12 @@
 {
   "id": 399,
   "word": "krunes",
-  "translation": "noun: the \"Kru life\", lifestyle of a Grounder",
+  "translation": "the \"Kru life\", lifestyle of a Grounder",
   "etymology": "from: crew-ness",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

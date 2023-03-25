@@ -1,11 +1,12 @@
 {
   "id": 1824,
   "word": "flinga",
-  "translation": "noun: monkey",
+  "translation": "monkey",
   "etymology": "from: unknown",
   "link": "",
   "citations": "425",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

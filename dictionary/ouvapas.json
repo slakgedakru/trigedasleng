@@ -1,11 +1,12 @@
 {
   "id": 1516,
   "word": "ouvapas",
-  "translation": "noun: bridge, overpass, el",
+  "translation": "bridge, overpass, el",
   "etymology": "from \"overpass\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

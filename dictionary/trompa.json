@@ -1,11 +1,12 @@
 {
   "id": 2035,
   "word": "trompa",
-  "translation": "noun: lie",
+  "translation": "lie",
   "etymology": "from: Trumper",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

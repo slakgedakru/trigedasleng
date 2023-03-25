@@ -1,11 +1,12 @@
 {
   "id": 1452,
   "word": "mel of",
-  "translation": "verb: melt off",
+  "translation": "melt off",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

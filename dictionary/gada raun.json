@@ -1,11 +1,12 @@
 {
   "id": 1226,
   "word": "gada raun",
-  "translation": "verb: gather in a group, assemble, congregate",
+  "translation": "gather in a group, assemble, congregate",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

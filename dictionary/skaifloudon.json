@@ -1,11 +1,12 @@
 {
   "id": 2049,
   "word": "skaifloudon",
-  "translation": "noun: spaceship",
+  "translation": "spaceship",
   "etymology": "from: [[skai]] + [[floudon]]",
   "link": "",
   "citations": "437",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

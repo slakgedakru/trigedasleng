@@ -1,11 +1,12 @@
 {
   "id": 888,
   "word": "Chok op",
-  "translation": "verb: to vomit",
+  "translation": "to vomit",
   "etymology": "from: chuck up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

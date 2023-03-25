@@ -1,11 +1,12 @@
 {
   "id": 1434,
   "word": "longtaim",
-  "translation": "adverb: eventually, after a while",
+  "translation": "eventually, after a while",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

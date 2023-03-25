@@ -1,11 +1,12 @@
 {
   "id": 23,
   "word": "badannes",
-  "translation": "noun: allegiance, loyalty, service",
+  "translation": "allegiance, loyalty, service",
   "etymology": "from: bow-down-ness",
   "link": "#",
   "citations": "216",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

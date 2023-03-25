@@ -1,11 +1,12 @@
 {
   "id": 188,
   "word": "foutaim",
-  "translation": "noun: past",
+  "translation": "past",
   "etymology": "from: before-time",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

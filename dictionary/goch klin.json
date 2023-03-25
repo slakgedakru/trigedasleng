@@ -1,11 +1,12 @@
 {
   "id": 230,
   "word": "goch klin",
-  "translation": "verb: avenge",
+  "translation": "avenge",
   "etymology": "from: gotcha clean",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

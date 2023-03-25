@@ -1,11 +1,12 @@
 {
   "id": 723,
   "word": "stoda",
-  "translation": "noun: start, beginning",
+  "translation": "start, beginning",
   "etymology": "from: starter",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

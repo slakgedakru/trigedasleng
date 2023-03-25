@@ -1,11 +1,12 @@
 {
   "id": 2171,
   "word": "tamplei",
-  "translation": "noun: history, past (events",
+  "translation": "history, past (events",
   "etymology": "from: taim + plei",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

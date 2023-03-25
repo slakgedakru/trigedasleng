@@ -1,11 +1,12 @@
 {
   "id": 418,
   "word": "leron",
-  "translation": "noun: belonging, possession",
+  "translation": "belonging, possession",
   "etymology": "from: ?-one",
   "link": "#",
   "citations": "294",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

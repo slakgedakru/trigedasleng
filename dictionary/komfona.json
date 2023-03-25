@@ -1,11 +1,12 @@
 {
   "id": 385,
   "word": "komfona",
-  "translation": "noun: grandfather",
+  "translation": "grandfather",
   "etymology": "from: come-before-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

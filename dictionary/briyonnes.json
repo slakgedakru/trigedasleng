@@ -1,11 +1,12 @@
 {
   "id": 1107,
   "word": "briyonnes",
-  "translation": "noun: intelligence",
+  "translation": "intelligence",
   "etymology": "from c. briyon",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

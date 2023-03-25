@@ -1,11 +1,12 @@
 {
   "id": 390,
   "word": "kot daun",
-  "translation": "verb: undermine",
+  "translation": "undermine",
   "etymology": "from: cut down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

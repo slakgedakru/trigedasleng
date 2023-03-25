@@ -1,11 +1,12 @@
 {
   "id": 1034,
   "word": "ayon",
-  "translation": "noun: metal",
+  "translation": "metal",
   "etymology": "from \"iron\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

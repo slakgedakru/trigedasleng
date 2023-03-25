@@ -1,11 +1,12 @@
 {
   "id": 1410,
   "word": "led klin",
-  "translation": "verb: cremate",
+  "translation": "cremate",
   "etymology": "from led op etc.",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

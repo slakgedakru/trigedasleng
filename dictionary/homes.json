@@ -1,11 +1,12 @@
 {
   "id": 1325,
   "word": "homes",
-  "translation": "adjective: messy, chaotic, disordered, disorganized",
+  "translation": "messy, chaotic, disordered, disorganized",
   "etymology": "from \"hot mess\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1540,
   "word": "pol of",
-  "translation": "verb: succeed",
+  "translation": "succeed",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

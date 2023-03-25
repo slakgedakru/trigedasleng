@@ -1,11 +1,12 @@
 {
   "id": 1723,
   "word": "strikklodon",
-  "translation": "noun: badger",
+  "translation": "badger",
   "etymology": "from \"small clawed one\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

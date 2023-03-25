@@ -1,11 +1,12 @@
 {
   "id": 1221,
   "word": "futres",
-  "translation": "noun: stirrup",
+  "translation": "stirrup",
   "etymology": "from \"footrest\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

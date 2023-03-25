@@ -1,11 +1,12 @@
 {
   "id": 706,
   "word": "spuna",
-  "translation": "noun: one who participates in \"spooning\"",
+  "translation": "one who participates in \"spooning\"",
   "etymology": "from: spooner",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

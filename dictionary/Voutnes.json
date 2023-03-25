@@ -1,11 +1,12 @@
 {
   "id": 1017,
   "word": "Voutnes",
-  "translation": "noun: thoughts, ruminations",
+  "translation": "thoughts, ruminations",
   "etymology": "from: vout in + nes",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 127,
   "word": "dulasei",
-  "translation": "adjective: honest",
+  "translation": "honest",
   "etymology": "from: do-like-say",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

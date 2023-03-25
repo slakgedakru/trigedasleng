@@ -1,11 +1,12 @@
 {
   "id": 2038,
   "word": "mouhai",
-  "translation": "adjective: royal",
+  "translation": "royal",
   "etymology": "from: more-high",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

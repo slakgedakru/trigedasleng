@@ -1,11 +1,12 @@
 {
   "id": 1128,
   "word": "chopfou",
-  "translation": "adjective: toothy",
+  "translation": "toothy",
   "etymology": "from c. chopa",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

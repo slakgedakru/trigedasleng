@@ -1,11 +1,12 @@
 {
   "id": 816,
   "word": "woda klin",
-  "translation": "verb: cleanse, clean, wash",
+  "translation": "cleanse, clean, wash",
   "etymology": "from: water clean",
   "link": "#",
   "citations": null,
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 882,
   "word": "Breida",
-  "translation": "noun: close-friend, person you trust",
+  "translation": "close-friend, person you trust",
   "etymology": "from: braider",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

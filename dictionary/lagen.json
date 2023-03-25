@@ -1,11 +1,12 @@
 {
   "id": 405,
   "word": "lagen",
-  "translation": "adverb: slowly",
+  "translation": "slowly",
   "etymology": "from: lagging",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

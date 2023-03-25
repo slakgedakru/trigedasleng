@@ -1,11 +1,12 @@
 {
   "id": 1822,
   "word": "sofstepa",
-  "translation": "noun: cat",
+  "translation": "cat",
   "etymology": "from: unknown",
   "link": "",
   "citations": "425",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

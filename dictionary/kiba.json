@@ -1,11 +1,12 @@
 {
   "id": 1874,
   "word": "kiba",
-  "translation": "noun: cookie",
+  "translation": "cookie",
   "etymology": "from: Keebler cookie",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

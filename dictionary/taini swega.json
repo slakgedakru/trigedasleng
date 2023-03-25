@@ -1,11 +1,12 @@
 {
   "id": 2061,
   "word": "taini swega",
-  "translation": "noun: pinky promise",
+  "translation": "pinky promise",
   "etymology": "from: tiny swear",
   "link": "",
   "citations": "TrigSeda",
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

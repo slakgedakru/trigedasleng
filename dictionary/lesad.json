@@ -1,11 +1,12 @@
 {
   "id": 419,
   "word": "lesad",
-  "translation": "noun: left",
+  "translation": "left",
   "etymology": "from: left side",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

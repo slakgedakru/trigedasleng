@@ -1,11 +1,12 @@
 {
   "id": 1573,
   "word": "rench",
-  "translation": "noun: tool, device",
+  "translation": "tool, device",
   "etymology": "from \"wrench\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

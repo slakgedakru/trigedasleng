@@ -1,11 +1,12 @@
 {
   "id": 2115,
   "word": "teik los",
-  "translation": "verb: to confuse",
+  "translation": "to confuse",
   "etymology": "from: lost",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

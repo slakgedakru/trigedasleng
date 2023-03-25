@@ -1,11 +1,12 @@
 {
   "id": 1015,
   "word": "Vecha",
-  "translation": "noun: complainer",
+  "translation": "complainer",
   "etymology": "from: kvetcher",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

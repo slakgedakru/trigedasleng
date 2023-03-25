@@ -1,11 +1,12 @@
 {
   "id": 1814,
   "word": "yonhaka",
-  "translation": "noun: knitter, weaver",
+  "translation": "knitter, weaver",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

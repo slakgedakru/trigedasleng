@@ -1,11 +1,12 @@
 {
   "id": 1296,
   "word": "hai",
-  "translation": "adjective: stupid, dumb, foolish",
+  "translation": "stupid, dumb, foolish",
   "etymology": "from \"are you high?\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

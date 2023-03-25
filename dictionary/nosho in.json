@@ -1,11 +1,12 @@
 {
   "id": 1490,
   "word": "nosho in",
-  "translation": "verb: doubt, question, be unsure of",
+  "translation": "doubt, question, be unsure of",
   "etymology": "from \"not sure\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

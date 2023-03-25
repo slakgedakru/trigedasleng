@@ -1,11 +1,12 @@
 {
   "id": 832,
   "word": "wo",
-  "translation": "noun: wall",
+  "translation": "wall",
   "etymology": "from: wall",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

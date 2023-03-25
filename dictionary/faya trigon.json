@@ -1,11 +1,12 @@
 {
   "id": 1169,
   "word": "faya trigon",
-  "translation": "noun: bullet (Cf. trigon)",
+  "translation": "bullet (Cf. trigon)",
   "etymology": "from trig op, trigplei, and fayogon",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1523,
   "word": "pauda",
-  "translation": "noun: dust, grit, powder",
+  "translation": "dust, grit, powder",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

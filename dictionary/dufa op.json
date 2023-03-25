@@ -1,11 +1,12 @@
 {
   "id": 1153,
   "word": "dufa op",
-  "translation": "verb: treat, tend, nurse, care for",
+  "translation": "treat, tend, nurse, care for",
   "etymology": "v. take care of, deal with",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

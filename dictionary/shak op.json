@@ -1,11 +1,12 @@
 {
   "id": 625,
   "word": "shak op",
-  "translation": "verb: live, reside",
+  "translation": "live, reside",
   "etymology": "from: shack up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

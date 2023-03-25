@@ -1,11 +1,12 @@
 {
   "id": 536,
   "word": "pisa",
-  "translation": "noun: penis",
+  "translation": "penis",
   "etymology": "from: pisser",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

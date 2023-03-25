@@ -1,11 +1,12 @@
 {
   "id": 547,
   "word": "prepon",
-  "translation": "noun: supplies",
+  "translation": "supplies",
   "etymology": "from: prep-one",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

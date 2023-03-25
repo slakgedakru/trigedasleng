@@ -1,11 +1,12 @@
 {
   "id": 776,
   "word": "tombom",
-  "translation": "noun: heart",
+  "translation": "heart",
   "etymology": "from: thump-bump",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

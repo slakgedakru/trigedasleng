@@ -1,11 +1,12 @@
 {
   "id": 530,
   "word": "pad daun",
-  "translation": "verb: search (someone)",
+  "translation": "search (someone)",
   "etymology": "from: pat down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

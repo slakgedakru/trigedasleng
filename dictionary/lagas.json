@@ -1,11 +1,12 @@
 {
   "id": 1395,
   "word": "lagas",
-  "translation": "adjective: too slow, annoyingly slow",
+  "translation": "too slow, annoyingly slow",
   "etymology": "from lagen",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

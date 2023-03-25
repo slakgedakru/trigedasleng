@@ -1,11 +1,12 @@
 {
   "id": 329,
   "word": "jok au",
-  "translation": "verb: rip out, extract, yank",
+  "translation": "rip out, extract, yank",
   "etymology": "from: jerk out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

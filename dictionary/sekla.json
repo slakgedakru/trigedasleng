@@ -1,11 +1,12 @@
 {
   "id": 1595,
   "word": "sekla",
-  "translation": "adjective: balanced, even, fair",
+  "translation": "balanced, even, fair",
   "etymology": "from \"circular\", in a wordplay on \"square\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

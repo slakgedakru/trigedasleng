@@ -1,11 +1,12 @@
 {
   "id": 589,
   "word": "sad in",
-  "translation": "verb: decide, choose",
+  "translation": "decide, choose",
   "etymology": "from: said in",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

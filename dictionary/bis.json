@@ -1,11 +1,12 @@
 {
   "id": 49,
   "word": "bis",
-  "translation": "noun: beast, animal",
+  "translation": "beast, animal",
   "etymology": "from: beast",
   "link": "#",
   "citations": "285",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

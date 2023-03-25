@@ -1,11 +1,12 @@
 {
   "id": 469,
   "word": "monin hou",
-  "translation": "phrase: welcome back, welcome home",
+  "translation": "welcome back, welcome home",
   "etymology": "from: come-on-in home",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

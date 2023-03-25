@@ -1,11 +1,12 @@
 {
   "id": 1414,
   "word": "les",
-  "translation": "adverb: less",
+  "translation": "less",
   "etymology": "from c. mou",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

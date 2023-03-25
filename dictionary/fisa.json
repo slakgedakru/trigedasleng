@@ -1,11 +1,12 @@
 {
   "id": 162,
   "word": "fisa",
-  "translation": "noun: healer",
+  "translation": "healer",
   "etymology": "from: fixer",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

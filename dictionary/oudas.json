@@ -1,11 +1,12 @@
 {
   "id": 1510,
   "word": "oudas",
-  "translation": "adjective: ancient, age-old, antiquated, archaic, obsolete, relic, venerable",
+  "translation": "ancient, age-old, antiquated, archaic, obsolete, relic, venerable",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

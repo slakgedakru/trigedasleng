@@ -1,11 +1,12 @@
 {
   "id": 129,
   "word": "eintheing",
-  "translation": "phrase: not a thing, doesn't matter",
+  "translation": "not a thing, doesn't matter",
   "etymology": "from: ain't a thing",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

@@ -1,11 +1,12 @@
 {
   "id": 756,
   "word": "teik in",
-  "translation": "verb: to welcome, to accept in",
+  "translation": "to welcome, to accept in",
   "etymology": "from: take in",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

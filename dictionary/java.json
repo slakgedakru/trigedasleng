@@ -1,11 +1,12 @@
 {
   "id": 325,
   "word": "java",
-  "translation": "noun: spear",
+  "translation": "spear",
   "etymology": "from: javelin",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

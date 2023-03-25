@@ -1,11 +1,12 @@
 {
   "id": 822,
   "word": "weron",
-  "translation": "adverb: where",
+  "translation": "where",
   "etymology": "from: where-one",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

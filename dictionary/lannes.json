@@ -1,11 +1,12 @@
 {
   "id": 1402,
   "word": "lannes",
-  "translation": "noun: usage, form, method, process",
+  "translation": "usage, form, method, process",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 928,
   "word": "Honta",
-  "translation": "noun: hunter",
+  "translation": "hunter",
   "etymology": "from: hunter",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

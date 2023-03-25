@@ -1,11 +1,12 @@
 {
   "id": 796,
   "word": "Trigeda",
-  "translation": "proper noun: Woods Clan",
+  "translation": "Woods Clan",
   "etymology": "from: tree-gather",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

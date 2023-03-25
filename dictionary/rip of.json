@@ -1,11 +1,12 @@
 {
   "id": 579,
   "word": "rip of",
-  "translation": "verb: tear off, rip off",
+  "translation": "tear off, rip off",
   "etymology": "from: rip off",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2177,
   "word": "sleng digen",
-  "translation": "noun: language arts, language class or lessons",
+  "translation": "language arts, language class or lessons",
   "etymology": "from: sleng + dig au",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

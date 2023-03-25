@@ -1,11 +1,12 @@
 {
   "id": 70,
   "word": "brolgeda",
-  "translation": "noun: battlefield",
+  "translation": "battlefield",
   "etymology": "from: brawl-gather",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

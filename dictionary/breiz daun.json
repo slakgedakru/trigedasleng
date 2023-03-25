@@ -1,11 +1,12 @@
 {
   "id": 2148,
   "word": "breiz daun",
-  "translation": "noun: to trim (hair",
+  "translation": "to trim (hair",
   "etymology": "from: breiz + daun",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2075,
   "word": "kikoda",
-  "translation": "adjective: unoriginal, uninspired, boring, basic, overdone",
+  "translation": "unoriginal, uninspired, boring, basic, overdone",
   "etymology": "from: cookie cutter (referring to boring houses)",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1730,
   "word": "swega we",
-  "translation": "verb: swear off, abjure, forswear, renounce",
+  "translation": "swear off, abjure, forswear, renounce",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

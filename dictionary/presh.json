@@ -1,11 +1,12 @@
 {
   "id": 548,
   "word": "presh",
-  "translation": "adjective: sacred, precious",
+  "translation": "sacred, precious",
   "etymology": "from: precious",
   "link": "#",
   "citations": "291",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

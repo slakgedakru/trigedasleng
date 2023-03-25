@@ -1,11 +1,12 @@
 {
   "id": 432,
   "word": "lukot",
-  "translation": "noun: friend",
+  "translation": "friend",
   "etymology": "from: look-out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

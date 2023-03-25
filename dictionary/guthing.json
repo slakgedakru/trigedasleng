@@ -1,11 +1,12 @@
 {
   "id": 1287,
   "word": "guthing",
-  "translation": "adverb: luckily, fortunately",
+  "translation": "luckily, fortunately",
   "etymology": "from \"(it's a) good thing\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adverb"
 }

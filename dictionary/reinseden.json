@@ -1,11 +1,12 @@
 {
   "id": 571,
   "word": "reinseden",
-  "translation": "noun: order",
+  "translation": "order",
   "etymology": "from: ?-setting",
   "link": "#",
   "citations": "414",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

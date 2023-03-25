@@ -1,11 +1,12 @@
 {
   "id": 1837,
   "word": "bigwoda",
-  "translation": "noun: ocean, sea (slang)",
+  "translation": "ocean, sea (slang)",
   "etymology": "from: big water",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

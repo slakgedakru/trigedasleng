@@ -1,11 +1,12 @@
 {
   "id": 478,
   "word": "nat",
-  "translation": "noun: night, tonight",
+  "translation": "night, tonight",
   "etymology": "from: night",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

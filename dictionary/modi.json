@@ -1,11 +1,12 @@
 {
   "id": 1887,
   "word": "modi",
-  "translation": "adjective: brown",
+  "translation": "brown",
   "etymology": "from: muddy",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

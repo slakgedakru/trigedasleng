@@ -1,11 +1,12 @@
 {
   "id": 779,
   "word": "Tondisi",
-  "translation": "proper noun: Tondc",
+  "translation": "Tondc",
   "etymology": "from: Washington, D.C.",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2110,
   "word": "koz",
-  "translation": "noun: cousin",
+  "translation": "cousin",
   "etymology": "from: cuz/cousin",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

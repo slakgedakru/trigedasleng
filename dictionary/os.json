@@ -1,11 +1,12 @@
 {
   "id": 522,
   "word": "os",
-  "translation": "adjective: good, well, great",
+  "translation": "good, well, great",
   "etymology": "from: awesome",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

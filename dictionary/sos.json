@@ -1,11 +1,12 @@
 {
   "id": 2068,
   "word": "sos",
-  "translation": "noun: sauce, tomato paste, bbq sauce, ketchup",
+  "translation": "sauce, tomato paste, bbq sauce, ketchup",
   "etymology": "from: sauce",
   "link": "",
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

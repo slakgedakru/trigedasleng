@@ -1,11 +1,12 @@
 {
   "id": 1088,
   "word": "bor thru",
-  "translation": "verb: bore, drill",
+  "translation": "bore, drill",
   "etymology": "from \"bore\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 736,
   "word": "stumucha",
-  "translation": "noun: an utterly deplorable person",
+  "translation": "an utterly deplorable person",
   "etymology": "from: just-a-moocher",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2082,
   "word": "pouka",
-  "translation": "noun: finger",
+  "translation": "finger",
   "etymology": "from: poke-er",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

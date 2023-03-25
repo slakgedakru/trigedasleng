@@ -1,11 +1,12 @@
 {
   "id": 798,
   "word": "trigplei",
-  "translation": "noun: fire, shooting",
+  "translation": "fire, shooting",
   "etymology": "from: trigger-play",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

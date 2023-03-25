@@ -1,11 +1,12 @@
 {
   "id": 58,
   "word": "bluma",
-  "translation": "noun: flower",
+  "translation": "flower",
   "etymology": "from: bloomer",
   "link": "#",
   "citations": "280",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

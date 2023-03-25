@@ -1,11 +1,12 @@
 {
   "id": 1244,
   "word": "glong klin",
-  "translation": "verb: belong with",
+  "translation": "belong with",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

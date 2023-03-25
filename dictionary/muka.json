@@ -1,11 +1,12 @@
 {
   "id": 1960,
   "word": "muka",
-  "translation": "noun: mud",
+  "translation": "mud",
   "etymology": "from: muck",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 784,
   "word": "tous",
-  "translation": "noun: bread",
+  "translation": "bread",
   "etymology": "from: toast",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 614,
   "word": "sen daun",
-  "translation": "verb: put down, set down",
+  "translation": "put down, set down",
   "etymology": "from: send down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

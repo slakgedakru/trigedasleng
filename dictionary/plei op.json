@@ -1,11 +1,12 @@
 {
   "id": 2150,
   "word": "plei op",
-  "translation": "verb: to embellish, to exaggerate, to overemphasize",
+  "translation": "to embellish, to exaggerate, to overemphasize",
   "etymology": "from: play-up",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1575,
   "word": "renon",
-  "translation": "noun: parent",
+  "translation": "parent",
   "etymology": "from \"ren\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1993,
   "word": "graunpauna",
-  "translation": "noun: gorilla",
+  "translation": "gorilla",
   "etymology": "from: ground pounder",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

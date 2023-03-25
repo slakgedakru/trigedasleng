@@ -1,11 +1,12 @@
 {
   "id": 939,
   "word": "Kid raun",
-  "translation": "verb: to tell jokes, to be funny, to fool around",
+  "translation": "to tell jokes, to be funny, to fool around",
   "etymology": "from: kid around",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

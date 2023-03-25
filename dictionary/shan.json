@@ -1,11 +1,12 @@
 {
   "id": 1602,
   "word": "shan",
-  "translation": "noun: shine, glow",
+  "translation": "shine, glow",
   "etymology": "from c. trishana",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

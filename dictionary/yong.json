@@ -1,11 +1,12 @@
 {
   "id": 845,
   "word": "yong",
-  "translation": "adjective: fresh",
+  "translation": "fresh",
   "etymology": "from: young",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

@@ -1,11 +1,12 @@
 {
   "id": 830,
   "word": "winnes",
-  "translation": "noun: victory",
+  "translation": "victory",
   "etymology": "from: win-ness",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

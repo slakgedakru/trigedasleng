@@ -1,11 +1,12 @@
 {
   "id": 2014,
   "word": "step of",
-  "translation": "verb: move aside, make way; back off",
+  "translation": "move aside, make way; back off",
   "etymology": "from: step off",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

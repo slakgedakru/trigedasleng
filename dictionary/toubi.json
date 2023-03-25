@@ -1,11 +1,12 @@
 {
   "id": 1769,
   "word": "toubi",
-  "translation": "noun: ferret, marten, weasel",
+  "translation": "ferret, marten, weasel",
   "etymology": "from \"Toby\"*",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

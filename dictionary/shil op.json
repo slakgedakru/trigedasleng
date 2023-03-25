@@ -1,11 +1,12 @@
 {
   "id": 630,
   "word": "shil op",
-  "translation": "verb: protect, defend",
+  "translation": "protect, defend",
   "etymology": "from: shell up",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

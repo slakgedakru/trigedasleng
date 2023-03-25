@@ -1,11 +1,12 @@
 {
   "id": 166,
   "word": "flag daun",
-  "translation": "verb: (transitive) signal",
+  "translation": "(transitive) signal",
   "etymology": "from: flag down",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

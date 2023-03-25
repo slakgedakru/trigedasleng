@@ -1,11 +1,12 @@
 {
   "id": 1920,
   "word": "yomblod",
-  "translation": "noun: apprentice",
+  "translation": "apprentice",
   "etymology": "from: unknown",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2097,
   "word": "penta",
-  "translation": "noun: star shape",
+  "translation": "star shape",
   "etymology": "from: pentagram",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

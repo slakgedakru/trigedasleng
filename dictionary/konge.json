@@ -1,11 +1,12 @@
 {
   "id": 387,
   "word": "konge",
-  "translation": "verb: summon",
+  "translation": "summon",
   "etymology": "from: come-get",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

@@ -1,11 +1,12 @@
 {
   "id": 488,
   "word": "neson",
-  "translation": "noun: next (one)",
+  "translation": "next (one)",
   "etymology": "from: next-one",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

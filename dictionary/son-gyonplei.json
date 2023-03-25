@@ -1,11 +1,12 @@
 {
   "id": 1674,
   "word": "son-gyonplei",
-  "translation": "noun: summer solstice",
+  "translation": "summer solstice",
   "etymology": "from \"sun-ascension\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

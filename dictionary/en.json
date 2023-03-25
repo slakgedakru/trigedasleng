@@ -1,11 +1,12 @@
 {
   "id": 133,
   "word": "en",
-  "translation": "noun: everyone",
+  "translation": "everyone",
   "etymology": "from: everyone",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

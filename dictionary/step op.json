@@ -1,11 +1,12 @@
 {
   "id": 719,
   "word": "step op",
-  "translation": "verb: step in, interfere",
+  "translation": "step in, interfere",
   "etymology": "from: step up",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

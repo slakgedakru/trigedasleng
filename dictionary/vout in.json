@@ -1,11 +1,12 @@
 {
   "id": 815,
   "word": "vout in",
-  "translation": "verb: think",
+  "translation": "think",
   "etymology": "from: vote in",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

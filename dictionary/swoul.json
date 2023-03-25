@@ -1,11 +1,12 @@
 {
   "id": 1739,
   "word": "swoul",
-  "translation": "adjective: muscular",
+  "translation": "muscular",
   "etymology": "from \"swol\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

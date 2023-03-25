@@ -1,11 +1,12 @@
 {
   "id": 459,
   "word": "min klin",
-  "translation": "verb: intrude",
+  "translation": "intrude",
   "etymology": "from: come-in clean",
   "link": "#",
   "citations": "298",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

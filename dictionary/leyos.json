@@ -1,11 +1,12 @@
 {
   "id": 421,
   "word": "leyos",
-  "translation": "adjective: funny",
+  "translation": "funny",
   "etymology": "from: hilarious",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

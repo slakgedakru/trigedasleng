@@ -1,11 +1,12 @@
 {
   "id": 734,
   "word": "stringboba",
-  "translation": "noun: puppet",
+  "translation": "puppet",
   "etymology": "from: string-bobber",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

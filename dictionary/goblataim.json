@@ -1,11 +1,12 @@
 {
   "id": 2159,
   "word": "goblataim",
-  "translation": "noun: Thanksgiving (holiday)",
+  "translation": "Thanksgiving (holiday)",
   "etymology": "from: turkey time",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1460,
   "word": "modafret",
-  "translation": "noun: wolverine",
+  "translation": "wolverine",
   "etymology": "from \"murder-ferret\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

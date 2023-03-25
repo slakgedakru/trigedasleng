@@ -1,11 +1,12 @@
 {
   "id": 692,
   "word": "souda",
-  "translation": "noun: drink (alcoholic)",
+  "translation": "drink (alcoholic)",
   "etymology": "from: soda",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

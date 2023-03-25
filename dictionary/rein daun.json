@@ -1,11 +1,12 @@
 {
   "id": 1565,
   "word": "rein daun",
-  "translation": "verb: rain",
+  "translation": "rain",
   "etymology": "from c. rein",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

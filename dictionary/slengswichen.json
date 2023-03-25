@@ -1,11 +1,12 @@
 {
   "id": 1855,
   "word": "slengswichen",
-  "translation": "noun: translating, translation",
+  "translation": "translating, translation",
   "etymology": "from: slang-switching",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

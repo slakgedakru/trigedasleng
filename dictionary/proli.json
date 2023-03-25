@@ -1,11 +1,12 @@
 {
   "id": 1899,
   "word": "proli",
-  "translation": "adverb: probably",
+  "translation": "probably",
   "etymology": "from: probably",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adverb"
 }

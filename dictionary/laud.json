@@ -1,11 +1,12 @@
 {
   "id": 410,
   "word": "laud",
-  "translation": "verb: sound, as a horn; usu. preceded by \"teik\"",
+  "translation": "sound, as a horn; usu. preceded by \"teik\"",
   "etymology": "from: loud",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

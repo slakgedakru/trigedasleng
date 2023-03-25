@@ -1,11 +1,12 @@
 {
   "id": 291,
   "word": "hod in",
-  "translation": "verb: love",
+  "translation": "love",
   "etymology": "from: hold in",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

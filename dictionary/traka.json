@@ -1,11 +1,12 @@
 {
   "id": 785,
   "word": "traka",
-  "translation": "noun: cart, mine cart; esp. the carts in the Reaper tunnels",
+  "translation": "cart, mine cart; esp. the carts in the Reaper tunnels",
   "etymology": "from: tracker",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

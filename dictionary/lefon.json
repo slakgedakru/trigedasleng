@@ -1,11 +1,12 @@
 {
   "id": 1413,
   "word": "lefon",
-  "translation": "noun: widow, widower",
+  "translation": "widow, widower",
   "etymology": "from \"one left behind\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

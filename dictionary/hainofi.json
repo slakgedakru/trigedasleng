@@ -1,11 +1,12 @@
 {
   "id": 263,
   "word": "hainofi",
-  "translation": "noun: princess",
+  "translation": "princess",
   "etymology": "from: high-number-three",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

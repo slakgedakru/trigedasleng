@@ -1,11 +1,12 @@
 {
   "id": 1943,
   "word": "sawajus",
-  "translation": "noun: wine",
+  "translation": "wine",
   "etymology": "from: sour juice",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

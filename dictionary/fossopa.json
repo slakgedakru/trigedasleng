@@ -1,11 +1,12 @@
 {
   "id": 186,
   "word": "fossopa",
-  "translation": "noun: scout",
+  "translation": "scout",
   "etymology": "from: first-?-er",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1300,
   "word": "hak op",
-  "translation": "verb: craft, create",
+  "translation": "craft, create",
   "etymology": "from c. haka",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

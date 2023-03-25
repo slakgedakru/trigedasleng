@@ -1,11 +1,12 @@
 {
   "id": 529,
   "word": "ouyon klin",
-  "translation": "verb: owe",
+  "translation": "owe",
   "etymology": "from: owe-one clean",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

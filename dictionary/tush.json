@@ -1,11 +1,12 @@
 {
   "id": 1786,
   "word": "tush",
-  "translation": "noun: rear end, buttocks, ass",
+  "translation": "rear end, buttocks, ass",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

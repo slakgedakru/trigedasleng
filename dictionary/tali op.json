@@ -1,11 +1,12 @@
 {
   "id": 1743,
   "word": "tali op",
-  "translation": "verb: count, mark, add up",
+  "translation": "count, mark, add up",
   "etymology": "v. brand someone with a kill mark (Cf. fleimstika)",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

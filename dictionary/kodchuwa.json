@@ -1,11 +1,12 @@
 {
   "id": 1828,
   "word": "kodchuwa",
-  "translation": "noun: cow",
+  "translation": "cow",
   "etymology": "from: cud-chewer",
   "link": "",
   "citations": "425",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

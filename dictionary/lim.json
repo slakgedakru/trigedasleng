@@ -1,11 +1,12 @@
 {
   "id": 1777,
   "word": "lim",
-  "translation": "noun: branch",
+  "translation": "branch",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

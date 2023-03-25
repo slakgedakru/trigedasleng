@@ -1,11 +1,12 @@
 {
   "id": 1812,
   "word": "yon op",
-  "translation": "noun: knit, weave, crochet",
+  "translation": "knit, weave, crochet",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

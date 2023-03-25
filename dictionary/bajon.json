@@ -1,11 +1,12 @@
 {
   "id": 1039,
   "word": "bajon",
-  "translation": "noun: insignia, sigil, crest",
+  "translation": "insignia, sigil, crest",
   "etymology": "from \"badge\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

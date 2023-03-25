@@ -1,11 +1,12 @@
 {
   "id": 976,
   "word": "Seimbedon",
-  "translation": "noun: preference, inclination",
+  "translation": "preference, inclination",
   "etymology": "from: seimbeda + on",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

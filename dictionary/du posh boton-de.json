@@ -1,11 +1,12 @@
 {
   "id": 1152,
   "word": "du posh boton-de",
-  "translation": "phrase: idiomatic expression comparable to \"all hell's breaking loose\"",
+  "translation": "idiomatic expression comparable to \"all hell's breaking loose\"",
   "etymology": "from \"someone pushed the button\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "phrase"
 }

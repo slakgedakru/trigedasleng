@@ -1,11 +1,12 @@
 {
   "id": 2143,
   "word": "inkblasta kom ten",
-  "translation": "noun: squid",
+  "translation": "squid",
   "etymology": "from: ink blaster with 10 (legs)",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

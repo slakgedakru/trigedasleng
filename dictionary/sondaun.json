@@ -1,11 +1,12 @@
 {
   "id": 1670,
   "word": "sondaun",
-  "translation": "noun: evening",
+  "translation": "evening",
   "etymology": "from: sun down",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "Canon"
+  "filter": "Canon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 2059,
   "word": "hougranen",
-  "translation": "noun: homework",
+  "translation": "homework",
   "etymology": "from: unknown",
   "link": "",
   "citations": "TrigSeda",
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

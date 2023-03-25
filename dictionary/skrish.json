@@ -1,11 +1,12 @@
 {
   "id": 663,
   "word": "skrish",
-  "translation": "noun: shit",
+  "translation": "shit",
   "etymology": "from: squish",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

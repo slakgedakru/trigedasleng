@@ -1,11 +1,12 @@
 {
   "id": 987,
   "word": "Slip au",
-  "translation": "verb: to exit",
+  "translation": "to exit",
   "etymology": "from: slip out",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

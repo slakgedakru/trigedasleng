@@ -1,11 +1,12 @@
 {
   "id": 279,
   "word": "hedon",
-  "translation": "noun: command; rule, law",
+  "translation": "command; rule, law",
   "etymology": "from: head-one",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

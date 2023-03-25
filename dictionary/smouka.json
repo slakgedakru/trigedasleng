@@ -1,11 +1,12 @@
 {
   "id": 1659,
   "word": "smouka",
-  "translation": "noun: heat",
+  "translation": "heat",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

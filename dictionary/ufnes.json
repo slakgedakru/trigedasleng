@@ -1,11 +1,12 @@
 {
   "id": 812,
   "word": "ufnes",
-  "translation": "noun: energy",
+  "translation": "energy",
   "etymology": "from: oof-ness",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

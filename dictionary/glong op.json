@@ -1,11 +1,12 @@
 {
   "id": 228,
   "word": "glong op",
-  "translation": "verb: (transitive) join (with)",
+  "translation": "(transitive) join (with)",
   "etymology": "from: go-along up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

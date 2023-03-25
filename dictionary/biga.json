@@ -1,11 +1,12 @@
 {
   "id": 47,
   "word": "biga",
-  "translation": "adjective: big, bigger",
+  "translation": "big, bigger",
   "etymology": "from: bigger",
   "link": "#",
   "citations": "321",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "adjective"
 }

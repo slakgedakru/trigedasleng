@@ -1,11 +1,12 @@
 {
   "id": 818,
   "word": "wan daun",
-  "translation": "verb: stop",
+  "translation": "stop",
   "etymology": "from: wind down",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

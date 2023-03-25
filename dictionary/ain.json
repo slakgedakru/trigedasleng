@@ -1,11 +1,12 @@
 {
   "id": 7,
   "word": "ain",
-  "translation": "pronoun: mine",
+  "translation": "mine",
   "etymology": "from: I-one",
   "link": "#",
   "citations": "73",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "pronoun"
 }

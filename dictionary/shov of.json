@@ -1,11 +1,12 @@
 {
   "id": 1616,
   "word": "shov of",
-  "translation": "verb: push, shove",
+  "translation": "push, shove",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

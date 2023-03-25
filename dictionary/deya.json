@@ -1,11 +1,12 @@
 {
   "id": 104,
   "word": "deya",
-  "translation": "noun: mistake",
+  "translation": "mistake",
   "etymology": "from: ?",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

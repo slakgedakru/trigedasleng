@@ -1,11 +1,12 @@
 {
   "id": 1166,
   "word": "fang",
-  "translation": "noun: fang",
+  "translation": "fang",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

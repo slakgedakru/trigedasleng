@@ -1,11 +1,12 @@
 {
   "id": 1938,
   "word": "reskripa",
-  "translation": "noun: nightmare, night terror",
+  "translation": "nightmare, night terror",
   "etymology": "from: rest-creeper",
   "link": null,
   "citations": "",
   "example": null,
   "note": null,
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

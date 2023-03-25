@@ -1,11 +1,12 @@
 {
   "id": 1259,
   "word": "gora",
-  "translation": "noun: horn, antler",
+  "translation": "horn, antler",
   "etymology": "from \"gore-er\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

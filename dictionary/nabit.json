@@ -1,11 +1,12 @@
 {
   "id": 1466,
   "word": "nabit",
-  "translation": "noun: hour",
+  "translation": "hour",
   "etymology": "from \"in a bit\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

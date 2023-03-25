@@ -1,11 +1,12 @@
 {
   "id": 578,
   "word": "ridou",
-  "translation": "noun: (technology) chip",
+  "translation": "(technology) chip",
   "etymology": "from: Dorito",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

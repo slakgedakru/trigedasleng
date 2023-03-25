@@ -1,11 +1,12 @@
 {
   "id": 2084,
   "word": "taini",
-  "translation": "noun: pinkie finger",
+  "translation": "pinkie finger",
   "etymology": "from: tiny",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

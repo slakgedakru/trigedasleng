@@ -1,11 +1,12 @@
 {
   "id": 1447,
   "word": "med",
-  "translation": "adjective: melted, liquified, thawed",
+  "translation": "melted, liquified, thawed",
   "etymology": "from \"melted\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

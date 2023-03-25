@@ -1,11 +1,12 @@
 {
   "id": 703,
   "word": "sprintam",
-  "translation": "noun: spring (season)",
+  "translation": "spring (season)",
   "etymology": "from: spring-time",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

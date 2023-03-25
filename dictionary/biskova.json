@@ -1,11 +1,12 @@
 {
   "id": 50,
   "word": "biskova",
-  "translation": "noun: fur",
+  "translation": "fur",
   "etymology": "from: beast-cover",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

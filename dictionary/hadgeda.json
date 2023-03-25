@@ -1,11 +1,12 @@
 {
   "id": 1292,
   "word": "hadgeda",
-  "translation": "noun: hideout, den, sniper hide, vantage point",
+  "translation": "hideout, den, sniper hide, vantage point",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

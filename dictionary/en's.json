@@ -1,11 +1,12 @@
 {
   "id": 134,
   "word": "en's",
-  "translation": "phrase: (contraction of \"em ste\") it's, it is",
+  "translation": "(contraction of \"em ste\") it's, it is",
   "etymology": "from: them-stay",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

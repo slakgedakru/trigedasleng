@@ -1,11 +1,12 @@
 {
   "id": 181,
   "word": "Floukru",
-  "translation": "proper noun: a name for the hypothetical Boat People; also, Floudon Kru",
+  "translation": "a name for the hypothetical Boat People; also, Floudon Kru",
   "etymology": "from: flow-crew",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1178,
   "word": "feks",
-  "translation": "noun: inheritance",
+  "translation": "inheritance",
   "etymology": "from \"effects\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 865,
   "word": "Ayas",
-  "translation": "pronoun: myself",
+  "translation": "myself",
   "etymology": "from: ai + as",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "pronoun"
 }

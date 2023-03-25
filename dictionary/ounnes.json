@@ -1,11 +1,12 @@
 {
   "id": 1513,
   "word": "ounnes",
-  "translation": "noun: the humiliation of defeat (feeling)",
+  "translation": "the humiliation of defeat (feeling)",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

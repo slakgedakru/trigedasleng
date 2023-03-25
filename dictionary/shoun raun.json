@@ -1,11 +1,12 @@
 {
   "id": 635,
   "word": "shoun raun",
-  "translation": "verb: guide",
+  "translation": "guide",
   "etymology": "from: showing around",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

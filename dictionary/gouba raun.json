@@ -1,11 +1,12 @@
 {
   "id": 246,
   "word": "gouba raun",
-  "translation": "verb: group by [number]; treat, consider, regard",
+  "translation": "group by [number]; treat, consider, regard",
   "etymology": "from: go-by around",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

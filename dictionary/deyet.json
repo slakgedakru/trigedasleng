@@ -1,11 +1,12 @@
 {
   "id": 1141,
   "word": "deyet",
-  "translation": "noun: destination, rally point",
+  "translation": "destination, rally point",
   "etymology": "from \"are we there yet?\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

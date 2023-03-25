@@ -1,11 +1,12 @@
 {
   "id": 1479,
   "word": "nod of",
-  "translation": "verb: fall asleep",
+  "translation": "fall asleep",
   "etymology": "from: \"nod off\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

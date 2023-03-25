@@ -1,11 +1,12 @@
 {
   "id": 1052,
   "word": "belen bouz",
-  "translation": "phrase: singing voice",
+  "translation": "singing voice",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "phrase"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1679,
   "word": "soren",
-  "translation": "adjective: flying",
+  "translation": "flying",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

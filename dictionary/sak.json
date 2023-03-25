@@ -1,11 +1,12 @@
 {
   "id": 1591,
   "word": "sak",
-  "translation": "noun: bag, pouch, sack",
+  "translation": "bag, pouch, sack",
   "etymology": "from \"sack\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1527,
   "word": "plannes",
-  "translation": "noun: womanhood",
+  "translation": "womanhood",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

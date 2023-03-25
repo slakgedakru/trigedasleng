@@ -1,11 +1,12 @@
 {
   "id": 140,
   "word": "ething",
-  "translation": "noun: everything",
+  "translation": "everything",
   "etymology": "from: everything",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

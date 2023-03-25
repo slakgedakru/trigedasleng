@@ -1,11 +1,12 @@
 {
   "id": 1820,
   "word": "zoun",
-  "translation": "noun: territory, region, area",
+  "translation": "territory, region, area",
   "etymology": "from \"zone\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

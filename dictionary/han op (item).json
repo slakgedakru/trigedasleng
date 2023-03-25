@@ -1,11 +1,12 @@
 {
   "id": 1303,
   "word": "han op (item)",
-  "translation": "verb: hand, give, pass",
+  "translation": "hand, give, pass",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "verb"
 }

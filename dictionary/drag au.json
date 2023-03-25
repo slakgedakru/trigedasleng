@@ -1,11 +1,12 @@
 {
   "id": 2132,
   "word": "drag au",
-  "translation": "verb: to stall s/t, to make it last a long time, to filibuster",
+  "translation": "to stall s/t, to make it last a long time, to filibuster",
   "etymology": "from: drag out",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

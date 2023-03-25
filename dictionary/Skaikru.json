@@ -1,11 +1,12 @@
 {
   "id": 655,
   "word": "Skaikru",
-  "translation": "proper noun: Sky People, Arkers",
+  "translation": "Sky People, Arkers",
   "etymology": "from: sky-crew",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "propernoun"
 }

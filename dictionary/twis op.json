@@ -1,11 +1,12 @@
 {
   "id": 810,
   "word": "twis op",
-  "translation": "verb: turn, till",
+  "translation": "turn, till",
   "etymology": "from: twist up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

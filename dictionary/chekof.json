@@ -1,11 +1,12 @@
 {
   "id": 2080,
   "word": "chekof",
-  "translation": "noun: list, inventory tracker",
+  "translation": "list, inventory tracker",
   "etymology": "from: check off",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1688,
   "word": "souknes",
-  "translation": "noun: wetness, dampness",
+  "translation": "wetness, dampness",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1382,
   "word": "komfi",
-  "translation": "adjective: comfortable, pleasant",
+  "translation": "comfortable, pleasant",
   "etymology": "from \"comfy\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

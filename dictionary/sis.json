@@ -1,11 +1,12 @@
 {
   "id": 642,
   "word": "sis",
-  "translation": "noun: sister; six",
+  "translation": "sister; six",
   "etymology": "from: sister; six",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

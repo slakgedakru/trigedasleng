@@ -1,11 +1,12 @@
 {
   "id": 848,
   "word": "you",
-  "translation": "phrase: I swear, I avow",
+  "translation": "I swear, I avow",
   "etymology": "from: yo",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "phrase"
 }

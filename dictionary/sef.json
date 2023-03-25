@@ -1,11 +1,12 @@
 {
   "id": 602,
   "word": "sef",
-  "translation": "conjunction: but, except",
+  "translation": "but, except",
   "etymology": "from: except-for",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "conjunction"
 }

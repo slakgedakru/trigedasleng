@@ -1,11 +1,12 @@
 {
   "id": 1183,
   "word": "fisen",
-  "translation": "adjective: healing, medical",
+  "translation": "healing, medical",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "adjective"
 }

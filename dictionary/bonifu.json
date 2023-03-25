@@ -1,11 +1,12 @@
 {
   "id": 1087,
   "word": "bonifu",
-  "translation": "noun: carrot",
+  "translation": "carrot",
   "etymology": "from \"bunny food\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

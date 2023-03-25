@@ -1,11 +1,12 @@
 {
   "id": 1495,
   "word": "nounon",
-  "translation": "noun: elder",
+  "translation": "elder",
   "etymology": "from noun",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }

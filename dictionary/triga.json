@@ -1,11 +1,12 @@
 {
   "id": 795,
   "word": "triga",
-  "translation": "noun: shooter",
+  "translation": "shooter",
   "etymology": "from: trigger-er",
   "link": "#",
   "citations": "373",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

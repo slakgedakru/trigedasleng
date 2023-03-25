@@ -1,11 +1,12 @@
 {
   "id": 2151,
   "word": "plei daun",
-  "translation": "verb: to dismiss, to minimize (struggle/problem)",
+  "translation": "to dismiss, to minimize (struggle/problem)",
   "etymology": "from: play down",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "verb"
 }

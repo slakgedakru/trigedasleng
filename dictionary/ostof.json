@@ -1,11 +1,12 @@
 {
   "id": 525,
   "word": "ostof",
-  "translation": "noun: the rest, the remainder",
+  "translation": "the rest, the remainder",
   "etymology": "from: all-stuff",
   "link": "#",
   "citations": "275",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

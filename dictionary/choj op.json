@@ -1,11 +1,12 @@
 {
   "id": 89,
   "word": "choj op",
-  "translation": "verb: eat",
+  "translation": "eat",
   "etymology": "from: charge up",
   "link": "#",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "verb"
 }

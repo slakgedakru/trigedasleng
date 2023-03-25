@@ -1,11 +1,12 @@
 {
   "id": 225,
   "word": "ginteik",
-  "translation": "noun: treaty",
+  "translation": "treaty",
   "etymology": "from: give-and-take",
   "link": "#",
   "citations": "283",
   "example": "",
   "note": "",
-  "filter": "canon"
+  "filter": "canon",
+  "class": "noun"
 }

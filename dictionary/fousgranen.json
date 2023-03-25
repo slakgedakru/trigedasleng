@@ -1,11 +1,12 @@
 {
   "id": 2149,
   "word": "fousgranen",
-  "translation": "noun: teamwork",
+  "translation": "teamwork",
   "etymology": "from: fous + granen",
   "link": null,
   "citations": null,
   "example": null,
   "note": null,
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "noun"
 }

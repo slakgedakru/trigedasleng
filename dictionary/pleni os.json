@@ -1,11 +1,12 @@
 {
   "id": 1530,
   "word": "pleni os",
-  "translation": "phrase: adequate, good enough, sufficient",
+  "translation": "adequate, good enough, sufficient",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "phrase"
 }

@@ -1,11 +1,12 @@
 {
   "id": 1066,
   "word": "blainen",
-  "translation": "adjective: bright, brilliant, dazzling, luminous, radiant",
+  "translation": "bright, brilliant, dazzling, luminous, radiant",
   "etymology": "from \"blinding\"",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "slakgedasleng noncanon"
+  "filter": "slakgedasleng noncanon",
+  "class": "adjective"
 }

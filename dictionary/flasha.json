@@ -1,11 +1,12 @@
 {
   "id": 1194,
   "word": "flasha",
-  "translation": "noun: torchbearer",
+  "translation": "torchbearer",
   "etymology": "from: unknown",
   "link": "",
   "citations": "",
   "example": "",
   "note": "",
-  "filter": "noncanon"
+  "filter": "noncanon",
+  "class": "noun"
 }
